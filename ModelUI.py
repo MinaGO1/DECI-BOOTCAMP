@@ -2,6 +2,29 @@ import streamlit as st
 import joblib
 import numpy as np
 import pandas as pd
+from sklearn.base import BaseEstimator, TransformerMixin
+
+class ZeroToMeanImputer(BaseEstimator, TransformerMixin):
+    def __init__(self, cols):
+        self.cols = cols
+        self.means_ = {}
+
+    def fit(self, X, y=None):
+        X = X.copy()
+        for col in self.cols:
+            non_zero = X[col].replace(0, np.nan)
+            self.means_[col] = non_zero.mean()
+        return self
+
+    def transform(self, X):
+        X = X.copy()
+        for col in self.cols:
+            X[col] = X[col].replace(0, np.nan)
+            X[col] = X[col].fillna(self.means_[col])
+        return X
+
+    def get_feature_names_out(self, input_features=None):
+        return np.array(self.cols if input_features is None else input_features)
 
 # Load the trained model
 @st.cache_resource
@@ -39,6 +62,19 @@ vehicle_flow = st.number_input(
     help='Average number of vehicles passing per hour while the bridge is open.'
 )
 
+ships_per_day = st.number_input(
+    'Ships per Day',
+    min_value=0, max_value=1000, value=0,
+    help='Average number of ships passing per day.'
+)
+
+delay_per_vehicle = st.number_input(
+    'Delay (min) per Vehicle',
+    min_value=0.0, max_value=60.0, value=0.0,
+    help='Average delay in minutes per vehicle caused by bridge closure.'
+)
+
+
 rush_hour = st.selectbox(
     'Rush Time',
     list(rush_time_map.keys()),
@@ -57,8 +93,11 @@ def encode_inputs():
         closure_min,
         vehicle_flow,
         rush_time_map[rush_hour],
-        period_of_day
+        period_of_day,
+        ships_per_day,
+        delay_per_vehicle
     ]
+
 
 if st.button('Predict'):
     columns = [
@@ -66,8 +105,11 @@ if st.button('Predict'):
         'Closure_min',
         'vehicle_flow_veh_hr',
         'rush_hour',
-        'period_of_day'
+        'period_of_day',
+        'Ships_per_day',
+        'delay_min_per_vehicle'
     ]
+
     features = pd.DataFrame([encode_inputs()], columns=columns)
 
     prediction = model.predict(features)

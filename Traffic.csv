@@ -1,1001 +1,1001 @@
-DateTime,Bridge_Type,Bridge_Name,Ships_per_day,ship_present,Closure_min,vehicle_flow_veh_hr,delay_min_per_vehicle
-2025-05-01 06:51,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3392,0.0
-2025-05-02 18:22,Floating,Martyr-Abul-Makarem,1,YES,22,3367,0.007
-2025-05-03 20:01,Pontoon,Ahmed-el-Mansy,1,YES,15,3256,0.005
-2025-05-04 09:27,Pontoon,Ahmed-el-Mansy,1,YES,17,3061,0.006
-2025-05-05 22:51,Swing,El Ferdan,0,NO,0,3429,0.0
-2025-05-06 18:06,Pontoon,Taha-Zaki-Abdullah,1,YES,18,3449,0.005
-2025-05-07 08:25,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3483,0.0
-2025-05-08 11:07,Floating,Martyr-Abul-Makarem,1,YES,15,2870,0.005
-2025-05-09 05:53,Floating,Martyr-El-Sayed,1,YES,21,3197,0.007
-2025-05-10 09:35,Pontoon,Ahmed-el-Mansy,0,NO,0,3610,0.0
-2025-05-11 07:20,Pontoon,Taha-Zaki-Abdullah,1,YES,14,2985,0.005
-2025-05-12 12:40,Pontoon,Taha-Zaki-Abdullah,1,YES,20,3516,0.006
-2025-05-13 02:34,Swing,El Ferdan,5,YES,90,3441,0.026
-2025-05-14 02:00,Floating,Martyr-Abul-Makarem,0,NO,0,3541,0.0
-2025-05-15 22:13,Floating,Martyr-Abul-Makarem,1,YES,20,3276,0.006
-2025-05-16 19:31,Pontoon,Ahmed-el-Mansy,1,YES,17,3693,0.005
-2025-05-17 03:12,Floating,Martyr-Abul-Makarem,3,YES,49,3125,0.016
-2025-05-18 10:57,Pontoon,Ahmed-el-Mansy,2,YES,28,2944,0.01
-2025-05-19 05:07,Floating,Martyr-Abul-Makarem,1,YES,17,3009,0.006
-2025-05-20 14:58,Swing,El Ferdan,1,YES,15,3003,0.005
-2025-05-21 06:01,Floating,Martyr-Abul-Makarem,1,YES,18,3120,0.006
-2025-05-22 01:27,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3842,0.005
-2025-05-23 05:31,Pontoon,Ahmed-el-Mansy,0,NO,0,2853,0.0
-2025-05-24 05:23,Pontoon,Taha-Zaki-Abdullah,2,YES,31,3080,0.01
-2025-05-25 02:19,Pontoon,Ahmed-el-Mansy,1,YES,13,3270,0.004
-2025-05-26 06:51,Swing,El Ferdan,2,YES,32,3142,0.01
-2025-05-27 15:25,Swing,El Ferdan,1,YES,20,3550,0.006
-2025-05-28 22:08,Swing,El Ferdan,1,YES,18,3435,0.005
-2025-05-29 10:48,Pontoon,Ahmed-el-Mansy,2,YES,41,3035,0.014
-2025-05-30 17:45,Floating,Martyr-El-Sayed,1,YES,18,3135,0.006
-2025-05-31 15:19,Floating,Martyr-Abul-Makarem,2,YES,30,3513,0.009
-2025-06-01 01:20,Swing,El Ferdan,2,YES,32,3543,0.009
-2025-06-02 02:48,Swing,El Ferdan,2,YES,39,3211,0.012
-2025-06-03 13:52,Floating,Martyr-Abul-Makarem,1,YES,19,2965,0.006
-2025-06-04 00:02,Floating,Martyr-El-Sayed,3,YES,50,3567,0.014
-2025-06-05 16:39,Swing,El Ferdan,0,NO,0,3265,0.0
-2025-06-06 21:47,Pontoon,Taha-Zaki-Abdullah,1,YES,20,2819,0.007
-2025-06-07 06:56,Pontoon,Ahmed-el-Mansy,5,YES,93,2689,0.035
-2025-06-08 21:57,Floating,Martyr-El-Sayed,0,NO,0,2982,0.0
-2025-06-09 00:07,Pontoon,Taha-Zaki-Abdullah,2,YES,34,3381,0.01
-2025-06-10 14:34,Pontoon,Ahmed-el-Mansy,0,NO,0,3217,0.0
-2025-06-11 18:27,Floating,Martyr-El-Sayed,0,NO,0,3104,0.0
-2025-06-12 04:25,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3784,0.0
-2025-06-13 00:57,Floating,Martyr-El-Sayed,0,NO,0,3046,0.0
-2025-06-14 01:31,Swing,El Ferdan,1,YES,24,3559,0.007
-2025-06-15 22:02,Pontoon,Ahmed-el-Mansy,1,YES,17,3005,0.006
-2025-06-16 04:46,Swing,El Ferdan,2,YES,38,3883,0.01
-2025-06-17 09:53,Pontoon,Taha-Zaki-Abdullah,1,YES,17,4206,0.004
-2025-06-18 12:03,Floating,Martyr-El-Sayed,0,NO,0,3275,0.0
-2025-06-19 19:23,Pontoon,Ahmed-el-Mansy,1,YES,24,2664,0.009
-2025-06-20 04:11,Floating,Martyr-Abul-Makarem,2,YES,31,3124,0.01
-2025-06-21 17:34,Swing,El Ferdan,1,YES,18,2912,0.006
-2025-06-22 18:40,Pontoon,Ahmed-el-Mansy,1,YES,22,3384,0.007
-2025-06-23 03:09,Pontoon,Taha-Zaki-Abdullah,3,YES,56,3414,0.016
-2025-06-24 04:11,Swing,El Ferdan,2,YES,37,2573,0.014
-2025-06-25 19:47,Swing,El Ferdan,2,YES,33,3823,0.009
-2025-06-26 20:04,Floating,Martyr-Abul-Makarem,2,YES,45,3371,0.013
-2025-06-27 14:11,Swing,El Ferdan,2,YES,35,3108,0.011
-2025-06-28 04:37,Floating,Martyr-Abul-Makarem,3,YES,58,3647,0.016
-2025-06-29 18:43,Floating,Martyr-Abul-Makarem,0,NO,0,2963,0.0
-2025-06-30 18:38,Floating,Martyr-Abul-Makarem,0,NO,0,3683,0.0
-2025-07-01 19:27,Pontoon,Taha-Zaki-Abdullah,3,YES,39,3267,0.012
-2025-07-02 20:05,Floating,Martyr-El-Sayed,0,NO,0,2996,0.0
-2025-07-03 12:46,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3503,0.0
-2025-07-04 17:46,Swing,El Ferdan,0,NO,0,2930,0.0
-2025-07-05 14:30,Swing,El Ferdan,3,YES,52,3485,0.015
-2025-07-06 03:25,Floating,Martyr-El-Sayed,0,NO,0,3010,0.0
-2025-07-07 03:26,Swing,El Ferdan,1,YES,14,2795,0.005
-2025-07-08 12:45,Floating,Martyr-Abul-Makarem,4,YES,71,3656,0.019
-2025-07-09 21:58,Floating,Martyr-Abul-Makarem,1,YES,19,3823,0.005
-2025-07-10 04:37,Floating,Martyr-Abul-Makarem,4,YES,70,3463,0.02
-2025-07-11 01:27,Floating,Martyr-El-Sayed,1,YES,15,3094,0.005
-2025-07-12 00:53,Pontoon,Ahmed-el-Mansy,2,YES,41,3660,0.011
-2025-07-13 01:10,Floating,Martyr-Abul-Makarem,4,YES,76,3509,0.022
-2025-07-14 22:41,Floating,Martyr-Abul-Makarem,3,YES,53,2905,0.018
-2025-07-15 10:47,Floating,Martyr-Abul-Makarem,0,NO,0,3069,0.0
-2025-07-16 22:54,Floating,Martyr-Abul-Makarem,0,NO,0,2919,0.0
-2025-07-17 23:24,Floating,Martyr-Abul-Makarem,4,YES,74,3226,0.023
-2025-07-18 05:00,Pontoon,Taha-Zaki-Abdullah,1,YES,18,2565,0.007
-2025-07-19 12:26,Swing,El Ferdan,0,NO,0,3839,0.0
-2025-07-20 23:29,Floating,Martyr-Abul-Makarem,1,YES,17,3505,0.005
-2025-07-21 16:34,Pontoon,Taha-Zaki-Abdullah,3,YES,58,3174,0.018
-2025-07-22 23:50,Floating,Martyr-Abul-Makarem,2,YES,36,2963,0.012
-2025-07-23 02:50,Swing,El Ferdan,1,YES,22,3317,0.007
-2025-07-24 21:25,Pontoon,Ahmed-el-Mansy,0,NO,0,3145,0.0
-2025-07-25 09:02,Swing,El Ferdan,1,YES,12,3962,0.003
-2025-07-26 07:39,Swing,El Ferdan,1,YES,21,3463,0.006
-2025-07-27 01:58,Floating,Martyr-Abul-Makarem,2,YES,33,3103,0.011
-2025-07-28 10:29,Swing,El Ferdan,0,NO,0,2499,0.0
-2025-07-29 03:23,Floating,Martyr-El-Sayed,2,YES,38,3385,0.011
-2025-07-30 05:50,Swing,El Ferdan,2,YES,36,3442,0.01
-2025-07-31 11:46,Swing,El Ferdan,1,YES,16,2908,0.006
-2025-08-01 03:12,Floating,Martyr-Abul-Makarem,1,YES,19,3870,0.005
-2025-08-02 09:43,Floating,Martyr-El-Sayed,2,YES,33,3481,0.009
-2025-08-03 10:14,Floating,Martyr-Abul-Makarem,4,YES,79,3214,0.025
-2025-08-04 08:36,Pontoon,Ahmed-el-Mansy,0,NO,0,3284,0.0
-2025-08-05 20:36,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3472,0.0
-2025-08-06 12:41,Swing,El Ferdan,2,YES,37,3491,0.011
-2025-08-07 00:22,Swing,El Ferdan,0,NO,0,3178,0.0
-2025-08-08 13:52,Floating,Martyr-Abul-Makarem,1,YES,20,3614,0.006
-2025-08-09 09:51,Pontoon,Taha-Zaki-Abdullah,2,YES,36,3466,0.01
-2025-08-10 00:03,Floating,Martyr-El-Sayed,2,YES,39,3121,0.012
-2025-08-11 11:44,Floating,Martyr-El-Sayed,0,NO,0,3084,0.0
-2025-08-12 18:50,Pontoon,Ahmed-el-Mansy,1,YES,15,3096,0.005
-2025-08-13 09:39,Floating,Martyr-El-Sayed,1,YES,19,4043,0.005
-2025-08-14 00:46,Pontoon,Ahmed-el-Mansy,1,YES,16,3640,0.004
-2025-08-15 08:53,Floating,Martyr-Abul-Makarem,4,YES,75,3202,0.023
-2025-08-16 19:56,Pontoon,Taha-Zaki-Abdullah,1,YES,17,3565,0.005
-2025-08-17 05:01,Floating,Martyr-El-Sayed,3,YES,54,2891,0.019
-2025-08-18 20:23,Swing,El Ferdan,1,YES,19,2944,0.006
-2025-08-19 19:40,Swing,El Ferdan,3,YES,49,2841,0.017
-2025-08-20 23:18,Pontoon,Taha-Zaki-Abdullah,1,YES,12,3340,0.004
-2025-08-21 00:13,Floating,Martyr-Abul-Makarem,1,YES,21,2626,0.008
-2025-08-22 05:50,Pontoon,Ahmed-el-Mansy,0,NO,0,2877,0.0
-2025-08-23 22:38,Floating,Martyr-Abul-Makarem,1,YES,15,3775,0.004
-2025-08-24 22:54,Pontoon,Ahmed-el-Mansy,3,YES,58,3294,0.018
-2025-08-25 14:36,Floating,Martyr-Abul-Makarem,5,YES,83,3390,0.024
-2025-08-26 15:18,Pontoon,Ahmed-el-Mansy,4,YES,75,3534,0.021
-2025-08-27 02:51,Floating,Martyr-El-Sayed,1,YES,17,3238,0.005
-2025-08-28 13:22,Swing,El Ferdan,1,YES,21,3510,0.006
-2025-08-29 06:08,Floating,Martyr-Abul-Makarem,1,YES,21,3339,0.006
-2025-08-30 04:10,Floating,Martyr-El-Sayed,2,YES,37,3046,0.012
-2025-08-31 05:57,Pontoon,Ahmed-el-Mansy,0,NO,0,3736,0.0
-2025-09-01 20:06,Floating,Martyr-El-Sayed,2,YES,39,3257,0.012
-2025-09-02 21:42,Swing,El Ferdan,0,NO,0,2819,0.0
-2025-09-03 20:10,Floating,Martyr-Abul-Makarem,2,YES,35,4039,0.009
-2025-09-04 14:23,Pontoon,Taha-Zaki-Abdullah,1,YES,14,3293,0.004
-2025-09-05 19:42,Swing,El Ferdan,2,YES,36,3303,0.011
-2025-09-06 10:39,Floating,Martyr-El-Sayed,1,YES,17,3157,0.005
-2025-09-07 16:16,Floating,Martyr-El-Sayed,2,YES,38,3456,0.011
-2025-09-08 04:53,Swing,El Ferdan,3,YES,50,4031,0.012
-2025-09-09 06:13,Pontoon,Taha-Zaki-Abdullah,1,YES,17,2960,0.006
-2025-09-10 17:30,Pontoon,Ahmed-el-Mansy,2,YES,35,3119,0.011
-2025-09-11 01:02,Pontoon,Taha-Zaki-Abdullah,1,YES,17,3683,0.005
-2025-09-12 23:48,Pontoon,Ahmed-el-Mansy,1,YES,12,3510,0.003
-2025-09-13 09:43,Floating,Martyr-El-Sayed,0,NO,0,3334,0.0
-2025-09-14 09:33,Floating,Martyr-Abul-Makarem,5,YES,97,3686,0.026
-2025-09-15 06:19,Pontoon,Taha-Zaki-Abdullah,1,YES,12,3160,0.004
-2025-09-16 17:03,Floating,Martyr-El-Sayed,0,NO,0,3239,0.0
-2025-09-17 16:56,Pontoon,Ahmed-el-Mansy,0,NO,0,3320,0.0
-2025-09-18 04:36,Floating,Martyr-Abul-Makarem,6,YES,104,3390,0.031
-2025-09-19 21:46,Swing,El Ferdan,2,YES,38,2737,0.014
-2025-09-20 17:16,Floating,Martyr-Abul-Makarem,1,YES,19,2795,0.007
-2025-09-21 08:03,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3141,0.0
-2025-09-22 08:02,Swing,El Ferdan,1,YES,20,3402,0.006
-2025-09-23 10:58,Floating,Martyr-El-Sayed,1,YES,17,3515,0.005
-2025-09-24 17:05,Pontoon,Taha-Zaki-Abdullah,0,NO,0,2964,0.0
-2025-09-25 12:27,Pontoon,Taha-Zaki-Abdullah,1,YES,18,3559,0.005
-2025-09-26 18:57,Floating,Martyr-Abul-Makarem,1,YES,13,3388,0.004
-2025-09-27 05:23,Floating,Martyr-Abul-Makarem,1,YES,17,3169,0.005
-2025-09-28 12:42,Pontoon,Taha-Zaki-Abdullah,3,YES,58,3004,0.019
-2025-09-29 17:35,Floating,Martyr-El-Sayed,2,YES,34,3257,0.01
-2025-09-30 01:59,Pontoon,Taha-Zaki-Abdullah,1,YES,18,3324,0.005
-2025-10-01 01:27,Pontoon,Ahmed-el-Mansy,0,NO,0,3723,0.0
-2025-10-02 04:28,Pontoon,Ahmed-el-Mansy,0,NO,0,3397,0.0
-2025-10-03 16:09,Swing,El Ferdan,0,NO,0,3068,0.0
-2025-10-04 23:58,Floating,Martyr-El-Sayed,4,YES,80,2815,0.028
-2025-10-05 06:14,Pontoon,Taha-Zaki-Abdullah,1,YES,11,3323,0.003
-2025-10-06 21:10,Floating,Martyr-Abul-Makarem,2,YES,36,3322,0.011
-2025-10-07 04:58,Pontoon,Ahmed-el-Mansy,1,YES,18,3323,0.005
-2025-10-08 05:14,Floating,Martyr-El-Sayed,0,NO,0,3272,0.0
-2025-10-09 11:17,Pontoon,Ahmed-el-Mansy,2,YES,36,3387,0.011
-2025-10-10 14:26,Floating,Martyr-El-Sayed,2,YES,41,2940,0.014
-2025-10-11 16:43,Pontoon,Ahmed-el-Mansy,1,YES,18,3027,0.006
-2025-10-12 21:52,Pontoon,Taha-Zaki-Abdullah,2,YES,36,2896,0.012
-2025-10-13 17:45,Floating,Martyr-Abul-Makarem,3,YES,51,2902,0.018
-2025-10-14 21:27,Pontoon,Ahmed-el-Mansy,2,YES,34,3108,0.011
-2025-10-15 06:01,Floating,Martyr-El-Sayed,2,YES,43,3527,0.012
-2025-10-16 05:08,Swing,El Ferdan,0,NO,0,3793,0.0
-2025-10-17 07:07,Floating,Martyr-El-Sayed,3,YES,63,3655,0.017
-2025-10-18 02:40,Pontoon,Ahmed-el-Mansy,1,YES,19,2940,0.006
-2025-10-19 22:52,Floating,Martyr-Abul-Makarem,0,NO,0,3091,0.0
-2025-10-20 05:17,Floating,Martyr-Abul-Makarem,0,NO,0,2911,0.0
-2025-10-21 02:28,Swing,El Ferdan,1,YES,20,3222,0.006
-2025-10-22 23:19,Pontoon,Taha-Zaki-Abdullah,1,YES,20,3317,0.006
-2025-10-23 03:57,Pontoon,Taha-Zaki-Abdullah,1,YES,21,3645,0.006
-2025-10-24 06:41,Floating,Martyr-Abul-Makarem,2,YES,42,3664,0.011
-2025-10-25 14:32,Floating,Martyr-Abul-Makarem,2,YES,36,2467,0.015
-2025-10-26 05:44,Swing,El Ferdan,0,NO,0,3363,0.0
-2025-10-27 14:13,Swing,El Ferdan,1,YES,14,3571,0.004
-2025-10-28 01:34,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3765,0.0
-2025-10-29 03:44,Floating,Martyr-Abul-Makarem,2,YES,46,3073,0.015
-2025-10-30 08:00,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3700,0.0
-2025-10-31 21:19,Pontoon,Ahmed-el-Mansy,0,NO,0,3505,0.0
-2025-11-01 04:46,Pontoon,Taha-Zaki-Abdullah,3,YES,56,3263,0.017
-2025-11-02 13:01,Swing,El Ferdan,2,YES,33,3193,0.01
-2025-11-03 16:50,Pontoon,Ahmed-el-Mansy,0,NO,0,3384,0.0
-2025-11-04 20:49,Floating,Martyr-Abul-Makarem,0,NO,0,3291,0.0
-2025-11-05 06:30,Floating,Martyr-Abul-Makarem,2,YES,35,3443,0.01
-2025-11-06 22:07,Floating,Martyr-El-Sayed,0,NO,0,3033,0.0
-2025-11-07 05:04,Floating,Martyr-El-Sayed,2,YES,38,3300,0.012
-2025-11-08 16:11,Floating,Martyr-Abul-Makarem,3,YES,53,3338,0.016
-2025-11-09 01:49,Swing,El Ferdan,3,YES,55,3458,0.016
-2025-11-10 03:37,Floating,Martyr-Abul-Makarem,3,YES,53,3254,0.016
-2025-11-11 14:00,Pontoon,Ahmed-el-Mansy,2,YES,46,2604,0.018
-2025-11-12 05:25,Floating,Martyr-Abul-Makarem,2,YES,35,3045,0.011
-2025-11-13 07:47,Floating,Martyr-El-Sayed,1,YES,15,2790,0.005
-2025-11-14 01:47,Pontoon,Taha-Zaki-Abdullah,0,NO,0,2525,0.0
-2025-11-15 22:05,Floating,Martyr-El-Sayed,3,YES,54,2884,0.019
-2025-11-16 12:21,Floating,Martyr-Abul-Makarem,0,NO,0,3105,0.0
-2025-11-17 03:47,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3667,0.005
-2025-11-18 15:41,Pontoon,Ahmed-el-Mansy,3,YES,52,3368,0.015
-2025-11-19 06:55,Swing,El Ferdan,1,YES,18,3415,0.005
-2025-11-20 06:53,Swing,El Ferdan,1,YES,19,3925,0.005
-2025-11-21 08:25,Swing,El Ferdan,1,YES,20,3173,0.006
-2025-11-22 23:15,Swing,El Ferdan,0,NO,0,3034,0.0
-2025-11-23 18:35,Pontoon,Ahmed-el-Mansy,3,YES,53,3400,0.016
-2025-11-24 00:54,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3141,0.0
-2025-11-25 15:36,Floating,Martyr-Abul-Makarem,2,YES,35,3344,0.01
-2025-11-26 02:06,Pontoon,Taha-Zaki-Abdullah,2,YES,39,3094,0.013
-2025-11-27 03:25,Floating,Martyr-El-Sayed,2,YES,45,2743,0.016
-2025-11-28 05:40,Pontoon,Ahmed-el-Mansy,2,YES,33,3069,0.011
-2025-11-29 07:37,Floating,Martyr-El-Sayed,1,YES,14,3193,0.004
-2025-11-30 01:22,Pontoon,Ahmed-el-Mansy,3,YES,49,3438,0.014
-2025-12-01 15:41,Swing,El Ferdan,1,YES,11,3100,0.004
-2025-12-02 22:27,Floating,Martyr-Abul-Makarem,0,NO,0,3613,0.0
-2025-12-03 20:19,Floating,Martyr-El-Sayed,3,YES,52,2902,0.018
-2025-12-04 01:26,Swing,El Ferdan,1,YES,13,2918,0.004
-2025-12-05 03:17,Floating,Martyr-Abul-Makarem,3,YES,40,3907,0.01
-2025-12-06 23:41,Floating,Martyr-Abul-Makarem,1,YES,20,3197,0.006
-2025-12-07 01:26,Floating,Martyr-El-Sayed,0,NO,0,3023,0.0
-2025-12-08 13:19,Floating,Martyr-El-Sayed,2,YES,42,3054,0.014
-2025-12-09 02:34,Swing,El Ferdan,2,YES,40,2233,0.018
-2025-12-10 14:03,Pontoon,Taha-Zaki-Abdullah,2,YES,30,2968,0.01
-2025-12-11 05:31,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3206,0.0
-2025-12-12 01:59,Floating,Martyr-Abul-Makarem,1,YES,16,3069,0.005
-2025-12-13 10:49,Pontoon,Taha-Zaki-Abdullah,1,YES,14,3171,0.004
-2025-12-14 20:08,Pontoon,Ahmed-el-Mansy,1,YES,17,3301,0.005
-2025-12-15 03:03,Swing,El Ferdan,0,NO,0,3072,0.0
-2025-12-16 03:59,Floating,Martyr-El-Sayed,0,NO,0,3097,0.0
-2025-12-17 19:34,Floating,Martyr-Abul-Makarem,2,YES,26,3086,0.008
-2025-12-18 06:04,Swing,El Ferdan,2,YES,37,3119,0.012
-2025-12-19 16:59,Floating,Martyr-Abul-Makarem,2,YES,32,3600,0.009
-2025-12-20 07:34,Swing,El Ferdan,2,YES,34,3030,0.011
-2025-12-21 08:00,Floating,Martyr-El-Sayed,1,YES,18,3526,0.005
-2025-12-22 10:54,Floating,Martyr-El-Sayed,1,YES,19,3172,0.006
-2025-12-23 22:23,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3276,0.0
-2025-12-24 04:07,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3766,0.0
-2025-12-25 22:42,Swing,El Ferdan,0,NO,0,2845,0.0
-2025-12-26 10:51,Floating,Martyr-Abul-Makarem,1,YES,15,3605,0.004
-2025-12-27 09:37,Pontoon,Ahmed-el-Mansy,2,YES,38,3214,0.012
-2025-12-28 22:49,Floating,Martyr-El-Sayed,1,YES,18,3330,0.005
-2025-12-29 20:31,Pontoon,Ahmed-el-Mansy,0,NO,0,3001,0.0
-2025-12-30 07:58,Pontoon,Ahmed-el-Mansy,1,YES,19,3344,0.006
-2025-12-31 11:31,Floating,Martyr-Abul-Makarem,2,YES,36,3329,0.011
-2026-01-01 16:11,Swing,El Ferdan,2,YES,33,3205,0.01
-2026-01-02 21:42,Swing,El Ferdan,1,YES,17,3221,0.005
-2026-01-03 14:51,Floating,Martyr-Abul-Makarem,2,YES,33,2718,0.012
-2026-01-04 04:32,Floating,Martyr-Abul-Makarem,1,YES,20,3364,0.006
-2026-01-05 14:24,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3174,0.0
-2026-01-06 00:43,Pontoon,Taha-Zaki-Abdullah,1,YES,18,3323,0.005
-2026-01-07 01:42,Swing,El Ferdan,2,YES,34,2916,0.012
-2026-01-08 12:08,Pontoon,Ahmed-el-Mansy,4,YES,83,3218,0.026
-2026-01-09 18:36,Floating,Martyr-El-Sayed,1,YES,22,3426,0.006
-2026-01-10 02:25,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3131,0.006
-2026-01-11 12:19,Swing,El Ferdan,2,YES,35,3043,0.012
-2026-01-12 22:51,Pontoon,Ahmed-el-Mansy,0,NO,0,4003,0.0
-2026-01-13 18:30,Pontoon,Ahmed-el-Mansy,2,YES,34,3114,0.011
-2026-01-14 05:52,Pontoon,Ahmed-el-Mansy,1,YES,17,2984,0.006
-2026-01-15 22:32,Floating,Martyr-El-Sayed,1,YES,20,3459,0.006
-2026-01-16 21:44,Swing,El Ferdan,2,YES,32,3138,0.01
-2026-01-17 08:25,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3576,0.0
-2026-01-18 09:49,Floating,Martyr-Abul-Makarem,0,NO,0,3292,0.0
-2026-01-19 12:50,Pontoon,Taha-Zaki-Abdullah,0,NO,0,2719,0.0
-2026-01-20 02:45,Floating,Martyr-El-Sayed,2,YES,40,2916,0.014
-2026-01-21 03:38,Floating,Martyr-El-Sayed,2,YES,35,2950,0.012
-2026-01-22 19:23,Swing,El Ferdan,1,YES,18,3188,0.006
-2026-01-23 06:34,Pontoon,Ahmed-el-Mansy,3,YES,55,3199,0.017
-2026-01-24 10:19,Floating,Martyr-El-Sayed,1,YES,11,3515,0.003
-2026-01-25 06:05,Floating,Martyr-El-Sayed,2,YES,38,3396,0.011
-2026-01-26 13:56,Pontoon,Taha-Zaki-Abdullah,1,YES,20,2916,0.007
-2026-01-27 23:48,Floating,Martyr-Abul-Makarem,3,YES,53,3390,0.016
-2026-01-28 23:33,Pontoon,Ahmed-el-Mansy,1,YES,24,3363,0.007
-2026-01-29 05:45,Floating,Martyr-El-Sayed,1,YES,23,3115,0.007
-2026-01-30 15:50,Pontoon,Taha-Zaki-Abdullah,1,YES,24,3159,0.008
-2026-01-31 09:34,Floating,Martyr-Abul-Makarem,1,YES,19,3037,0.006
-2026-02-01 03:45,Pontoon,Ahmed-el-Mansy,1,YES,16,3141,0.005
-2026-02-02 08:39,Floating,Martyr-El-Sayed,2,YES,37,3040,0.012
-2026-02-03 11:32,Floating,Martyr-El-Sayed,1,YES,21,3401,0.006
-2026-02-04 17:42,Floating,Martyr-Abul-Makarem,1,YES,22,3037,0.007
-2026-02-05 04:20,Swing,El Ferdan,2,YES,35,3056,0.011
-2026-02-06 02:44,Floating,Martyr-Abul-Makarem,1,YES,21,4013,0.005
-2026-02-07 22:07,Pontoon,Taha-Zaki-Abdullah,2,YES,34,3592,0.009
-2026-02-08 00:44,Pontoon,Taha-Zaki-Abdullah,2,YES,38,3606,0.011
-2026-02-09 19:33,Floating,Martyr-El-Sayed,0,NO,0,4026,0.0
-2026-02-10 04:34,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3469,0.005
-2026-02-11 08:20,Floating,Martyr-El-Sayed,3,YES,58,3376,0.017
-2026-02-12 17:57,Floating,Martyr-Abul-Makarem,2,YES,39,3261,0.012
-2026-02-13 19:15,Floating,Martyr-El-Sayed,1,YES,18,3129,0.006
-2026-02-14 07:54,Floating,Martyr-Abul-Makarem,2,YES,41,2854,0.014
-2026-02-15 13:35,Pontoon,Ahmed-el-Mansy,0,NO,0,3334,0.0
-2026-02-16 05:58,Floating,Martyr-Abul-Makarem,1,YES,20,2738,0.007
-2026-02-17 03:52,Floating,Martyr-Abul-Makarem,2,YES,29,3159,0.009
-2026-02-18 13:25,Swing,El Ferdan,2,YES,37,3447,0.011
-2026-02-19 13:55,Pontoon,Taha-Zaki-Abdullah,1,YES,17,2684,0.006
-2026-02-20 10:52,Floating,Martyr-Abul-Makarem,0,NO,0,3161,0.0
-2026-02-21 13:29,Swing,El Ferdan,0,NO,0,3535,0.0
-2026-02-22 08:55,Pontoon,Taha-Zaki-Abdullah,1,YES,23,2762,0.008
-2026-02-23 13:49,Pontoon,Taha-Zaki-Abdullah,1,YES,17,3354,0.005
-2026-02-24 00:52,Pontoon,Taha-Zaki-Abdullah,1,YES,21,3094,0.007
-2026-02-25 21:11,Swing,El Ferdan,1,YES,19,3679,0.005
-2026-02-26 18:03,Pontoon,Ahmed-el-Mansy,0,NO,0,3168,0.0
-2026-02-27 21:11,Pontoon,Taha-Zaki-Abdullah,2,YES,37,3062,0.012
-2026-02-28 21:24,Floating,Martyr-El-Sayed,1,YES,13,3183,0.004
-2026-03-01 07:13,Floating,Martyr-Abul-Makarem,1,YES,12,3538,0.003
-2026-03-02 16:45,Swing,El Ferdan,0,NO,0,3959,0.0
-2026-03-03 10:19,Pontoon,Ahmed-el-Mansy,1,YES,14,3154,0.004
-2026-03-04 09:42,Swing,El Ferdan,1,YES,15,3330,0.005
-2026-03-05 18:58,Swing,El Ferdan,0,NO,0,3161,0.0
-2026-03-06 10:12,Pontoon,Taha-Zaki-Abdullah,1,YES,18,3499,0.005
-2026-03-07 20:44,Pontoon,Ahmed-el-Mansy,1,YES,17,3456,0.005
-2026-03-08 13:22,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3136,0.006
-2026-03-09 03:29,Swing,El Ferdan,1,YES,20,3186,0.006
-2026-03-10 19:48,Swing,El Ferdan,1,YES,15,3092,0.005
-2026-03-11 08:09,Floating,Martyr-El-Sayed,3,YES,57,3312,0.017
-2026-03-12 02:15,Floating,Martyr-El-Sayed,0,NO,0,3755,0.0
-2026-03-13 11:34,Floating,Martyr-Abul-Makarem,2,YES,33,3629,0.009
-2026-03-14 05:27,Pontoon,Taha-Zaki-Abdullah,2,YES,31,2921,0.011
-2026-03-15 11:33,Floating,Martyr-Abul-Makarem,2,YES,35,3669,0.01
-2026-03-16 04:06,Pontoon,Ahmed-el-Mansy,0,NO,0,4176,0.0
-2026-03-17 00:00,Pontoon,Ahmed-el-Mansy,1,YES,22,3100,0.007
-2026-03-18 10:48,Swing,El Ferdan,2,YES,40,3236,0.012
-2026-03-19 23:23,Floating,Martyr-Abul-Makarem,1,YES,15,3215,0.005
-2026-03-20 10:26,Floating,Martyr-El-Sayed,1,YES,18,3237,0.006
-2026-03-21 09:36,Floating,Martyr-El-Sayed,0,NO,0,2896,0.0
-2026-03-22 09:59,Pontoon,Taha-Zaki-Abdullah,1,YES,18,3296,0.005
-2026-03-23 12:58,Pontoon,Ahmed-el-Mansy,0,NO,0,3244,0.0
-2026-03-24 12:33,Pontoon,Taha-Zaki-Abdullah,3,YES,51,3199,0.016
-2026-03-25 11:20,Pontoon,Ahmed-el-Mansy,2,YES,36,3142,0.011
-2026-03-26 03:50,Pontoon,Taha-Zaki-Abdullah,4,YES,65,2792,0.023
-2026-03-27 20:33,Floating,Martyr-Abul-Makarem,1,YES,19,3046,0.006
-2026-03-28 23:19,Swing,El Ferdan,2,YES,37,3241,0.011
-2026-03-29 11:51,Floating,Martyr-El-Sayed,2,YES,39,3183,0.012
-2026-03-30 16:50,Pontoon,Taha-Zaki-Abdullah,3,YES,58,3190,0.018
-2026-03-31 19:44,Swing,El Ferdan,1,YES,18,3015,0.006
-2026-04-01 02:58,Pontoon,Taha-Zaki-Abdullah,3,YES,56,3535,0.016
-2026-04-02 09:20,Pontoon,Ahmed-el-Mansy,1,YES,21,3535,0.006
-2026-04-03 06:29,Floating,Martyr-Abul-Makarem,3,YES,60,3606,0.017
-2026-04-04 03:34,Floating,Martyr-El-Sayed,0,NO,0,3462,0.0
-2026-04-05 22:08,Floating,Martyr-El-Sayed,0,NO,0,2757,0.0
-2026-04-06 05:10,Floating,Martyr-Abul-Makarem,2,YES,29,3350,0.009
-2026-04-07 01:41,Pontoon,Ahmed-el-Mansy,1,YES,18,3037,0.006
-2026-04-08 14:30,Pontoon,Ahmed-el-Mansy,2,YES,32,3267,0.01
-2026-04-09 06:00,Swing,El Ferdan,3,YES,51,3252,0.016
-2026-04-10 09:09,Pontoon,Ahmed-el-Mansy,1,YES,21,2918,0.007
-2026-04-11 13:51,Pontoon,Taha-Zaki-Abdullah,2,YES,40,3097,0.013
-2026-04-12 17:11,Floating,Martyr-El-Sayed,0,NO,0,3092,0.0
-2026-04-13 11:48,Swing,El Ferdan,0,NO,0,3295,0.0
-2026-04-14 17:31,Swing,El Ferdan,0,NO,0,3497,0.0
-2026-04-15 10:56,Swing,El Ferdan,0,NO,0,2989,0.0
-2026-04-16 08:26,Floating,Martyr-El-Sayed,1,YES,18,3533,0.005
-2026-04-17 16:05,Pontoon,Ahmed-el-Mansy,1,YES,18,3083,0.006
-2026-04-18 23:54,Floating,Martyr-El-Sayed,0,NO,0,3415,0.0
-2026-04-19 04:32,Pontoon,Ahmed-el-Mansy,0,NO,0,3141,0.0
-2026-04-20 03:46,Swing,El Ferdan,1,YES,20,3611,0.006
-2026-04-21 09:16,Pontoon,Taha-Zaki-Abdullah,1,YES,18,3583,0.005
-2026-04-22 15:17,Floating,Martyr-Abul-Makarem,1,YES,17,3685,0.005
-2026-04-23 12:35,Floating,Martyr-El-Sayed,0,NO,0,3138,0.0
-2026-04-24 23:21,Swing,El Ferdan,2,YES,44,3200,0.014
-2026-04-25 03:17,Floating,Martyr-Abul-Makarem,1,YES,23,3021,0.008
-2026-04-26 21:00,Pontoon,Ahmed-el-Mansy,0,NO,0,3284,0.0
-2026-04-27 16:53,Floating,Martyr-El-Sayed,1,YES,17,2925,0.006
-2026-04-28 05:23,Floating,Martyr-El-Sayed,0,NO,0,3486,0.0
-2026-04-29 03:13,Floating,Martyr-El-Sayed,0,NO,0,2992,0.0
-2026-04-30 11:53,Pontoon,Ahmed-el-Mansy,0,NO,0,3608,0.0
-2026-05-01 10:24,Pontoon,Ahmed-el-Mansy,0,NO,0,3673,0.0
-2026-05-02 22:27,Swing,El Ferdan,2,YES,34,3307,0.01
-2026-05-03 05:06,Pontoon,Taha-Zaki-Abdullah,1,YES,20,2882,0.007
-2026-05-04 11:15,Floating,Martyr-Abul-Makarem,3,YES,54,3486,0.015
-2026-05-05 12:21,Floating,Martyr-Abul-Makarem,1,YES,16,3010,0.005
-2026-05-06 12:14,Pontoon,Ahmed-el-Mansy,1,YES,20,3265,0.006
-2026-05-07 21:40,Swing,El Ferdan,0,NO,0,3137,0.0
-2026-05-08 09:58,Pontoon,Taha-Zaki-Abdullah,2,YES,38,3405,0.011
-2026-05-09 14:51,Pontoon,Ahmed-el-Mansy,1,YES,21,3584,0.006
-2026-05-10 17:04,Pontoon,Ahmed-el-Mansy,2,YES,38,3251,0.012
-2026-05-11 20:45,Pontoon,Taha-Zaki-Abdullah,3,YES,45,3576,0.013
-2026-05-12 07:43,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3304,0.0
-2026-05-13 00:16,Floating,Martyr-Abul-Makarem,2,YES,33,3857,0.009
-2026-05-14 22:37,Floating,Martyr-El-Sayed,1,YES,14,3377,0.004
-2026-05-15 22:07,Pontoon,Taha-Zaki-Abdullah,2,YES,35,2786,0.013
-2026-05-16 16:58,Pontoon,Ahmed-el-Mansy,2,YES,37,3438,0.011
-2026-05-17 23:41,Pontoon,Ahmed-el-Mansy,0,NO,0,2869,0.0
-2026-05-18 22:07,Floating,Martyr-Abul-Makarem,0,NO,0,3082,0.0
-2026-05-19 11:12,Pontoon,Taha-Zaki-Abdullah,0,NO,0,2812,0.0
-2026-05-20 08:53,Floating,Martyr-Abul-Makarem,2,YES,42,3224,0.013
-2026-05-21 13:16,Floating,Martyr-El-Sayed,2,YES,37,3167,0.012
-2026-05-22 00:57,Floating,Martyr-El-Sayed,1,YES,13,3259,0.004
-2026-05-23 08:04,Floating,Martyr-El-Sayed,1,YES,15,3462,0.004
-2026-05-24 03:04,Floating,Martyr-Abul-Makarem,1,YES,21,3107,0.007
-2026-05-25 12:59,Floating,Martyr-El-Sayed,3,YES,46,3359,0.014
-2026-05-26 18:47,Pontoon,Ahmed-el-Mansy,1,YES,20,3140,0.006
-2026-05-27 00:02,Floating,Martyr-Abul-Makarem,2,YES,42,2716,0.015
-2026-05-28 22:44,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3976,0.005
-2026-05-29 21:05,Pontoon,Taha-Zaki-Abdullah,1,YES,21,3548,0.006
-2026-05-30 21:46,Pontoon,Ahmed-el-Mansy,1,YES,18,3615,0.005
-2026-05-31 04:12,Floating,Martyr-El-Sayed,1,YES,20,3509,0.006
-2026-06-01 13:56,Floating,Martyr-Abul-Makarem,2,YES,39,3720,0.01
-2026-06-02 07:48,Floating,Martyr-Abul-Makarem,2,YES,31,3482,0.009
-2026-06-03 21:56,Swing,El Ferdan,1,YES,14,3541,0.004
-2026-06-04 05:48,Swing,El Ferdan,1,YES,20,3235,0.006
-2026-06-05 01:39,Floating,Martyr-Abul-Makarem,1,YES,19,3188,0.006
-2026-06-06 08:28,Swing,El Ferdan,1,YES,18,3567,0.005
-2026-06-07 14:44,Swing,El Ferdan,1,YES,21,2519,0.008
-2026-06-08 03:17,Swing,El Ferdan,0,NO,0,3293,0.0
-2026-06-09 19:34,Floating,Martyr-El-Sayed,2,YES,45,3341,0.013
-2026-06-10 07:18,Pontoon,Taha-Zaki-Abdullah,3,YES,64,2951,0.022
-2026-06-11 09:24,Pontoon,Ahmed-el-Mansy,2,YES,35,3655,0.01
-2026-06-12 07:06,Floating,Martyr-Abul-Makarem,3,YES,51,3178,0.016
-2026-06-13 04:26,Pontoon,Ahmed-el-Mansy,1,YES,16,3710,0.004
-2026-06-14 21:55,Floating,Martyr-Abul-Makarem,1,YES,22,2901,0.008
-2026-06-15 01:29,Pontoon,Ahmed-el-Mansy,3,YES,59,3199,0.018
-2026-06-16 08:56,Floating,Martyr-El-Sayed,2,YES,37,2848,0.013
-2026-06-17 19:40,Swing,El Ferdan,1,YES,19,3001,0.006
-2026-06-18 02:15,Floating,Martyr-El-Sayed,1,YES,16,3276,0.005
-2026-06-19 06:26,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3779,0.005
-2026-06-20 18:19,Floating,Martyr-Abul-Makarem,1,YES,16,3493,0.005
-2026-06-21 00:31,Swing,El Ferdan,1,YES,15,3209,0.005
-2026-06-22 20:14,Floating,Martyr-Abul-Makarem,2,YES,38,3467,0.011
-2026-06-23 12:27,Swing,El Ferdan,0,NO,0,2790,0.0
-2026-06-24 03:18,Swing,El Ferdan,0,NO,0,3404,0.0
-2026-06-25 08:44,Floating,Martyr-El-Sayed,1,YES,18,3881,0.005
-2026-06-26 21:49,Floating,Martyr-Abul-Makarem,1,YES,19,3339,0.006
-2026-06-27 03:28,Floating,Martyr-Abul-Makarem,1,YES,23,3664,0.006
-2026-06-28 08:41,Floating,Martyr-El-Sayed,1,YES,19,3179,0.006
-2026-06-29 19:46,Swing,El Ferdan,0,NO,0,2975,0.0
-2026-06-30 07:10,Pontoon,Taha-Zaki-Abdullah,1,YES,16,3728,0.004
-2026-07-01 15:54,Floating,Martyr-El-Sayed,2,YES,44,3042,0.014
-2026-07-02 02:09,Swing,El Ferdan,0,NO,0,3131,0.0
-2026-07-03 05:42,Swing,El Ferdan,3,YES,61,3566,0.017
-2026-07-04 07:35,Floating,Martyr-El-Sayed,2,YES,36,3507,0.01
-2026-07-05 10:57,Swing,El Ferdan,0,NO,0,2750,0.0
-2026-07-06 10:53,Pontoon,Ahmed-el-Mansy,0,NO,0,3737,0.0
-2026-07-07 00:54,Floating,Martyr-Abul-Makarem,2,YES,34,3487,0.01
-2026-07-08 12:46,Pontoon,Ahmed-el-Mansy,2,YES,37,3483,0.011
-2026-07-09 09:22,Swing,El Ferdan,1,YES,19,3414,0.006
-2026-07-10 22:45,Pontoon,Taha-Zaki-Abdullah,1,YES,20,3252,0.006
-2026-07-11 00:48,Pontoon,Taha-Zaki-Abdullah,1,YES,17,3559,0.005
-2026-07-12 08:53,Pontoon,Taha-Zaki-Abdullah,4,YES,68,2938,0.023
-2026-07-13 22:44,Swing,El Ferdan,4,YES,74,3075,0.024
-2026-07-14 18:13,Floating,Martyr-El-Sayed,1,YES,18,2791,0.006
-2026-07-15 10:13,Floating,Martyr-Abul-Makarem,1,YES,19,3261,0.006
-2026-07-16 08:46,Swing,El Ferdan,1,YES,21,3566,0.006
-2026-07-17 00:28,Floating,Martyr-El-Sayed,1,YES,17,3266,0.005
-2026-07-18 14:12,Swing,El Ferdan,2,YES,37,3337,0.011
-2026-07-19 02:06,Floating,Martyr-El-Sayed,1,YES,17,3236,0.005
-2026-07-20 14:28,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3020,0.0
-2026-07-21 15:24,Pontoon,Ahmed-el-Mansy,2,YES,36,3133,0.011
-2026-07-22 06:13,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3047,0.0
-2026-07-23 01:40,Pontoon,Taha-Zaki-Abdullah,1,YES,23,2927,0.008
-2026-07-24 17:50,Floating,Martyr-El-Sayed,0,NO,0,3167,0.0
-2026-07-25 07:35,Pontoon,Ahmed-el-Mansy,2,YES,40,3252,0.012
-2026-07-26 19:28,Floating,Martyr-Abul-Makarem,0,NO,0,3024,0.0
-2026-07-27 13:39,Floating,Martyr-Abul-Makarem,2,YES,35,3131,0.011
-2026-07-28 10:01,Swing,El Ferdan,1,YES,18,3076,0.006
-2026-07-29 08:57,Floating,Martyr-El-Sayed,3,YES,57,3459,0.016
-2026-07-30 06:27,Swing,El Ferdan,1,YES,17,3043,0.006
-2026-07-31 02:20,Floating,Martyr-El-Sayed,3,YES,56,3054,0.018
-2026-08-01 07:44,Floating,Martyr-Abul-Makarem,4,YES,58,3225,0.018
-2026-08-02 05:56,Floating,Martyr-Abul-Makarem,2,YES,35,3067,0.011
-2026-08-03 13:12,Floating,Martyr-Abul-Makarem,1,YES,21,3411,0.006
-2026-08-04 03:31,Pontoon,Ahmed-el-Mansy,2,YES,31,3081,0.01
-2026-08-05 02:14,Pontoon,Taha-Zaki-Abdullah,3,YES,45,3118,0.014
-2026-08-06 12:37,Floating,Martyr-El-Sayed,1,YES,23,3037,0.008
-2026-08-07 15:26,Pontoon,Ahmed-el-Mansy,4,YES,73,2902,0.025
-2026-08-08 02:51,Floating,Martyr-Abul-Makarem,2,YES,35,3436,0.01
-2026-08-09 03:31,Floating,Martyr-Abul-Makarem,0,NO,0,3648,0.0
-2026-08-10 02:15,Pontoon,Taha-Zaki-Abdullah,4,YES,70,3461,0.02
-2026-08-11 13:33,Pontoon,Ahmed-el-Mansy,1,YES,18,3585,0.005
-2026-08-12 19:37,Swing,El Ferdan,3,YES,58,3297,0.018
-2026-08-13 08:53,Floating,Martyr-El-Sayed,3,YES,55,3196,0.017
-2026-08-14 07:53,Pontoon,Ahmed-el-Mansy,2,YES,29,3156,0.009
-2026-08-15 04:48,Floating,Martyr-El-Sayed,3,YES,54,3328,0.016
-2026-08-16 15:45,Floating,Martyr-Abul-Makarem,0,NO,0,3438,0.0
-2026-08-17 23:08,Floating,Martyr-Abul-Makarem,0,NO,0,3008,0.0
-2026-08-18 04:41,Swing,El Ferdan,3,YES,53,3342,0.016
-2026-08-19 18:45,Floating,Martyr-Abul-Makarem,2,YES,34,3619,0.009
-2026-08-20 04:56,Pontoon,Ahmed-el-Mansy,1,YES,10,2889,0.003
-2026-08-21 23:59,Floating,Martyr-El-Sayed,1,YES,15,3113,0.005
-2026-08-22 04:25,Pontoon,Ahmed-el-Mansy,0,NO,0,3304,0.0
-2026-08-23 05:23,Floating,Martyr-El-Sayed,3,YES,55,2912,0.019
-2026-08-24 11:47,Pontoon,Ahmed-el-Mansy,1,YES,12,3131,0.004
-2026-08-25 22:41,Pontoon,Taha-Zaki-Abdullah,1,YES,20,3742,0.005
-2026-08-26 18:11,Swing,El Ferdan,2,YES,38,3235,0.012
-2026-08-27 15:08,Pontoon,Ahmed-el-Mansy,2,YES,31,3566,0.009
-2026-08-28 22:38,Pontoon,Ahmed-el-Mansy,1,YES,18,3653,0.005
-2026-08-29 12:56,Pontoon,Ahmed-el-Mansy,2,YES,32,2982,0.011
-2026-08-30 05:55,Pontoon,Ahmed-el-Mansy,0,NO,0,3370,0.0
-2026-08-31 02:27,Floating,Martyr-Abul-Makarem,0,NO,0,3085,0.0
-2026-09-01 05:07,Swing,El Ferdan,1,YES,21,3621,0.006
-2026-09-02 04:51,Swing,El Ferdan,0,NO,0,2986,0.0
-2026-09-03 20:57,Pontoon,Ahmed-el-Mansy,0,NO,0,3338,0.0
-2026-09-04 19:51,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3362,0.0
-2026-09-05 03:32,Swing,El Ferdan,1,YES,20,3241,0.006
-2026-09-06 12:22,Floating,Martyr-Abul-Makarem,0,NO,0,3229,0.0
-2026-09-07 16:27,Swing,El Ferdan,3,YES,58,3688,0.016
-2026-09-08 17:12,Floating,Martyr-Abul-Makarem,0,NO,0,2988,0.0
-2026-09-09 20:47,Swing,El Ferdan,3,YES,52,3096,0.017
-2026-09-10 19:08,Swing,El Ferdan,2,YES,29,3289,0.009
-2026-09-11 07:07,Floating,Martyr-Abul-Makarem,0,NO,0,3275,0.0
-2026-09-12 00:42,Floating,Martyr-El-Sayed,2,YES,36,3455,0.01
-2026-09-13 22:55,Floating,Martyr-El-Sayed,1,YES,24,2999,0.008
-2026-09-14 16:34,Floating,Martyr-Abul-Makarem,1,YES,18,3277,0.005
-2026-09-15 18:38,Pontoon,Ahmed-el-Mansy,2,YES,39,2802,0.014
-2026-09-16 04:50,Pontoon,Ahmed-el-Mansy,1,YES,21,3691,0.006
-2026-09-17 13:18,Floating,Martyr-El-Sayed,1,YES,21,3113,0.007
-2026-09-18 09:17,Swing,El Ferdan,1,YES,20,3192,0.006
-2026-09-19 11:26,Swing,El Ferdan,0,NO,0,2944,0.0
-2026-09-20 22:13,Pontoon,Taha-Zaki-Abdullah,1,YES,21,3193,0.007
-2026-09-21 09:08,Floating,Martyr-El-Sayed,1,YES,13,3083,0.004
-2026-09-22 02:57,Floating,Martyr-Abul-Makarem,0,NO,0,2988,0.0
-2026-09-23 14:34,Pontoon,Ahmed-el-Mansy,1,YES,20,3382,0.006
-2026-09-24 17:19,Pontoon,Ahmed-el-Mansy,2,YES,32,3091,0.01
-2026-09-25 19:48,Pontoon,Ahmed-el-Mansy,0,NO,0,2933,0.0
-2026-09-26 00:51,Pontoon,Taha-Zaki-Abdullah,1,YES,14,3846,0.004
-2026-09-27 20:23,Swing,El Ferdan,1,YES,18,3173,0.006
-2026-09-28 20:27,Floating,Martyr-Abul-Makarem,3,YES,57,2976,0.019
-2026-09-29 22:36,Floating,Martyr-Abul-Makarem,1,YES,18,3046,0.006
-2026-09-30 00:39,Pontoon,Ahmed-el-Mansy,2,YES,38,3367,0.011
-2026-10-01 21:27,Floating,Martyr-El-Sayed,1,YES,23,3040,0.008
-2026-10-02 01:54,Pontoon,Ahmed-el-Mansy,0,NO,0,3477,0.0
-2026-10-03 00:54,Pontoon,Taha-Zaki-Abdullah,1,YES,12,3558,0.003
-2026-10-04 20:14,Swing,El Ferdan,0,NO,0,3292,0.0
-2026-10-05 14:16,Swing,El Ferdan,1,YES,19,3117,0.006
-2026-10-06 12:05,Floating,Martyr-Abul-Makarem,0,NO,0,3562,0.0
-2026-10-07 14:07,Pontoon,Taha-Zaki-Abdullah,3,YES,59,2820,0.021
-2026-10-08 14:04,Floating,Martyr-El-Sayed,1,YES,18,3265,0.006
-2026-10-09 16:56,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3272,0.0
-2026-10-10 10:46,Pontoon,Ahmed-el-Mansy,2,YES,32,3300,0.01
-2026-10-11 11:39,Pontoon,Taha-Zaki-Abdullah,3,YES,54,3339,0.016
-2026-10-12 14:46,Pontoon,Ahmed-el-Mansy,1,YES,18,2794,0.006
-2026-10-13 01:30,Floating,Martyr-Abul-Makarem,0,NO,0,3776,0.0
-2026-10-14 08:38,Pontoon,Taha-Zaki-Abdullah,1,YES,18,2573,0.007
-2026-10-15 15:34,Floating,Martyr-El-Sayed,1,YES,16,3103,0.005
-2026-10-16 01:42,Pontoon,Taha-Zaki-Abdullah,1,YES,22,3326,0.007
-2026-10-17 05:31,Floating,Martyr-El-Sayed,2,YES,37,2720,0.014
-2026-10-18 15:55,Floating,Martyr-Abul-Makarem,3,YES,50,3140,0.016
-2026-10-19 23:05,Floating,Martyr-Abul-Makarem,3,YES,60,3358,0.018
-2026-10-20 08:08,Floating,Martyr-El-Sayed,1,YES,19,2689,0.007
-2026-10-21 01:44,Swing,El Ferdan,3,YES,50,3231,0.015
-2026-10-22 20:20,Pontoon,Taha-Zaki-Abdullah,1,YES,15,2960,0.005
-2026-10-23 09:17,Floating,Martyr-Abul-Makarem,0,NO,0,2677,0.0
-2026-10-24 20:58,Floating,Martyr-El-Sayed,2,YES,42,2935,0.014
-2026-10-25 12:03,Floating,Martyr-El-Sayed,0,NO,0,3978,0.0
-2026-10-26 07:06,Pontoon,Ahmed-el-Mansy,3,YES,58,2654,0.022
-2026-10-27 11:36,Floating,Martyr-El-Sayed,4,YES,75,3059,0.025
-2026-10-28 04:26,Pontoon,Ahmed-el-Mansy,2,YES,32,3365,0.01
-2026-10-29 12:18,Floating,Martyr-El-Sayed,0,NO,0,3133,0.0
-2026-10-30 21:28,Pontoon,Ahmed-el-Mansy,2,YES,30,3478,0.009
-2026-10-31 19:08,Pontoon,Ahmed-el-Mansy,0,NO,0,2906,0.0
-2026-11-01 04:19,Floating,Martyr-Abul-Makarem,1,YES,17,3188,0.005
-2026-11-02 09:08,Floating,Martyr-El-Sayed,1,YES,17,2939,0.006
-2026-11-03 02:56,Pontoon,Taha-Zaki-Abdullah,1,YES,25,3064,0.008
-2026-11-04 19:09,Floating,Martyr-El-Sayed,2,YES,36,2748,0.013
-2026-11-05 10:54,Pontoon,Taha-Zaki-Abdullah,1,YES,16,2964,0.005
-2026-11-06 09:06,Floating,Martyr-El-Sayed,2,YES,32,3168,0.01
-2026-11-07 10:44,Floating,Martyr-Abul-Makarem,1,YES,23,3706,0.006
-2026-11-08 15:01,Pontoon,Ahmed-el-Mansy,0,NO,0,2948,0.0
-2026-11-09 09:59,Floating,Martyr-El-Sayed,0,NO,0,3146,0.0
-2026-11-10 12:55,Swing,El Ferdan,1,YES,15,3432,0.004
-2026-11-11 19:49,Floating,Martyr-Abul-Makarem,0,NO,0,2771,0.0
-2026-11-12 08:11,Floating,Martyr-El-Sayed,0,NO,0,3758,0.0
-2026-11-13 01:47,Pontoon,Ahmed-el-Mansy,2,YES,41,3600,0.011
-2026-11-14 01:28,Pontoon,Ahmed-el-Mansy,1,YES,20,3232,0.006
-2026-11-15 13:13,Pontoon,Taha-Zaki-Abdullah,1,YES,17,3198,0.005
-2026-11-16 23:05,Pontoon,Ahmed-el-Mansy,5,YES,94,3179,0.03
-2026-11-17 04:03,Pontoon,Taha-Zaki-Abdullah,2,YES,34,3601,0.009
-2026-11-18 12:22,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3443,0.006
-2026-11-19 12:26,Pontoon,Ahmed-el-Mansy,1,YES,20,3151,0.006
-2026-11-20 20:30,Floating,Martyr-Abul-Makarem,1,YES,18,3159,0.006
-2026-11-21 07:12,Floating,Martyr-Abul-Makarem,4,YES,63,3230,0.02
-2026-11-22 21:25,Floating,Martyr-Abul-Makarem,2,YES,31,3172,0.01
-2026-11-23 01:28,Pontoon,Ahmed-el-Mansy,1,YES,19,2968,0.006
-2026-11-24 02:04,Floating,Martyr-Abul-Makarem,0,NO,0,2776,0.0
-2026-11-25 06:03,Floating,Martyr-Abul-Makarem,2,YES,36,2728,0.013
-2026-11-26 20:44,Floating,Martyr-Abul-Makarem,0,NO,0,3233,0.0
-2026-11-27 10:12,Pontoon,Ahmed-el-Mansy,4,YES,64,3303,0.019
-2026-11-28 05:45,Pontoon,Ahmed-el-Mansy,1,YES,23,3422,0.007
-2026-11-29 23:06,Floating,Martyr-Abul-Makarem,4,YES,76,3438,0.022
-2026-11-30 06:45,Floating,Martyr-El-Sayed,2,YES,37,2956,0.013
-2026-12-01 14:56,Floating,Martyr-El-Sayed,2,YES,33,3209,0.01
-2026-12-02 18:37,Floating,Martyr-El-Sayed,2,YES,36,2577,0.014
-2026-12-03 09:06,Swing,El Ferdan,1,YES,25,3087,0.008
-2026-12-04 17:37,Floating,Martyr-Abul-Makarem,1,YES,15,3142,0.005
-2026-12-05 16:03,Floating,Martyr-Abul-Makarem,1,YES,18,3127,0.006
-2026-12-06 02:07,Pontoon,Taha-Zaki-Abdullah,1,YES,24,3350,0.007
-2026-12-07 13:56,Floating,Martyr-El-Sayed,0,NO,0,3297,0.0
-2026-12-08 03:36,Swing,El Ferdan,1,YES,21,3332,0.006
-2026-12-09 21:10,Floating,Martyr-El-Sayed,3,YES,43,3219,0.013
-2026-12-10 04:17,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3102,0.0
-2026-12-11 09:32,Floating,Martyr-El-Sayed,2,YES,37,3197,0.012
-2026-12-12 19:38,Pontoon,Taha-Zaki-Abdullah,0,NO,0,2929,0.0
-2026-12-13 17:02,Floating,Martyr-Abul-Makarem,4,YES,62,3232,0.019
-2026-12-14 22:56,Pontoon,Taha-Zaki-Abdullah,2,YES,34,3401,0.01
-2026-12-15 22:48,Swing,El Ferdan,0,NO,0,3380,0.0
-2026-12-16 04:41,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3072,0.006
-2026-12-17 14:02,Floating,Martyr-Abul-Makarem,1,YES,19,2750,0.007
-2026-12-18 05:12,Pontoon,Taha-Zaki-Abdullah,1,YES,22,3190,0.007
-2026-12-19 03:50,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3306,0.0
-2026-12-20 07:22,Pontoon,Taha-Zaki-Abdullah,1,YES,16,3153,0.005
-2026-12-21 06:14,Floating,Martyr-El-Sayed,0,NO,0,3881,0.0
-2026-12-22 00:09,Floating,Martyr-Abul-Makarem,2,YES,40,3473,0.012
-2026-12-23 13:40,Pontoon,Ahmed-el-Mansy,2,YES,33,3596,0.009
-2026-12-24 14:08,Pontoon,Ahmed-el-Mansy,1,YES,22,3265,0.007
-2026-12-25 23:47,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3397,0.0
-2026-12-26 19:53,Floating,Martyr-El-Sayed,3,YES,49,3145,0.016
-2026-12-27 21:44,Pontoon,Ahmed-el-Mansy,2,YES,36,3409,0.011
-2026-12-28 00:18,Pontoon,Ahmed-el-Mansy,2,YES,32,3377,0.009
-2026-12-29 02:39,Pontoon,Taha-Zaki-Abdullah,2,YES,42,3402,0.012
-2026-12-30 07:20,Swing,El Ferdan,1,YES,23,3572,0.006
-2026-12-31 10:22,Pontoon,Taha-Zaki-Abdullah,2,YES,41,2842,0.014
-2027-01-01 12:43,Floating,Martyr-El-Sayed,0,NO,0,3088,0.0
-2027-01-02 06:49,Pontoon,Ahmed-el-Mansy,1,YES,20,3086,0.006
-2027-01-03 20:25,Pontoon,Taha-Zaki-Abdullah,1,YES,23,3090,0.007
-2027-01-04 16:27,Swing,El Ferdan,0,NO,0,2779,0.0
-2027-01-05 17:40,Floating,Martyr-Abul-Makarem,1,YES,18,3141,0.006
-2027-01-06 07:02,Pontoon,Taha-Zaki-Abdullah,1,YES,21,3886,0.005
-2027-01-07 23:44,Floating,Martyr-Abul-Makarem,1,YES,21,3305,0.006
-2027-01-08 01:28,Floating,Martyr-Abul-Makarem,2,YES,30,3134,0.01
-2027-01-09 07:54,Floating,Martyr-El-Sayed,1,YES,17,2783,0.006
-2027-01-10 08:47,Floating,Martyr-Abul-Makarem,0,NO,0,3808,0.0
-2027-01-11 09:09,Swing,El Ferdan,0,NO,0,3034,0.0
-2027-01-12 08:30,Pontoon,Ahmed-el-Mansy,4,YES,74,3593,0.021
-2027-01-13 12:03,Floating,Martyr-El-Sayed,1,YES,19,2973,0.006
-2027-01-14 13:08,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3132,0.0
-2027-01-15 04:09,Pontoon,Ahmed-el-Mansy,2,YES,28,3125,0.009
-2027-01-16 07:38,Pontoon,Taha-Zaki-Abdullah,2,YES,41,3221,0.013
-2027-01-17 16:44,Floating,Martyr-El-Sayed,3,YES,51,3055,0.017
-2027-01-18 04:18,Floating,Martyr-Abul-Makarem,0,NO,0,2945,0.0
-2027-01-19 14:15,Swing,El Ferdan,2,YES,36,3212,0.011
-2027-01-20 18:48,Swing,El Ferdan,1,YES,19,3142,0.006
-2027-01-21 16:44,Pontoon,Taha-Zaki-Abdullah,2,YES,42,3514,0.012
-2027-01-22 22:16,Floating,Martyr-Abul-Makarem,1,YES,21,3065,0.007
-2027-01-23 05:13,Floating,Martyr-Abul-Makarem,2,YES,40,3207,0.012
-2027-01-24 06:08,Pontoon,Taha-Zaki-Abdullah,3,YES,55,3271,0.017
-2027-01-25 15:37,Pontoon,Ahmed-el-Mansy,0,NO,0,3204,0.0
-2027-01-26 10:41,Pontoon,Taha-Zaki-Abdullah,2,YES,30,3020,0.01
-2027-01-27 15:30,Swing,El Ferdan,1,YES,11,2784,0.004
-2027-01-28 17:14,Floating,Martyr-Abul-Makarem,2,YES,42,3031,0.014
-2027-01-29 19:48,Pontoon,Taha-Zaki-Abdullah,2,YES,30,3553,0.008
-2027-01-30 05:13,Floating,Martyr-Abul-Makarem,0,NO,0,3202,0.0
-2027-01-31 16:36,Swing,El Ferdan,1,YES,22,3135,0.007
-2027-02-01 02:36,Floating,Martyr-El-Sayed,2,YES,36,2644,0.014
-2027-02-02 05:16,Swing,El Ferdan,2,YES,32,3127,0.01
-2027-02-03 08:42,Pontoon,Ahmed-el-Mansy,1,YES,20,3460,0.006
-2027-02-04 13:32,Floating,Martyr-El-Sayed,1,YES,15,3582,0.004
-2027-02-05 17:26,Floating,Martyr-Abul-Makarem,2,YES,37,3172,0.012
-2027-02-06 17:41,Swing,El Ferdan,2,YES,41,3068,0.013
-2027-02-07 09:16,Floating,Martyr-El-Sayed,1,YES,17,3701,0.005
-2027-02-08 02:06,Floating,Martyr-El-Sayed,2,YES,37,2957,0.013
-2027-02-09 14:11,Floating,Martyr-El-Sayed,0,NO,0,3641,0.0
-2027-02-10 18:05,Pontoon,Ahmed-el-Mansy,1,YES,15,3013,0.005
-2027-02-11 23:46,Floating,Martyr-Abul-Makarem,1,YES,16,2875,0.006
-2027-02-12 21:10,Pontoon,Ahmed-el-Mansy,4,YES,72,3222,0.022
-2027-02-13 20:52,Pontoon,Ahmed-el-Mansy,1,YES,14,3153,0.004
-2027-02-14 03:09,Floating,Martyr-Abul-Makarem,0,NO,0,3177,0.0
-2027-02-15 22:06,Pontoon,Ahmed-el-Mansy,4,YES,74,3626,0.02
-2027-02-16 21:31,Swing,El Ferdan,1,YES,17,2993,0.006
-2027-02-17 17:05,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3279,0.0
-2027-02-18 22:25,Pontoon,Taha-Zaki-Abdullah,3,YES,48,3330,0.014
-2027-02-19 22:37,Pontoon,Taha-Zaki-Abdullah,1,YES,17,3150,0.005
-2027-02-20 08:40,Floating,Martyr-Abul-Makarem,4,YES,79,3404,0.023
-2027-02-21 16:32,Floating,Martyr-El-Sayed,4,YES,80,3434,0.023
-2027-02-22 17:57,Floating,Martyr-El-Sayed,1,YES,14,3135,0.004
-2027-02-23 21:25,Swing,El Ferdan,2,YES,32,2787,0.011
-2027-02-24 01:31,Swing,El Ferdan,0,NO,0,3325,0.0
-2027-02-25 23:08,Pontoon,Ahmed-el-Mansy,1,YES,19,3746,0.005
-2027-02-26 22:28,Floating,Martyr-El-Sayed,1,YES,15,2806,0.005
-2027-02-27 16:28,Pontoon,Ahmed-el-Mansy,4,YES,66,3207,0.021
-2027-02-28 13:27,Swing,El Ferdan,1,YES,20,3459,0.006
-2027-03-01 16:43,Swing,El Ferdan,1,YES,17,3509,0.005
-2027-03-02 02:07,Pontoon,Ahmed-el-Mansy,2,YES,36,3266,0.011
-2027-03-03 21:00,Swing,El Ferdan,0,NO,0,3202,0.0
-2027-03-04 07:28,Pontoon,Ahmed-el-Mansy,2,YES,33,3175,0.01
-2027-03-05 13:06,Swing,El Ferdan,2,YES,37,3534,0.01
-2027-03-06 11:32,Pontoon,Taha-Zaki-Abdullah,3,YES,52,3240,0.016
-2027-03-07 12:22,Swing,El Ferdan,2,YES,38,3708,0.01
-2027-03-08 11:39,Floating,Martyr-El-Sayed,2,YES,38,2851,0.013
-2027-03-09 17:11,Pontoon,Ahmed-el-Mansy,2,YES,39,3223,0.012
-2027-03-10 05:19,Floating,Martyr-Abul-Makarem,1,YES,22,2920,0.008
-2027-03-11 14:02,Floating,Martyr-El-Sayed,2,YES,33,3750,0.009
-2027-03-12 10:37,Floating,Martyr-El-Sayed,3,YES,57,3067,0.019
-2027-03-13 18:00,Pontoon,Ahmed-el-Mansy,0,NO,0,3358,0.0
-2027-03-14 09:12,Floating,Martyr-El-Sayed,1,YES,18,3287,0.005
-2027-03-15 01:05,Pontoon,Taha-Zaki-Abdullah,2,YES,42,3322,0.013
-2027-03-16 09:20,Pontoon,Ahmed-el-Mansy,1,YES,12,3292,0.004
-2027-03-17 15:53,Floating,Martyr-El-Sayed,1,YES,11,3415,0.003
-2027-03-18 23:22,Swing,El Ferdan,1,YES,17,3241,0.005
-2027-03-19 11:09,Floating,Martyr-El-Sayed,0,NO,0,3086,0.0
-2027-03-20 18:49,Floating,Martyr-Abul-Makarem,0,NO,0,3255,0.0
-2027-03-21 20:56,Swing,El Ferdan,1,YES,19,3035,0.006
-2027-03-22 13:56,Pontoon,Ahmed-el-Mansy,2,YES,33,3646,0.009
-2027-03-23 07:22,Pontoon,Taha-Zaki-Abdullah,3,YES,54,3347,0.016
-2027-03-24 21:17,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3568,0.005
-2027-03-25 00:46,Pontoon,Taha-Zaki-Abdullah,1,YES,16,3894,0.004
-2027-03-26 18:57,Floating,Martyr-Abul-Makarem,1,YES,21,3240,0.006
-2027-03-27 04:25,Pontoon,Taha-Zaki-Abdullah,1,YES,15,3261,0.005
-2027-03-28 11:01,Floating,Martyr-Abul-Makarem,3,YES,54,3373,0.016
-2027-03-29 12:04,Floating,Martyr-Abul-Makarem,2,YES,31,3306,0.009
-2027-03-30 02:14,Pontoon,Ahmed-el-Mansy,2,YES,36,3283,0.011
-2027-03-31 20:47,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3162,0.0
-2027-04-01 03:39,Pontoon,Taha-Zaki-Abdullah,1,YES,17,2796,0.006
-2027-04-02 00:27,Swing,El Ferdan,2,YES,33,3298,0.01
-2027-04-03 13:33,Pontoon,Taha-Zaki-Abdullah,1,YES,24,2927,0.008
-2027-04-04 06:55,Swing,El Ferdan,2,YES,40,3201,0.012
-2027-04-05 18:09,Pontoon,Ahmed-el-Mansy,2,YES,31,2737,0.011
-2027-04-06 01:35,Pontoon,Taha-Zaki-Abdullah,2,YES,37,3717,0.01
-2027-04-07 12:49,Pontoon,Ahmed-el-Mansy,0,NO,0,2790,0.0
-2027-04-08 11:51,Pontoon,Taha-Zaki-Abdullah,1,YES,16,3351,0.005
-2027-04-09 23:34,Floating,Martyr-El-Sayed,1,YES,21,3069,0.007
-2027-04-10 03:48,Floating,Martyr-Abul-Makarem,1,YES,17,3279,0.005
-2027-04-11 14:39,Floating,Martyr-Abul-Makarem,2,YES,31,3115,0.01
-2027-04-12 15:29,Pontoon,Ahmed-el-Mansy,2,YES,38,3196,0.012
-2027-04-13 20:55,Pontoon,Ahmed-el-Mansy,1,YES,19,3628,0.005
-2027-04-14 14:22,Pontoon,Ahmed-el-Mansy,1,YES,22,3253,0.007
-2027-04-15 18:29,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3132,0.0
-2027-04-16 19:18,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3033,0.0
-2027-04-17 11:52,Pontoon,Ahmed-el-Mansy,2,YES,29,3228,0.009
-2027-04-18 09:37,Floating,Martyr-Abul-Makarem,1,YES,16,3333,0.005
-2027-04-19 06:13,Pontoon,Taha-Zaki-Abdullah,1,YES,16,3144,0.005
-2027-04-20 07:37,Floating,Martyr-Abul-Makarem,0,NO,0,2867,0.0
-2027-04-21 03:49,Swing,El Ferdan,0,NO,0,3619,0.0
-2027-04-22 10:48,Pontoon,Ahmed-el-Mansy,1,YES,24,3579,0.007
-2027-04-23 15:55,Pontoon,Ahmed-el-Mansy,1,YES,13,2755,0.005
-2027-04-24 18:32,Swing,El Ferdan,2,YES,43,3134,0.014
-2027-04-25 12:37,Pontoon,Taha-Zaki-Abdullah,1,YES,17,3088,0.006
-2027-04-26 22:47,Floating,Martyr-Abul-Makarem,1,YES,20,3619,0.006
-2027-04-27 18:18,Floating,Martyr-El-Sayed,2,YES,30,3577,0.008
-2027-04-28 06:17,Pontoon,Taha-Zaki-Abdullah,1,YES,21,3227,0.007
-2027-04-29 23:13,Pontoon,Taha-Zaki-Abdullah,3,YES,53,2781,0.019
-2027-04-30 08:14,Pontoon,Ahmed-el-Mansy,2,YES,36,3085,0.012
-2027-05-01 00:20,Swing,El Ferdan,1,YES,17,3149,0.005
-2027-05-02 06:59,Floating,Martyr-El-Sayed,1,YES,21,3641,0.006
-2027-05-03 16:28,Floating,Martyr-El-Sayed,3,YES,54,3163,0.017
-2027-05-04 13:07,Floating,Martyr-Abul-Makarem,1,YES,20,3162,0.006
-2027-05-05 19:24,Pontoon,Ahmed-el-Mansy,1,YES,15,3528,0.004
-2027-05-06 19:37,Pontoon,Ahmed-el-Mansy,1,YES,18,3300,0.005
-2027-05-07 09:37,Pontoon,Ahmed-el-Mansy,2,YES,37,3483,0.011
-2027-05-08 18:59,Floating,Martyr-Abul-Makarem,0,NO,0,2916,0.0
-2027-05-09 22:33,Floating,Martyr-El-Sayed,2,YES,39,3117,0.013
-2027-05-10 09:50,Floating,Martyr-Abul-Makarem,0,NO,0,3147,0.0
-2027-05-11 15:16,Pontoon,Taha-Zaki-Abdullah,1,YES,15,3012,0.005
-2027-05-12 05:18,Pontoon,Taha-Zaki-Abdullah,1,YES,15,3258,0.005
-2027-05-13 05:03,Floating,Martyr-Abul-Makarem,1,YES,21,2954,0.007
-2027-05-14 02:30,Pontoon,Ahmed-el-Mansy,1,YES,15,3399,0.004
-2027-05-15 16:34,Swing,El Ferdan,1,YES,13,2975,0.004
-2027-05-16 10:58,Floating,Martyr-El-Sayed,1,YES,19,3339,0.006
-2027-05-17 11:23,Pontoon,Taha-Zaki-Abdullah,2,YES,44,3376,0.013
-2027-05-18 12:34,Floating,Martyr-Abul-Makarem,1,YES,23,3008,0.008
-2027-05-19 09:41,Pontoon,Ahmed-el-Mansy,1,YES,20,3235,0.006
-2027-05-20 01:05,Swing,El Ferdan,0,NO,0,2775,0.0
-2027-05-21 19:56,Floating,Martyr-El-Sayed,1,YES,19,3464,0.005
-2027-05-22 13:05,Floating,Martyr-El-Sayed,2,YES,34,3015,0.011
-2027-05-23 17:46,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3514,0.0
-2027-05-24 05:53,Pontoon,Taha-Zaki-Abdullah,2,YES,30,3307,0.009
-2027-05-25 01:27,Floating,Martyr-El-Sayed,1,YES,15,3338,0.004
-2027-05-26 20:38,Pontoon,Taha-Zaki-Abdullah,2,YES,30,3417,0.009
-2027-05-27 06:41,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3600,0.0
-2027-05-28 20:14,Floating,Martyr-El-Sayed,3,YES,48,3687,0.013
-2027-05-29 19:10,Swing,El Ferdan,1,YES,17,3111,0.005
-2027-05-30 05:45,Floating,Martyr-El-Sayed,0,NO,0,2832,0.0
-2027-05-31 10:46,Floating,Martyr-El-Sayed,2,YES,36,3407,0.011
-2027-06-01 18:01,Floating,Martyr-El-Sayed,0,NO,0,3698,0.0
-2027-06-02 09:04,Swing,El Ferdan,1,YES,19,3432,0.006
-2027-06-03 11:35,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3229,0.0
-2027-06-04 09:04,Floating,Martyr-El-Sayed,3,YES,51,3153,0.016
-2027-06-05 04:02,Pontoon,Ahmed-el-Mansy,5,YES,91,2891,0.031
-2027-06-06 07:50,Pontoon,Taha-Zaki-Abdullah,1,YES,22,3186,0.007
-2027-06-07 15:08,Floating,Martyr-El-Sayed,3,YES,59,2960,0.02
-2027-06-08 05:27,Pontoon,Taha-Zaki-Abdullah,1,YES,17,2784,0.006
-2027-06-09 18:48,Floating,Martyr-Abul-Makarem,4,YES,77,3012,0.026
-2027-06-10 00:22,Floating,Martyr-El-Sayed,1,YES,21,2756,0.008
-2027-06-11 05:52,Floating,Martyr-El-Sayed,0,NO,0,3570,0.0
-2027-06-12 21:36,Pontoon,Ahmed-el-Mansy,1,YES,20,2831,0.007
-2027-06-13 00:52,Pontoon,Ahmed-el-Mansy,1,YES,21,3446,0.006
-2027-06-14 23:21,Pontoon,Ahmed-el-Mansy,0,NO,0,3457,0.0
-2027-06-15 12:00,Floating,Martyr-El-Sayed,3,YES,54,2985,0.018
-2027-06-16 10:00,Floating,Martyr-El-Sayed,1,YES,19,3236,0.006
-2027-06-17 17:33,Swing,El Ferdan,1,YES,19,3193,0.006
-2027-06-18 06:48,Floating,Martyr-El-Sayed,0,NO,0,2852,0.0
-2027-06-19 19:49,Pontoon,Taha-Zaki-Abdullah,2,YES,36,2969,0.012
-2027-06-20 21:35,Swing,El Ferdan,2,YES,33,3755,0.009
-2027-06-21 04:52,Pontoon,Ahmed-el-Mansy,0,NO,0,3146,0.0
-2027-06-22 03:51,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3153,0.0
-2027-06-23 01:20,Pontoon,Ahmed-el-Mansy,2,YES,33,3084,0.011
-2027-06-24 15:59,Floating,Martyr-Abul-Makarem,2,YES,43,2922,0.015
-2027-06-25 19:01,Floating,Martyr-Abul-Makarem,0,NO,0,3488,0.0
-2027-06-26 04:17,Pontoon,Ahmed-el-Mansy,2,YES,37,3289,0.011
-2027-06-27 08:48,Swing,El Ferdan,2,YES,32,2922,0.011
-2027-06-28 09:28,Pontoon,Taha-Zaki-Abdullah,1,YES,17,3306,0.005
-2027-06-29 05:44,Floating,Martyr-El-Sayed,1,YES,16,2996,0.005
-2027-06-30 13:32,Pontoon,Ahmed-el-Mansy,0,NO,0,3279,0.0
-2027-07-01 04:53,Pontoon,Taha-Zaki-Abdullah,2,YES,34,3160,0.011
-2027-07-02 11:28,Floating,Martyr-Abul-Makarem,0,NO,0,3127,0.0
-2027-07-03 01:02,Pontoon,Ahmed-el-Mansy,1,YES,17,3148,0.005
-2027-07-04 08:43,Pontoon,Ahmed-el-Mansy,1,YES,17,3199,0.005
-2027-07-05 09:43,Floating,Martyr-El-Sayed,1,YES,12,3659,0.003
-2027-07-06 06:05,Floating,Martyr-Abul-Makarem,3,YES,55,3185,0.017
-2027-07-07 01:10,Floating,Martyr-El-Sayed,1,YES,21,3146,0.007
-2027-07-08 17:42,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3682,0.005
-2027-07-09 07:18,Floating,Martyr-Abul-Makarem,0,NO,0,3096,0.0
-2027-07-10 18:49,Floating,Martyr-El-Sayed,2,YES,37,3237,0.011
-2027-07-11 11:07,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3801,0.005
-2027-07-12 14:12,Pontoon,Ahmed-el-Mansy,2,YES,42,2883,0.015
-2027-07-13 15:12,Swing,El Ferdan,1,YES,20,3288,0.006
-2027-07-14 13:49,Floating,Martyr-El-Sayed,2,YES,31,3334,0.009
-2027-07-15 21:53,Floating,Martyr-El-Sayed,2,YES,35,2967,0.012
-2027-07-16 17:24,Pontoon,Taha-Zaki-Abdullah,1,YES,17,3216,0.005
-2027-07-17 19:01,Swing,El Ferdan,3,YES,50,3310,0.015
-2027-07-18 06:08,Pontoon,Ahmed-el-Mansy,3,YES,49,3252,0.015
-2027-07-19 15:47,Floating,Martyr-Abul-Makarem,4,YES,72,2932,0.025
-2027-07-20 01:37,Floating,Martyr-Abul-Makarem,3,YES,54,2961,0.018
-2027-07-21 00:20,Floating,Martyr-Abul-Makarem,3,YES,58,3419,0.017
-2027-07-22 04:08,Pontoon,Taha-Zaki-Abdullah,1,YES,16,3287,0.005
-2027-07-23 00:38,Pontoon,Taha-Zaki-Abdullah,3,YES,49,3363,0.015
-2027-07-24 20:28,Pontoon,Ahmed-el-Mansy,1,YES,18,3260,0.006
-2027-07-25 05:40,Swing,El Ferdan,3,YES,58,3627,0.016
-2027-07-26 01:21,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3455,0.0
-2027-07-27 21:02,Pontoon,Ahmed-el-Mansy,2,YES,35,3849,0.009
-2027-07-28 17:51,Pontoon,Ahmed-el-Mansy,1,YES,24,3211,0.007
-2027-07-29 11:08,Floating,Martyr-El-Sayed,0,NO,0,3274,0.0
-2027-07-30 17:12,Pontoon,Ahmed-el-Mansy,2,YES,34,3451,0.01
-2027-07-31 16:17,Pontoon,Ahmed-el-Mansy,1,YES,19,2895,0.007
-2027-08-01 17:28,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3174,0.0
-2027-08-02 16:32,Swing,El Ferdan,0,NO,0,2585,0.0
-2027-08-03 13:28,Pontoon,Ahmed-el-Mansy,2,YES,33,3572,0.009
-2027-08-04 00:38,Floating,Martyr-El-Sayed,5,YES,101,2873,0.035
-2027-08-05 16:15,Floating,Martyr-Abul-Makarem,2,YES,37,2831,0.013
-2027-08-06 08:05,Floating,Martyr-Abul-Makarem,1,YES,16,3678,0.004
-2027-08-07 00:54,Swing,El Ferdan,3,YES,57,3387,0.017
-2027-08-08 23:58,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3114,0.0
-2027-08-09 16:13,Pontoon,Ahmed-el-Mansy,0,NO,0,3231,0.0
-2027-08-10 19:17,Floating,Martyr-El-Sayed,2,YES,32,3290,0.01
-2027-08-11 02:42,Floating,Martyr-Abul-Makarem,3,YES,54,3053,0.018
-2027-08-12 17:42,Floating,Martyr-El-Sayed,1,YES,22,3540,0.006
-2027-08-13 05:22,Floating,Martyr-Abul-Makarem,2,YES,36,2462,0.015
-2027-08-14 02:08,Floating,Martyr-Abul-Makarem,0,NO,0,4014,0.0
-2027-08-15 11:11,Floating,Martyr-Abul-Makarem,0,NO,0,3046,0.0
-2027-08-16 21:20,Pontoon,Ahmed-el-Mansy,1,YES,19,3414,0.006
-2027-08-17 13:07,Swing,El Ferdan,0,NO,0,3347,0.0
-2027-08-18 02:36,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3294,0.0
-2027-08-19 16:42,Floating,Martyr-El-Sayed,1,YES,16,3305,0.005
-2027-08-20 01:01,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3545,0.0
-2027-08-21 06:29,Pontoon,Ahmed-el-Mansy,1,YES,17,3137,0.005
-2027-08-22 23:36,Floating,Martyr-El-Sayed,1,YES,15,3360,0.004
-2027-08-23 17:43,Pontoon,Ahmed-el-Mansy,0,NO,0,3310,0.0
-2027-08-24 22:20,Floating,Martyr-El-Sayed,1,YES,17,2654,0.006
-2027-08-25 23:07,Floating,Martyr-El-Sayed,2,YES,36,2727,0.013
-2027-08-26 14:25,Swing,El Ferdan,2,YES,38,3264,0.012
-2027-08-27 05:27,Pontoon,Taha-Zaki-Abdullah,1,YES,11,3568,0.003
-2027-08-28 15:59,Floating,Martyr-Abul-Makarem,1,YES,17,2914,0.006
-2027-08-29 01:41,Floating,Martyr-Abul-Makarem,3,YES,61,3227,0.019
-2027-08-30 22:14,Floating,Martyr-Abul-Makarem,0,NO,0,2992,0.0
-2027-08-31 03:50,Floating,Martyr-Abul-Makarem,3,YES,61,2829,0.022
-2027-09-01 01:08,Floating,Martyr-El-Sayed,4,YES,81,3031,0.027
-2027-09-02 19:32,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3254,0.0
-2027-09-03 07:56,Floating,Martyr-El-Sayed,1,YES,20,3211,0.006
-2027-09-04 20:53,Pontoon,Ahmed-el-Mansy,1,YES,22,3559,0.006
-2027-09-05 01:45,Floating,Martyr-Abul-Makarem,1,YES,15,3374,0.004
-2027-09-06 07:53,Pontoon,Taha-Zaki-Abdullah,1,YES,22,3284,0.007
-2027-09-07 16:32,Pontoon,Ahmed-el-Mansy,1,YES,15,3081,0.005
-2027-09-08 12:20,Floating,Martyr-El-Sayed,1,YES,19,3967,0.005
-2027-09-09 00:19,Swing,El Ferdan,1,YES,14,3586,0.004
-2027-09-10 10:11,Floating,Martyr-El-Sayed,0,NO,0,3463,0.0
-2027-09-11 13:38,Swing,El Ferdan,0,NO,0,4183,0.0
-2027-09-12 03:29,Pontoon,Ahmed-el-Mansy,0,NO,0,3653,0.0
-2027-09-13 10:22,Pontoon,Ahmed-el-Mansy,3,YES,58,2669,0.022
-2027-09-14 08:40,Floating,Martyr-El-Sayed,2,YES,25,3186,0.008
-2027-09-15 12:30,Pontoon,Taha-Zaki-Abdullah,1,YES,18,3941,0.005
-2027-09-16 00:19,Floating,Martyr-El-Sayed,1,YES,20,3411,0.006
-2027-09-17 15:57,Floating,Martyr-Abul-Makarem,0,NO,0,3410,0.0
-2027-09-18 18:34,Floating,Martyr-Abul-Makarem,2,YES,39,2971,0.013
-2027-09-19 19:26,Swing,El Ferdan,2,YES,30,3586,0.008
-2027-09-20 16:58,Pontoon,Taha-Zaki-Abdullah,3,YES,52,3562,0.015
-2027-09-21 11:59,Pontoon,Ahmed-el-Mansy,0,NO,0,2997,0.0
-2027-09-22 14:08,Floating,Martyr-El-Sayed,4,YES,69,3640,0.019
-2027-09-23 19:21,Floating,Martyr-Abul-Makarem,0,NO,0,3095,0.0
-2027-09-24 11:52,Pontoon,Ahmed-el-Mansy,2,YES,42,3484,0.012
-2027-09-25 13:38,Pontoon,Taha-Zaki-Abdullah,2,YES,33,3035,0.011
-2027-09-26 01:49,Floating,Martyr-El-Sayed,1,YES,14,3761,0.004
-2027-09-27 05:19,Floating,Martyr-El-Sayed,5,YES,95,3177,0.03
-2027-09-28 08:46,Floating,Martyr-El-Sayed,2,YES,41,2818,0.015
-2027-09-29 18:46,Floating,Martyr-El-Sayed,2,YES,39,3207,0.012
-2027-09-30 06:45,Swing,El Ferdan,1,YES,17,3524,0.005
-2027-10-01 06:41,Swing,El Ferdan,4,YES,67,3434,0.02
-2027-10-02 23:15,Swing,El Ferdan,3,YES,57,3042,0.019
-2027-10-03 01:15,Pontoon,Taha-Zaki-Abdullah,3,YES,54,3124,0.017
-2027-10-04 05:25,Swing,El Ferdan,0,NO,0,3162,0.0
-2027-10-05 05:42,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3500,0.0
-2027-10-06 05:48,Swing,El Ferdan,2,YES,41,2998,0.014
-2027-10-07 18:05,Floating,Martyr-El-Sayed,2,YES,30,3381,0.009
-2027-10-08 13:28,Pontoon,Ahmed-el-Mansy,1,YES,13,2952,0.004
-2027-10-09 22:21,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3083,0.0
-2027-10-10 05:51,Pontoon,Taha-Zaki-Abdullah,1,YES,23,2651,0.009
-2027-10-11 19:32,Pontoon,Ahmed-el-Mansy,3,YES,62,3261,0.019
-2027-10-12 01:14,Pontoon,Ahmed-el-Mansy,1,YES,22,2973,0.007
-2027-10-13 04:25,Pontoon,Taha-Zaki-Abdullah,2,YES,38,2996,0.013
-2027-10-14 13:11,Pontoon,Ahmed-el-Mansy,3,YES,55,3476,0.016
-2027-10-15 03:23,Pontoon,Ahmed-el-Mansy,2,YES,35,3097,0.011
-2027-10-16 23:24,Pontoon,Taha-Zaki-Abdullah,1,YES,19,2673,0.007
-2027-10-17 05:53,Floating,Martyr-Abul-Makarem,2,YES,41,3792,0.011
-2027-10-18 10:35,Pontoon,Ahmed-el-Mansy,3,YES,60,3078,0.019
-2027-10-19 01:37,Floating,Martyr-Abul-Makarem,2,YES,26,3244,0.008
-2027-10-20 09:37,Swing,El Ferdan,1,YES,17,3494,0.005
-2027-10-21 23:01,Pontoon,Ahmed-el-Mansy,1,YES,16,3129,0.005
-2027-10-22 10:00,Floating,Martyr-El-Sayed,2,YES,37,3638,0.01
-2027-10-23 00:23,Pontoon,Ahmed-el-Mansy,0,NO,0,3109,0.0
-2027-10-24 23:59,Pontoon,Taha-Zaki-Abdullah,3,YES,63,3740,0.017
-2027-10-25 21:38,Floating,Martyr-El-Sayed,1,YES,20,2926,0.007
-2027-10-26 09:31,Floating,Martyr-El-Sayed,1,YES,16,3523,0.005
-2027-10-27 23:38,Pontoon,Ahmed-el-Mansy,0,NO,0,3577,0.0
-2027-10-28 00:08,Pontoon,Ahmed-el-Mansy,3,YES,52,3335,0.016
-2027-10-29 08:05,Floating,Martyr-Abul-Makarem,1,YES,19,3977,0.005
-2027-10-30 18:36,Floating,Martyr-Abul-Makarem,1,YES,15,3669,0.004
-2027-10-31 07:32,Floating,Martyr-El-Sayed,2,YES,37,3412,0.011
-2027-11-01 03:36,Pontoon,Ahmed-el-Mansy,1,YES,18,3541,0.005
-2027-11-02 15:32,Floating,Martyr-El-Sayed,0,NO,0,3575,0.0
-2027-11-03 09:00,Floating,Martyr-El-Sayed,1,YES,19,3392,0.006
-2027-11-04 08:22,Pontoon,Ahmed-el-Mansy,2,YES,28,3100,0.009
-2027-11-05 05:36,Floating,Martyr-El-Sayed,3,YES,52,3378,0.015
-2027-11-06 15:50,Floating,Martyr-El-Sayed,0,NO,0,3489,0.0
-2027-11-07 06:17,Swing,El Ferdan,1,YES,13,3590,0.004
-2027-11-08 09:22,Swing,El Ferdan,3,YES,48,3345,0.014
-2027-11-09 14:48,Pontoon,Ahmed-el-Mansy,2,YES,32,3262,0.01
-2027-11-10 10:27,Floating,Martyr-El-Sayed,1,YES,20,3407,0.006
-2027-11-11 08:09,Pontoon,Taha-Zaki-Abdullah,1,YES,21,3420,0.006
-2027-11-12 01:36,Swing,El Ferdan,0,NO,0,3202,0.0
-2027-11-13 09:33,Floating,Martyr-Abul-Makarem,2,YES,42,3036,0.014
-2027-11-14 15:11,Swing,El Ferdan,2,YES,39,3655,0.011
-2027-11-15 20:42,Pontoon,Ahmed-el-Mansy,2,YES,32,3754,0.009
-2027-11-16 13:50,Floating,Martyr-El-Sayed,1,YES,21,3161,0.007
-2027-11-17 14:47,Swing,El Ferdan,2,YES,41,2866,0.014
-2027-11-18 18:30,Floating,Martyr-El-Sayed,0,NO,0,3068,0.0
-2027-11-19 03:22,Pontoon,Taha-Zaki-Abdullah,1,YES,17,3043,0.006
-2027-11-20 08:12,Pontoon,Taha-Zaki-Abdullah,1,YES,17,2703,0.006
-2027-11-21 05:31,Floating,Martyr-El-Sayed,1,YES,16,2936,0.005
-2027-11-22 02:09,Floating,Martyr-Abul-Makarem,1,YES,18,3618,0.005
-2027-11-23 10:40,Floating,Martyr-Abul-Makarem,3,YES,65,3188,0.02
-2027-11-24 07:27,Floating,Martyr-Abul-Makarem,1,YES,20,3066,0.007
-2027-11-25 18:08,Pontoon,Taha-Zaki-Abdullah,0,NO,0,2879,0.0
-2027-11-26 19:07,Pontoon,Ahmed-el-Mansy,2,YES,42,2827,0.015
-2027-11-27 03:10,Pontoon,Taha-Zaki-Abdullah,1,YES,21,2960,0.007
-2027-11-28 05:41,Pontoon,Taha-Zaki-Abdullah,1,YES,18,3056,0.006
-2027-11-29 12:57,Pontoon,Ahmed-el-Mansy,2,YES,38,3151,0.012
-2027-11-30 00:16,Pontoon,Taha-Zaki-Abdullah,3,YES,57,2921,0.02
-2027-12-01 16:42,Swing,El Ferdan,1,YES,23,3290,0.007
-2027-12-02 22:13,Swing,El Ferdan,2,YES,38,3023,0.013
-2027-12-03 13:55,Swing,El Ferdan,1,YES,20,3409,0.006
-2027-12-04 21:23,Swing,El Ferdan,2,YES,29,3565,0.008
-2027-12-05 07:15,Pontoon,Taha-Zaki-Abdullah,1,YES,18,3181,0.006
-2027-12-06 13:35,Floating,Martyr-El-Sayed,1,YES,18,3513,0.005
-2027-12-07 00:26,Swing,El Ferdan,0,NO,0,3418,0.0
-2027-12-08 16:04,Floating,Martyr-Abul-Makarem,1,YES,16,3051,0.005
-2027-12-09 02:08,Floating,Martyr-El-Sayed,0,NO,0,3714,0.0
-2027-12-10 20:15,Swing,El Ferdan,1,YES,20,3179,0.006
-2027-12-11 03:00,Floating,Martyr-El-Sayed,3,YES,51,2880,0.018
-2027-12-12 19:40,Pontoon,Taha-Zaki-Abdullah,2,YES,44,2555,0.017
-2027-12-13 19:24,Pontoon,Ahmed-el-Mansy,2,YES,41,3132,0.013
-2027-12-14 07:04,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3166,0.006
-2027-12-15 15:32,Floating,Martyr-El-Sayed,0,NO,0,2728,0.0
-2027-12-16 00:25,Floating,Martyr-El-Sayed,1,YES,16,2736,0.006
-2027-12-17 23:46,Floating,Martyr-Abul-Makarem,1,YES,18,3491,0.005
-2027-12-18 07:27,Pontoon,Ahmed-el-Mansy,1,YES,17,3257,0.005
-2027-12-19 19:14,Pontoon,Taha-Zaki-Abdullah,2,YES,44,3084,0.014
-2027-12-20 08:51,Pontoon,Ahmed-el-Mansy,1,YES,17,2918,0.006
-2027-12-21 17:46,Swing,El Ferdan,4,YES,63,3870,0.016
-2027-12-22 06:27,Pontoon,Taha-Zaki-Abdullah,2,YES,39,3447,0.011
-2027-12-23 12:39,Pontoon,Ahmed-el-Mansy,2,YES,37,3224,0.011
-2027-12-24 17:06,Floating,Martyr-El-Sayed,2,YES,41,3348,0.012
-2027-12-25 06:08,Pontoon,Taha-Zaki-Abdullah,2,YES,37,3277,0.011
-2027-12-26 02:14,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3564,0.0
-2027-12-27 20:53,Floating,Martyr-El-Sayed,1,YES,14,2400,0.006
-2027-12-28 19:08,Pontoon,Taha-Zaki-Abdullah,1,YES,22,3249,0.007
-2027-12-29 18:08,Floating,Martyr-Abul-Makarem,1,YES,21,3005,0.007
-2027-12-30 12:42,Pontoon,Ahmed-el-Mansy,2,YES,37,3867,0.01
-2027-12-31 03:41,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3665,0.0
-2028-01-01 03:09,Swing,El Ferdan,2,YES,42,3263,0.013
-2028-01-02 02:26,Swing,El Ferdan,4,YES,67,3518,0.019
-2028-01-03 05:13,Swing,El Ferdan,1,YES,19,3080,0.006
-2028-01-04 19:57,Floating,Martyr-El-Sayed,0,NO,0,2801,0.0
-2028-01-05 15:44,Swing,El Ferdan,2,YES,33,3218,0.01
-2028-01-06 15:32,Pontoon,Taha-Zaki-Abdullah,1,YES,20,3163,0.006
-2028-01-07 02:53,Floating,Martyr-El-Sayed,3,YES,64,4078,0.016
-2028-01-08 00:55,Pontoon,Ahmed-el-Mansy,2,YES,30,3442,0.009
-2028-01-09 16:35,Floating,Martyr-El-Sayed,2,YES,35,3153,0.011
-2028-01-10 14:57,Pontoon,Taha-Zaki-Abdullah,0,NO,0,2528,0.0
-2028-01-11 01:06,Floating,Martyr-El-Sayed,2,YES,36,3637,0.01
-2028-01-12 12:58,Pontoon,Ahmed-el-Mansy,1,YES,24,4176,0.006
-2028-01-13 07:48,Swing,El Ferdan,2,YES,37,3082,0.012
-2028-01-14 09:41,Floating,Martyr-Abul-Makarem,0,NO,0,2569,0.0
-2028-01-15 01:08,Swing,El Ferdan,1,YES,17,3539,0.005
-2028-01-16 17:36,Floating,Martyr-El-Sayed,1,YES,16,3074,0.005
-2028-01-17 21:15,Floating,Martyr-El-Sayed,2,YES,31,4100,0.008
-2028-01-18 14:29,Floating,Martyr-Abul-Makarem,0,NO,0,3459,0.0
-2028-01-19 11:45,Swing,El Ferdan,0,NO,0,2999,0.0
-2028-01-20 02:52,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3879,0.005
-2028-01-21 15:19,Pontoon,Ahmed-el-Mansy,2,YES,44,3340,0.013
-2028-01-22 13:48,Floating,Martyr-Abul-Makarem,2,YES,42,3458,0.012
-2028-01-23 00:43,Pontoon,Ahmed-el-Mansy,1,YES,16,3392,0.005
-2028-01-24 08:12,Floating,Martyr-Abul-Makarem,0,NO,0,3337,0.0
-2028-01-25 11:07,Floating,Martyr-Abul-Makarem,1,YES,20,3033,0.007
+DateTime,Bridge_Type,Bridge_Name,Ships_per_day,ship_present,Closure_min,vehicle_flow_veh_hr,delay_min_per_vehicle,period_of_day,rush_hour
+2025-05-01 06:51,Pontoon,Taha-Zaki-Abdullah,1,YES,16,3221,0.009,Morning,NO
+2025-05-02 02:21,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3092,0.0,Night,NO
+2025-05-03 11:57,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3081,0.0,Morning,NO
+2025-05-04 15:14,Floating,Martyr-Abul-Makarem,2,YES,35,3241,-0.002,Afternoon,NO
+2025-05-05 20:01,Pontoon,Ahmed-el-Mansy,0,NO,0,3534,0.0,Rush Hour,NO
+2025-05-06 02:13,Swing,El Ferdan,2,YES,48,3315,0.027,Night,NO
+2025-05-07 07:13,Pontoon,Ahmed-el-Mansy,1,YES,17,3111,0.03,Morning,YES
+2025-05-08 14:44,Swing,El Ferdan,1,YES,17,3529,0.024,Afternoon,NO
+2025-05-09 09:38,Floating,Martyr-El-Sayed,0,NO,0,3579,0.0,Morning,NO
+2025-05-10 23:36,Floating,Martyr-Abul-Makarem,1,YES,20,2969,0.028,Night,NO
+2025-05-11 08:14,Floating,Martyr-El-Sayed,1,YES,17,3184,0.022,Morning,YES
+2025-05-12 06:58,Floating,Martyr-Abul-Makarem,2,YES,40,3540,0.014,Morning,NO
+2025-05-13 19:12,Swing,El Ferdan,1,YES,14,4133,0.005,Evening,NO
+2025-05-14 23:40,Pontoon,Ahmed-el-Mansy,0,NO,0,3244,0.0,Night,NO
+2025-05-15 16:36,Swing,El Ferdan,3,YES,57,3569,0.036,Afternoon,NO
+2025-05-16 22:03,Floating,Martyr-Abul-Makarem,0,NO,0,3468,0.0,Night,NO
+2025-05-17 04:51,Floating,Martyr-El-Sayed,1,YES,15,3080,0.037,Night,NO
+2025-05-18 18:25,Floating,Martyr-Abul-Makarem,2,YES,37,3624,0.017,Evening,YES
+2025-05-19 09:34,Pontoon,Ahmed-el-Mansy,2,YES,36,3304,0.026,Daytime,NO
+2025-05-20 21:55,Swing,El Ferdan,1,YES,19,3035,0.022,Night,NO
+2025-05-21 21:34,Pontoon,Taha-Zaki-Abdullah,0,NO,0,2957,0.0,Night,NO
+2025-05-22 20:47,Pontoon,Ahmed-el-Mansy,1,YES,15,3581,0.039,Evening,NO
+2025-05-23 05:37,Pontoon,Taha-Zaki-Abdullah,2,YES,36,3505,0.021,Morning,NO
+2025-05-24 03:34,Swing,El Ferdan,3,YES,64,2965,0.014,Night,NO
+2025-05-25 02:17,Swing,El Ferdan,1,YES,17,3440,0.007,Night,NO
+2025-05-26 09:01,Floating,Martyr-El-Sayed,2,YES,41,3404,0.018,Morning,NO
+2025-05-27 12:19,Swing,El Ferdan,0,NO,0,3083,0.0,Afternoon,NO
+2025-05-28 18:22,Pontoon,Ahmed-el-Mansy,1,YES,14,3610,0.012,Evening,NO
+2025-05-29 10:59,Pontoon,Taha-Zaki-Abdullah,2,YES,34,3263,0.012,Morning,NO
+2025-05-30 19:15,Pontoon,Taha-Zaki-Abdullah,1,YES,17,3030,0.014,Evening,NO
+2025-05-31 11:52,Swing,El Ferdan,1,YES,17,3533,0.03,Daytime,NO
+2025-06-01 06:04,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3104,0.0,Daytime,NO
+2025-06-02 13:27,Pontoon,Taha-Zaki-Abdullah,1,YES,16,3085,0.03,Afternoon,NO
+2025-06-03 04:22,Floating,Martyr-El-Sayed,0,NO,0,3646,0.0,Night,NO
+2025-06-04 09:57,Floating,Martyr-Abul-Makarem,1,YES,18,3309,0.012,Morning,NO
+2025-06-05 19:23,Pontoon,Ahmed-el-Mansy,3,YES,49,3187,0.014,Evening,NO
+2025-06-06 01:50,Swing,El Ferdan,2,YES,37,3226,0.035,Night,NO
+2025-06-07 02:48,Floating,Martyr-Abul-Makarem,0,NO,0,3633,0.0,Night,NO
+2025-06-08 23:22,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3593,0.0,Night,NO
+2025-06-09 02:40,Swing,El Ferdan,2,YES,33,3126,0.029,Night,NO
+2025-06-10 19:18,Floating,Martyr-El-Sayed,0,NO,0,3877,0.0,Evening,NO
+2025-06-11 20:35,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3438,0.0,Evening,NO
+2025-06-12 06:13,Floating,Martyr-El-Sayed,1,YES,18,3373,0.012,Morning,NO
+2025-06-13 06:45,Pontoon,Taha-Zaki-Abdullah,1,YES,14,2775,0.022,Daytime,NO
+2025-06-14 21:51,Swing,El Ferdan,0,NO,0,3658,0.0,Night,NO
+2025-06-15 11:53,Floating,Martyr-Abul-Makarem,1,YES,14,3683,-0.003,Daytime,NO
+2025-06-16 08:38,Swing,El Ferdan,2,YES,31,3592,0.017,Morning,YES
+2025-06-17 20:10,Pontoon,Ahmed-el-Mansy,0,NO,0,3392,0.0,Evening,NO
+2025-06-18 08:48,Swing,El Ferdan,3,YES,52,3485,-0.004,Morning,YES
+2025-06-19 08:35,Floating,Martyr-Abul-Makarem,2,YES,41,3472,0.032,Daytime,YES
+2025-06-20 12:04,Swing,El Ferdan,3,YES,63,3315,0.013,Afternoon,NO
+2025-06-21 04:37,Floating,Martyr-Abul-Makarem,3,YES,52,3568,0.032,Night,NO
+2025-06-22 07:38,Floating,Martyr-El-Sayed,1,YES,17,3081,0.045,Morning,YES
+2025-06-23 10:50,Pontoon,Ahmed-el-Mansy,1,YES,19,3325,0.013,Morning,NO
+2025-06-24 14:59,Floating,Martyr-El-Sayed,0,NO,0,3233,0.0,Afternoon,NO
+2025-06-25 01:05,Pontoon,Taha-Zaki-Abdullah,1,YES,16,2597,0.043,Night,NO
+2025-06-26 10:53,Pontoon,Ahmed-el-Mansy,1,YES,15,2954,0.025,Morning,NO
+2025-06-27 04:17,Pontoon,Ahmed-el-Mansy,1,YES,18,3485,0.014,Night,NO
+2025-06-28 12:26,Swing,El Ferdan,2,YES,34,3260,0.018,Afternoon,NO
+2025-06-29 22:13,Floating,Martyr-El-Sayed,1,YES,21,2953,0.051,Night,NO
+2025-06-30 12:17,Floating,Martyr-El-Sayed,1,YES,19,3103,0.031,Afternoon,NO
+2025-07-01 21:25,Pontoon,Ahmed-el-Mansy,0,NO,0,3145,0.0,Night,NO
+2025-07-02 09:02,Swing,El Ferdan,1,YES,25,3554,0.006,Morning,NO
+2025-07-03 05:51,Floating,Martyr-El-Sayed,1,YES,12,3243,0.016,Daytime,NO
+2025-07-04 23:54,Swing,El Ferdan,0,NO,0,2499,0.0,Night,NO
+2025-07-05 03:23,Floating,Martyr-El-Sayed,2,YES,37,3494,0.023,Night,NO
+2025-07-06 10:07,Floating,Martyr-El-Sayed,0,NO,0,3021,0.0,Morning,NO
+2025-07-07 18:19,Swing,El Ferdan,2,YES,43,3253,0.001,Evening,YES
+2025-07-08 09:43,Floating,Martyr-El-Sayed,2,YES,42,3032,0.044,Morning,NO
+2025-07-09 16:04,Pontoon,Ahmed-el-Mansy,0,NO,0,3276,0.0,Afternoon,NO
+2025-07-10 02:00,Pontoon,Ahmed-el-Mansy,1,YES,18,3154,0.016,Night,NO
+2025-07-11 13:25,Pontoon,Ahmed-el-Mansy,2,YES,32,3491,0.037,Afternoon,NO
+2025-07-12 16:32,Floating,Martyr-El-Sayed,2,YES,35,3351,0.014,Afternoon,NO
+2025-07-13 19:29,Floating,Martyr-Abul-Makarem,0,NO,0,3371,0.0,Evening,NO
+2025-07-14 22:32,Pontoon,Ahmed-el-Mansy,3,YES,58,3121,0.014,Night,NO
+2025-07-15 01:26,Floating,Martyr-Abul-Makarem,0,NO,0,3813,0.0,Night,NO
+2025-07-16 04:19,Floating,Martyr-Abul-Makarem,0,NO,0,3347,0.0,Night,NO
+2025-07-17 22:46,Floating,Martyr-El-Sayed,1,YES,26,3784,0.022,Night,NO
+2025-07-18 07:41,Swing,El Ferdan,5,YES,97,3202,0.014,Morning,NO
+2025-07-19 19:24,Floating,Martyr-El-Sayed,1,YES,20,2799,0.019,Evening,NO
+2025-07-20 23:24,Pontoon,Ahmed-el-Mansy,1,YES,18,2944,0.026,Night,NO
+2025-07-21 16:19,Pontoon,Ahmed-el-Mansy,0,NO,0,3294,0.0,Afternoon,NO
+2025-07-22 12:29,Floating,Martyr-Abul-Makarem,0,NO,0,3206,0.0,Afternoon,NO
+2025-07-23 16:44,Pontoon,Taha-Zaki-Abdullah,0,NO,0,2917,0.0,Afternoon,NO
+2025-07-24 13:50,Floating,Martyr-El-Sayed,0,NO,0,3577,0.0,Afternoon,NO
+2025-07-25 05:50,Pontoon,Ahmed-el-Mansy,2,YES,32,3775,0.021,Morning,NO
+2025-07-26 00:56,Floating,Martyr-Abul-Makarem,0,NO,0,3279,0.0,Night,NO
+2025-07-27 02:50,Swing,El Ferdan,8,YES,145,3318,0.026,Night,NO
+2025-07-28 01:02,Pontoon,Ahmed-el-Mansy,1,YES,21,3139,0.024,Night,NO
+2025-07-29 11:23,Swing,El Ferdan,3,YES,53,2845,0.029,Daytime,NO
+2025-07-30 03:25,Floating,Martyr-El-Sayed,3,YES,54,3229,-0.007,Night,NO
+2025-07-31 20:41,Pontoon,Taha-Zaki-Abdullah,1,YES,15,3220,0.042,Rush Hour,NO
+2025-08-01 20:27,Floating,Martyr-El-Sayed,1,YES,15,3294,0.016,Rush Hour,NO
+2025-08-02 10:35,Swing,El Ferdan,3,YES,53,2880,0.022,Daytime,NO
+2025-08-03 12:42,Floating,Martyr-El-Sayed,0,NO,0,3939,0.0,Afternoon,NO
+2025-08-04 07:16,Swing,El Ferdan,3,YES,53,2721,0.033,Morning,YES
+2025-08-05 09:56,Swing,El Ferdan,6,YES,103,3186,0.018,Daytime,NO
+2025-08-06 06:34,Floating,Martyr-El-Sayed,2,YES,33,3555,0.016,Morning,NO
+2025-08-07 22:43,Swing,El Ferdan,4,YES,76,3198,0.045,Night,NO
+2025-08-08 11:46,Swing,El Ferdan,2,YES,36,3159,0.011,Morning,NO
+2025-08-09 04:24,Swing,El Ferdan,0,NO,0,2985,0.0,Night,NO
+2025-08-10 04:36,Floating,Martyr-Abul-Makarem,5,YES,93,3125,0.018,Night,NO
+2025-08-11 23:05,Pontoon,Taha-Zaki-Abdullah,1,YES,16,3084,0.026,Night,NO
+2025-08-12 14:24,Swing,El Ferdan,1,YES,15,3229,0.017,Afternoon,NO
+2025-08-13 10:58,Floating,Martyr-El-Sayed,0,NO,0,2872,0.0,Daytime,NO
+2025-08-14 17:05,Pontoon,Taha-Zaki-Abdullah,0,NO,0,2931,0.0,Evening,YES
+2025-08-15 18:57,Floating,Martyr-Abul-Makarem,1,YES,15,3322,0.021,Rush Hour,YES
+2025-08-16 08:12,Floating,Martyr-Abul-Makarem,0,NO,0,3061,0.0,Daytime,YES
+2025-08-17 18:30,Floating,Martyr-El-Sayed,1,YES,15,3375,0.022,Evening,NO
+2025-08-18 13:26,Swing,El Ferdan,1,YES,18,3183,0.021,Afternoon,NO
+2025-08-19 06:09,Swing,El Ferdan,2,YES,37,3372,0.029,Morning,NO
+2025-08-20 09:53,Swing,El Ferdan,0,NO,0,3856,0.0,Morning,NO
+2025-08-21 11:06,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3210,0.0,Daytime,NO
+2025-08-22 22:25,Floating,Martyr-El-Sayed,0,NO,0,2881,0.0,Night,NO
+2025-08-23 22:28,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3389,0.0,Night,NO
+2025-08-24 19:21,Floating,Martyr-Abul-Makarem,2,YES,38,3803,0.005,Evening,NO
+2025-08-25 02:58,Swing,El Ferdan,3,YES,55,2885,0.022,Night,NO
+2025-08-26 20:07,Floating,Martyr-Abul-Makarem,1,YES,20,3624,0.021,Evening,NO
+2025-08-27 16:43,Pontoon,Ahmed-el-Mansy,0,NO,0,3155,0.0,Afternoon,NO
+2025-08-28 21:53,Pontoon,Taha-Zaki-Abdullah,1,YES,16,3114,-0.005,Night,NO
+2025-08-29 10:44,Swing,El Ferdan,0,NO,0,3393,0.0,Morning,NO
+2025-08-30 23:40,Swing,El Ferdan,0,NO,0,2976,0.0,Night,NO
+2025-08-31 21:21,Pontoon,Ahmed-el-Mansy,0,NO,0,3784,0.0,Night,NO
+2025-09-01 00:01,Swing,El Ferdan,0,NO,0,3045,0.0,Night,NO
+2025-09-02 19:25,Floating,Martyr-El-Sayed,0,NO,0,3415,0.0,Rush Hour,NO
+2025-09-03 07:10,Pontoon,Taha-Zaki-Abdullah,3,YES,58,3190,0.032,Daytime,YES
+2025-09-04 10:17,Pontoon,Ahmed-el-Mansy,1,YES,17,3406,0.012,Morning,NO
+2025-09-05 17:05,Floating,Martyr-El-Sayed,1,YES,22,3197,0.011,Evening,YES
+2025-09-06 06:11,Swing,El Ferdan,2,YES,33,3850,0.026,Daytime,NO
+2025-09-07 05:38,Floating,Martyr-El-Sayed,1,YES,14,2785,0.017,Daytime,NO
+2025-09-08 03:47,Floating,Martyr-El-Sayed,0,NO,0,3242,0.0,Night,NO
+2025-09-09 21:59,Pontoon,Taha-Zaki-Abdullah,1,YES,21,2728,0.026,Night,NO
+2025-09-10 01:34,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3765,0.0,Night,NO
+2025-09-11 03:44,Floating,Martyr-Abul-Makarem,2,YES,40,3200,0.007,Night,NO
+2025-09-12 11:00,Swing,El Ferdan,0,NO,0,3145,0.0,Daytime,NO
+2025-09-13 04:11,Pontoon,Taha-Zaki-Abdullah,2,YES,37,3263,0.015,Night,NO
+2025-09-14 00:54,Floating,Martyr-Abul-Makarem,2,YES,34,3291,0.023,Night,NO
+2025-09-15 23:46,Floating,Martyr-Abul-Makarem,0,NO,0,3208,0.0,Night,NO
+2025-09-16 12:51,Floating,Martyr-El-Sayed,1,YES,15,3062,0.039,Afternoon,NO
+2025-09-17 21:46,Floating,Martyr-El-Sayed,0,NO,0,3241,0.0,Night,NO
+2025-09-18 07:46,Swing,El Ferdan,2,YES,37,3338,0.017,Daytime,YES
+2025-09-19 12:30,Swing,El Ferdan,0,NO,0,3616,0.0,Afternoon,NO
+2025-09-20 03:37,Floating,Martyr-Abul-Makarem,3,YES,53,3254,0.006,Night,NO
+2025-09-21 20:18,Pontoon,Ahmed-el-Mansy,0,NO,0,3569,0.0,Evening,NO
+2025-09-22 05:25,Floating,Martyr-Abul-Makarem,3,YES,48,3937,0.004,Morning,NO
+2025-09-23 04:14,Pontoon,Ahmed-el-Mansy,0,NO,0,3556,0.0,Night,NO
+2025-09-24 13:49,Pontoon,Ahmed-el-Mansy,1,YES,20,3334,0.016,Afternoon,NO
+2025-09-25 01:13,Pontoon,Taha-Zaki-Abdullah,2,YES,38,3001,0.022,Night,NO
+2025-09-26 01:48,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3182,0.0,Night,NO
+2025-09-27 11:09,Pontoon,Taha-Zaki-Abdullah,1,YES,15,3206,0.027,Daytime,NO
+2025-09-28 11:55,Pontoon,Taha-Zaki-Abdullah,3,YES,52,3594,0.014,Morning,NO
+2025-09-29 04:03,Floating,Martyr-El-Sayed,3,YES,51,3400,0.014,Night,NO
+2025-09-30 20:16,Pontoon,Taha-Zaki-Abdullah,1,YES,23,3687,-0.001,Rush Hour,NO
+2025-10-01 02:06,Pontoon,Taha-Zaki-Abdullah,1,YES,24,3366,0.03,Night,NO
+2025-10-02 06:44,Pontoon,Ahmed-el-Mansy,0,NO,0,2945,0.0,Morning,NO
+2025-10-03 03:12,Swing,El Ferdan,0,NO,0,3539,0.0,Night,NO
+2025-10-04 20:07,Floating,Martyr-El-Sayed,1,YES,20,3206,0.013,Rush Hour,NO
+2025-10-05 22:29,Pontoon,Ahmed-el-Mansy,1,YES,16,2952,0.027,Night,NO
+2025-10-06 22:15,Pontoon,Ahmed-el-Mansy,2,YES,29,3155,0.02,Night,NO
+2025-10-07 20:19,Floating,Martyr-El-Sayed,3,YES,48,2788,0.022,Rush Hour,NO
+2025-10-08 22:25,Pontoon,Ahmed-el-Mansy,1,YES,19,3670,0.017,Night,NO
+2025-10-09 16:41,Floating,Martyr-El-Sayed,0,NO,0,3361,0.0,Afternoon,NO
+2025-10-10 13:05,Floating,Martyr-Abul-Makarem,2,YES,31,2939,0.034,Afternoon,NO
+2025-10-11 09:24,Floating,Martyr-El-Sayed,2,YES,31,3269,0.012,Morning,NO
+2025-10-12 14:03,Pontoon,Taha-Zaki-Abdullah,2,YES,30,2968,0.019,Afternoon,NO
+2025-10-13 10:01,Pontoon,Ahmed-el-Mansy,1,YES,13,3226,0.004,Morning,NO
+2025-10-14 14:08,Floating,Martyr-Abul-Makarem,0,NO,0,3506,0.0,Afternoon,NO
+2025-10-15 15:59,Swing,El Ferdan,3,YES,49,2839,0.019,Afternoon,NO
+2025-10-16 21:13,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3219,0.0,Night,NO
+2025-10-17 20:53,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3245,0.024,Evening,NO
+2025-10-18 20:51,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3237,0.0,Rush Hour,NO
+2025-10-19 07:34,Swing,El Ferdan,2,YES,38,3030,0.023,Daytime,NO
+2025-10-20 10:54,Floating,Martyr-El-Sayed,1,YES,19,3172,0.019,Morning,NO
+2025-10-21 07:56,Floating,Martyr-Abul-Makarem,2,YES,34,3019,-0.003,Daytime,YES
+2025-10-22 18:27,Floating,Martyr-Abul-Makarem,1,YES,20,3548,0.009,Evening,YES
+2025-10-23 16:35,Pontoon,Ahmed-el-Mansy,1,YES,22,3686,0.034,Afternoon,NO
+2025-10-24 01:10,Floating,Martyr-El-Sayed,0,NO,0,3186,0.0,Night,NO
+2025-10-25 07:58,Pontoon,Ahmed-el-Mansy,0,NO,0,3139,0.0,Morning,YES
+2025-10-26 18:45,Swing,El Ferdan,4,YES,80,3470,0.007,Rush Hour,YES
+2025-10-27 21:27,Pontoon,Taha-Zaki-Abdullah,1,YES,16,3332,0.006,Night,NO
+2025-10-28 11:12,Floating,Martyr-Abul-Makarem,3,YES,54,3180,0.025,Daytime,NO
+2025-10-29 03:39,Floating,Martyr-Abul-Makarem,2,YES,42,2891,0.025,Night,NO
+2025-10-30 12:08,Pontoon,Ahmed-el-Mansy,2,YES,39,3489,0.024,Afternoon,NO
+2025-10-31 05:55,Floating,Martyr-Abul-Makarem,2,YES,39,2740,0.036,Morning,NO
+2025-11-01 20:09,Pontoon,Ahmed-el-Mansy,0,NO,0,2895,0.0,Rush Hour,NO
+2025-11-02 13:02,Pontoon,Taha-Zaki-Abdullah,2,YES,40,3498,0.009,Afternoon,NO
+2025-11-03 21:23,Pontoon,Taha-Zaki-Abdullah,2,YES,40,2978,0.017,Night,NO
+2025-11-04 00:17,Pontoon,Ahmed-el-Mansy,1,YES,21,3231,0.041,Night,NO
+2025-11-05 14:05,Pontoon,Ahmed-el-Mansy,1,YES,12,2826,0.009,Afternoon,NO
+2025-11-06 16:29,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3126,0.024,Afternoon,NO
+2025-11-07 04:19,Swing,El Ferdan,2,YES,35,2950,0.017,Night,NO
+2025-11-08 23:43,Floating,Martyr-El-Sayed,0,NO,0,2986,0.0,Night,NO
+2025-11-09 13:55,Floating,Martyr-El-Sayed,0,NO,0,3158,0.0,Afternoon,NO
+2025-11-10 12:05,Pontoon,Ahmed-el-Mansy,0,NO,0,3565,0.0,Afternoon,NO
+2025-11-11 20:03,Floating,Martyr-El-Sayed,1,YES,19,3276,0.003,Rush Hour,NO
+2025-11-12 20:17,Pontoon,Taha-Zaki-Abdullah,1,YES,14,3974,-0.001,Evening,NO
+2025-11-13 17:52,Pontoon,Ahmed-el-Mansy,1,YES,19,3824,0.011,Rush Hour,YES
+2025-11-14 16:16,Floating,Martyr-El-Sayed,0,NO,0,2928,0.0,Afternoon,NO
+2025-11-15 20:04,Floating,Martyr-El-Sayed,0,NO,0,3189,0.0,Rush Hour,NO
+2025-11-16 18:38,Pontoon,Ahmed-el-Mansy,0,NO,0,3669,0.0,Evening,YES
+2025-11-17 16:31,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3598,0.0,Afternoon,NO
+2025-11-18 21:14,Pontoon,Taha-Zaki-Abdullah,1,YES,23,3363,0.009,Night,NO
+2025-11-19 02:07,Pontoon,Ahmed-el-Mansy,1,YES,19,3024,0.033,Night,NO
+2025-11-20 18:10,Pontoon,Ahmed-el-Mansy,1,YES,19,3660,0.012,Evening,YES
+2025-11-21 09:59,Pontoon,Ahmed-el-Mansy,1,YES,13,3639,0.017,Morning,NO
+2025-11-22 22:07,Pontoon,Taha-Zaki-Abdullah,2,YES,37,3247,0.022,Night,NO
+2025-11-23 12:33,Pontoon,Ahmed-el-Mansy,1,YES,19,3092,0.007,Afternoon,NO
+2025-11-24 08:51,Floating,Martyr-El-Sayed,3,YES,53,3270,0.029,Morning,NO
+2025-11-25 00:20,Floating,Martyr-Abul-Makarem,1,YES,15,3615,0.032,Night,NO
+2025-11-26 04:43,Floating,Martyr-Abul-Makarem,0,NO,0,3449,0.0,Night,NO
+2025-11-27 15:33,Floating,Martyr-El-Sayed,2,YES,37,3071,0.014,Afternoon,NO
+2025-11-28 20:34,Swing,El Ferdan,2,YES,39,3440,0.029,Rush Hour,NO
+2025-11-29 22:58,Floating,Martyr-Abul-Makarem,0,NO,0,2821,0.0,Night,NO
+2025-11-30 20:07,Floating,Martyr-Abul-Makarem,1,YES,17,3128,0.018,Evening,NO
+2025-12-01 18:45,Floating,Martyr-Abul-Makarem,4,YES,78,3171,0.018,Evening,NO
+2025-12-02 19:24,Floating,Martyr-Abul-Makarem,0,NO,0,3473,0.0,Evening,NO
+2025-12-03 03:27,Floating,Martyr-El-Sayed,2,YES,36,3274,0.014,Night,NO
+2025-12-04 17:20,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3321,0.0,Rush Hour,YES
+2025-12-05 16:33,Swing,El Ferdan,1,YES,18,3679,0.014,Afternoon,NO
+2025-12-06 22:06,Pontoon,Ahmed-el-Mansy,1,YES,15,3286,0.024,Night,NO
+2025-12-07 00:07,Swing,El Ferdan,2,YES,44,3098,0.006,Night,NO
+2025-12-08 16:12,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3575,0.0,Afternoon,NO
+2025-12-09 16:41,Floating,Martyr-Abul-Makarem,0,NO,0,3498,0.0,Afternoon,NO
+2025-12-10 16:40,Swing,El Ferdan,0,NO,0,3281,0.0,Afternoon,NO
+2025-12-11 08:38,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3230,0.0,Morning,YES
+2025-12-12 07:43,Floating,Martyr-Abul-Makarem,2,YES,34,3105,0.021,Morning,NO
+2025-12-13 17:17,Floating,Martyr-El-Sayed,1,YES,20,3589,0.039,Evening,YES
+2025-12-14 08:38,Floating,Martyr-El-Sayed,2,YES,42,3319,0.022,Daytime,NO
+2025-12-15 05:02,Floating,Martyr-El-Sayed,0,NO,0,2740,0.0,Morning,NO
+2025-12-16 12:14,Floating,Martyr-El-Sayed,2,YES,40,3199,0.012,Afternoon,NO
+2025-12-17 03:34,Pontoon,Taha-Zaki-Abdullah,1,YES,15,3408,0.022,Night,NO
+2025-12-18 14:40,Floating,Martyr-Abul-Makarem,1,YES,22,2953,0.035,Afternoon,NO
+2025-12-19 04:06,Pontoon,Ahmed-el-Mansy,1,YES,19,3380,0.031,Night,NO
+2025-12-20 04:07,Floating,Martyr-El-Sayed,1,YES,21,2915,0.022,Night,NO
+2025-12-21 13:53,Floating,Martyr-Abul-Makarem,0,NO,0,3141,0.0,Afternoon,NO
+2025-12-22 14:52,Floating,Martyr-El-Sayed,4,YES,69,2911,0.022,Afternoon,NO
+2025-12-23 01:44,Pontoon,Taha-Zaki-Abdullah,1,YES,15,2987,0.018,Night,NO
+2025-12-24 11:20,Pontoon,Ahmed-el-Mansy,2,YES,36,3439,0.011,Morning,NO
+2025-12-25 21:56,Floating,Martyr-El-Sayed,0,NO,0,3163,0.0,Night,NO
+2025-12-26 04:16,Pontoon,Taha-Zaki-Abdullah,3,YES,54,3050,0.028,Night,NO
+2025-12-27 11:05,Swing,El Ferdan,0,NO,0,3446,0.0,Daytime,NO
+2025-12-28 05:54,Floating,Martyr-El-Sayed,4,YES,64,2736,0.035,Morning,NO
+2025-12-29 08:07,Pontoon,Ahmed-el-Mansy,0,NO,0,2834,0.0,Morning,NO
+2025-12-30 02:58,Pontoon,Taha-Zaki-Abdullah,3,YES,62,3580,0.007,Night,NO
+2025-12-31 01:40,Floating,Martyr-Abul-Makarem,0,NO,0,3089,0.0,Night,NO
+2026-01-01 06:02,Swing,El Ferdan,2,YES,39,3354,0.025,Morning,NO
+2026-01-02 01:45,Pontoon,Ahmed-el-Mansy,0,NO,0,3206,0.0,Night,NO
+2026-01-03 02:13,Pontoon,Ahmed-el-Mansy,0,NO,0,3451,0.0,Night,NO
+2026-01-04 18:58,Floating,Martyr-El-Sayed,2,YES,33,3037,0.012,Rush Hour,YES
+2026-01-05 22:26,Pontoon,Taha-Zaki-Abdullah,2,YES,31,3039,0.026,Night,NO
+2026-01-06 09:09,Pontoon,Ahmed-el-Mansy,1,YES,19,3503,0.023,Morning,NO
+2026-01-07 03:12,Floating,Martyr-Abul-Makarem,1,YES,21,3350,0.008,Night,NO
+2026-01-08 11:48,Swing,El Ferdan,0,NO,0,3247,0.0,Morning,NO
+2026-01-09 05:16,Floating,Martyr-El-Sayed,1,YES,17,3305,0.008,Morning,NO
+2026-01-10 17:14,Floating,Martyr-Abul-Makarem,2,YES,35,3844,0.03,Evening,NO
+2026-01-11 20:42,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3052,0.0,Rush Hour,NO
+2026-01-12 08:20,Pontoon,Ahmed-el-Mansy,2,YES,37,2400,0.025,Morning,NO
+2026-01-13 11:40,Pontoon,Ahmed-el-Mansy,1,YES,19,3000,0.034,Daytime,NO
+2026-01-14 21:32,Pontoon,Ahmed-el-Mansy,1,YES,23,3632,0.025,Night,NO
+2026-01-15 11:43,Pontoon,Taha-Zaki-Abdullah,1,YES,24,3284,0.015,Daytime,NO
+2026-01-16 20:43,Pontoon,Taha-Zaki-Abdullah,4,YES,75,3383,0.032,Evening,NO
+2026-01-17 15:46,Swing,El Ferdan,2,YES,36,3544,0.009,Afternoon,NO
+2026-01-18 19:56,Pontoon,Ahmed-el-Mansy,1,YES,18,3302,0.021,Evening,NO
+2026-01-19 21:58,Pontoon,Ahmed-el-Mansy,2,YES,38,3117,0.041,Night,NO
+2026-01-20 10:14,Pontoon,Ahmed-el-Mansy,1,YES,20,3684,0.012,Morning,NO
+2026-01-21 12:52,Pontoon,Ahmed-el-Mansy,1,YES,16,2872,0.018,Afternoon,NO
+2026-01-22 14:30,Swing,El Ferdan,3,YES,45,3625,0.018,Afternoon,NO
+2026-01-23 21:17,Floating,Martyr-El-Sayed,0,NO,0,3936,0.0,Night,NO
+2026-01-24 05:28,Pontoon,Ahmed-el-Mansy,2,YES,37,3734,0.005,Morning,NO
+2026-01-25 15:55,Floating,Martyr-Abul-Makarem,0,NO,0,3349,0.0,Afternoon,NO
+2026-01-26 17:18,Floating,Martyr-El-Sayed,1,YES,18,3791,0.014,Rush Hour,YES
+2026-01-27 19:23,Floating,Martyr-El-Sayed,0,NO,0,3718,0.0,Evening,NO
+2026-01-28 04:27,Pontoon,Ahmed-el-Mansy,0,NO,0,2869,0.0,Night,NO
+2026-01-29 07:01,Floating,Martyr-Abul-Makarem,1,YES,16,3247,0.025,Morning,YES
+2026-01-30 19:52,Floating,Martyr-Abul-Makarem,0,NO,0,3048,0.0,Rush Hour,NO
+2026-01-31 12:51,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3517,0.0,Afternoon,NO
+2026-02-01 17:00,Floating,Martyr-El-Sayed,1,YES,20,2924,0.028,Evening,YES
+2026-02-02 20:34,Pontoon,Ahmed-el-Mansy,0,NO,0,3537,0.0,Rush Hour,NO
+2026-02-03 06:25,Pontoon,Taha-Zaki-Abdullah,1,YES,17,3372,0.005,Morning,NO
+2026-02-04 06:45,Pontoon,Ahmed-el-Mansy,0,NO,0,3665,0.0,Daytime,NO
+2026-02-05 00:02,Floating,Martyr-Abul-Makarem,3,YES,60,3078,0.003,Night,NO
+2026-02-06 20:40,Swing,El Ferdan,2,YES,39,3201,0.013,Rush Hour,NO
+2026-02-07 03:46,Swing,El Ferdan,2,YES,37,3110,0.024,Night,NO
+2026-02-08 14:53,Pontoon,Ahmed-el-Mansy,1,YES,13,3790,0.02,Afternoon,NO
+2026-02-09 08:16,Floating,Martyr-Abul-Makarem,2,YES,43,2932,0.012,Morning,YES
+2026-02-10 01:39,Floating,Martyr-Abul-Makarem,1,YES,17,3229,0.015,Night,NO
+2026-02-11 19:51,Pontoon,Taha-Zaki-Abdullah,3,YES,53,3133,0.012,Evening,NO
+2026-02-12 19:34,Floating,Martyr-El-Sayed,2,YES,45,3341,0.036,Evening,NO
+2026-02-13 04:26,Pontoon,Taha-Zaki-Abdullah,2,YES,37,3655,0.021,Night,NO
+2026-02-14 17:15,Floating,Martyr-Abul-Makarem,1,YES,17,3123,0.007,Rush Hour,YES
+2026-02-15 04:56,Pontoon,Ahmed-el-Mansy,0,NO,0,3089,0.0,Night,NO
+2026-02-16 18:21,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3099,0.0,Rush Hour,YES
+2026-02-17 06:14,Floating,Martyr-Abul-Makarem,3,YES,54,3261,0.022,Morning,NO
+2026-02-18 16:11,Floating,Martyr-Abul-Makarem,1,YES,20,3659,0.008,Afternoon,NO
+2026-02-19 22:38,Floating,Martyr-Abul-Makarem,0,NO,0,3224,0.0,Night,NO
+2026-02-20 21:19,Pontoon,Ahmed-el-Mansy,1,YES,24,3481,0.027,Night,NO
+2026-02-21 08:32,Swing,El Ferdan,1,YES,18,2947,0.006,Morning,NO
+2026-02-22 12:03,Swing,El Ferdan,3,YES,62,2914,0.012,Afternoon,NO
+2026-02-23 19:58,Pontoon,Taha-Zaki-Abdullah,2,YES,40,3254,0.018,Rush Hour,NO
+2026-02-24 09:49,Pontoon,Ahmed-el-Mansy,1,YES,15,2958,0.001,Morning,NO
+2026-02-25 15:17,Floating,Martyr-El-Sayed,1,YES,21,3107,0.033,Afternoon,NO
+2026-02-26 22:55,Floating,Martyr-Abul-Makarem,0,NO,0,3261,0.0,Night,NO
+2026-02-27 08:05,Floating,Martyr-Abul-Makarem,0,NO,0,3335,0.0,Morning,YES
+2026-02-28 23:58,Pontoon,Taha-Zaki-Abdullah,2,YES,32,3284,0.018,Night,NO
+2026-03-01 10:57,Swing,El Ferdan,0,NO,0,2750,0.0,Morning,NO
+2026-03-02 23:03,Pontoon,Ahmed-el-Mansy,0,NO,0,3102,0.0,Night,NO
+2026-03-03 17:56,Swing,El Ferdan,2,YES,41,3187,0.031,Rush Hour,NO
+2026-03-04 23:41,Swing,El Ferdan,2,YES,29,2840,0.019,Night,NO
+2026-03-05 18:44,Floating,Martyr-Abul-Makarem,0,NO,0,3684,0.0,Evening,YES
+2026-03-06 15:02,Swing,El Ferdan,0,NO,0,3139,0.0,Afternoon,NO
+2026-03-07 22:12,Pontoon,Ahmed-el-Mansy,0,NO,0,3283,0.0,Night,NO
+2026-03-08 21:53,Swing,El Ferdan,4,YES,79,2980,0.015,Night,NO
+2026-03-09 18:53,Pontoon,Ahmed-el-Mansy,1,YES,18,3364,0.026,Evening,YES
+2026-03-10 01:50,Pontoon,Taha-Zaki-Abdullah,1,YES,21,2972,0.023,Night,NO
+2026-03-11 23:25,Swing,El Ferdan,2,YES,31,3234,0.018,Night,NO
+2026-03-12 14:28,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3440,0.0,Afternoon,NO
+2026-03-13 21:27,Swing,El Ferdan,5,YES,93,3557,0.029,Night,NO
+2026-03-14 18:47,Floating,Martyr-El-Sayed,0,NO,0,3167,0.0,Rush Hour,YES
+2026-03-15 19:56,Swing,El Ferdan,0,NO,0,3610,0.0,Evening,NO
+2026-03-16 09:28,Floating,Martyr-Abul-Makarem,0,NO,0,2873,0.0,Morning,NO
+2026-03-17 03:58,Pontoon,Ahmed-el-Mansy,1,YES,20,2908,0.023,Night,NO
+2026-03-18 03:07,Swing,El Ferdan,5,YES,98,3214,0.021,Night,NO
+2026-03-19 02:20,Floating,Martyr-El-Sayed,3,YES,56,3054,0.012,Night,NO
+2026-03-20 11:09,Pontoon,Ahmed-el-Mansy,1,YES,15,3322,0.024,Morning,NO
+2026-03-21 05:56,Floating,Martyr-Abul-Makarem,2,YES,32,2946,0.027,Morning,NO
+2026-03-22 06:52,Pontoon,Ahmed-el-Mansy,3,YES,49,3081,0.004,Daytime,NO
+2026-03-23 23:45,Floating,Martyr-El-Sayed,0,NO,0,3676,0.0,Night,NO
+2026-03-24 23:39,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3033,0.0,Night,NO
+2026-03-25 07:10,Swing,El Ferdan,0,NO,0,3287,0.0,Morning,YES
+2026-03-26 09:02,Pontoon,Taha-Zaki-Abdullah,1,YES,14,3161,0.03,Morning,NO
+2026-03-27 20:34,Floating,Martyr-El-Sayed,0,NO,0,3584,0.0,Evening,NO
+2026-03-28 02:02,Pontoon,Taha-Zaki-Abdullah,3,YES,59,3399,0.004,Night,NO
+2026-03-29 13:33,Pontoon,Ahmed-el-Mansy,3,YES,61,3230,0.012,Afternoon,NO
+2026-03-30 22:53,Floating,Martyr-El-Sayed,2,YES,41,3356,0.005,Night,NO
+2026-03-31 21:21,Floating,Martyr-El-Sayed,2,YES,43,3374,0.022,Night,NO
+2026-04-01 02:27,Floating,Martyr-El-Sayed,1,YES,17,3295,0.026,Night,NO
+2026-04-02 07:42,Pontoon,Ahmed-el-Mansy,0,NO,0,3114,0.0,Daytime,YES
+2026-04-03 15:45,Floating,Martyr-Abul-Makarem,1,YES,17,2981,0.03,Afternoon,NO
+2026-04-04 02:50,Pontoon,Ahmed-el-Mansy,3,YES,47,2645,0.01,Night,NO
+2026-04-05 09:29,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3026,0.0,Morning,NO
+2026-04-06 01:58,Pontoon,Ahmed-el-Mansy,2,YES,32,3104,0.015,Night,NO
+2026-04-07 03:12,Pontoon,Ahmed-el-Mansy,0,NO,0,3136,0.0,Night,NO
+2026-04-08 05:23,Floating,Martyr-El-Sayed,3,YES,55,2912,0.022,Morning,NO
+2026-04-09 09:56,Floating,Martyr-El-Sayed,0,NO,0,2906,0.0,Morning,NO
+2026-04-10 17:50,Pontoon,Ahmed-el-Mansy,2,YES,40,2894,0.016,Evening,YES
+2026-04-11 11:37,Floating,Martyr-Abul-Makarem,1,YES,19,3035,0.037,Daytime,NO
+2026-04-12 12:16,Swing,El Ferdan,3,YES,47,2982,0.024,Afternoon,NO
+2026-04-13 20:29,Floating,Martyr-Abul-Makarem,1,YES,16,2918,0.023,Rush Hour,NO
+2026-04-14 02:58,Pontoon,Ahmed-el-Mansy,1,YES,19,2919,0.027,Night,NO
+2026-04-15 19:38,Pontoon,Ahmed-el-Mansy,1,YES,22,2623,0.017,Evening,NO
+2026-04-16 17:26,Pontoon,Taha-Zaki-Abdullah,3,YES,61,3661,0.022,Rush Hour,YES
+2026-04-17 17:28,Floating,Martyr-El-Sayed,1,YES,15,3256,0.027,Evening,NO
+2026-04-18 00:56,Pontoon,Ahmed-el-Mansy,0,NO,0,3477,0.0,Night,NO
+2026-04-19 14:11,Swing,El Ferdan,2,YES,32,3388,0.037,Afternoon,NO
+2026-04-20 00:31,Floating,Martyr-El-Sayed,3,YES,56,3473,0.022,Night,NO
+2026-04-21 16:05,Floating,Martyr-Abul-Makarem,0,NO,0,3512,0.0,Afternoon,NO
+2026-04-22 04:50,Pontoon,Ahmed-el-Mansy,1,YES,21,3691,0.005,Night,NO
+2026-04-23 07:55,Floating,Martyr-Abul-Makarem,1,YES,18,3318,0.017,Morning,NO
+2026-04-24 14:15,Pontoon,Ahmed-el-Mansy,0,NO,0,3056,0.0,Afternoon,NO
+2026-04-25 01:02,Floating,Martyr-El-Sayed,0,NO,0,2855,0.0,Night,NO
+2026-04-26 18:02,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3582,0.0,Rush Hour,NO
+2026-04-27 22:30,Floating,Martyr-El-Sayed,2,YES,35,3099,0.014,Night,NO
+2026-04-28 19:48,Pontoon,Ahmed-el-Mansy,1,YES,16,2676,0.022,Evening,NO
+2026-04-29 20:23,Swing,El Ferdan,0,NO,0,2885,0.0,Evening,NO
+2026-04-30 22:03,Floating,Martyr-Abul-Makarem,2,YES,38,3278,0.008,Night,NO
+2026-05-01 12:37,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3307,0.0,Afternoon,NO
+2026-05-02 07:59,Floating,Martyr-Abul-Makarem,2,YES,33,3350,0.016,Morning,YES
+2026-05-03 20:55,Floating,Martyr-El-Sayed,0,NO,0,3816,0.0,Rush Hour,NO
+2026-05-04 00:56,Floating,Martyr-El-Sayed,2,YES,38,3094,0.004,Night,NO
+2026-05-05 05:34,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3475,0.0,Morning,NO
+2026-05-06 23:34,Pontoon,Ahmed-el-Mansy,0,NO,0,3307,0.0,Night,NO
+2026-05-07 01:25,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3479,0.0,Night,NO
+2026-05-08 17:17,Pontoon,Ahmed-el-Mansy,1,YES,18,3038,0.026,Evening,YES
+2026-05-09 18:19,Pontoon,Ahmed-el-Mansy,2,YES,29,3728,0.013,Evening,YES
+2026-05-10 14:46,Pontoon,Ahmed-el-Mansy,1,YES,18,3279,0.003,Afternoon,NO
+2026-05-11 02:53,Floating,Martyr-Abul-Makarem,1,YES,15,2573,0.017,Night,NO
+2026-05-12 15:34,Floating,Martyr-El-Sayed,1,YES,18,3534,0.016,Afternoon,NO
+2026-05-13 05:55,Floating,Martyr-El-Sayed,2,YES,36,2766,0.02,Daytime,NO
+2026-05-14 02:41,Floating,Martyr-Abul-Makarem,2,YES,32,3331,0.021,Night,NO
+2026-05-15 00:19,Floating,Martyr-Abul-Makarem,1,YES,17,2548,0.01,Night,NO
+2026-05-16 08:22,Floating,Martyr-El-Sayed,0,NO,0,3421,0.0,Morning,YES
+2026-05-17 01:44,Swing,El Ferdan,3,YES,52,3238,0.018,Night,NO
+2026-05-18 21:44,Swing,El Ferdan,2,YES,35,3094,0.02,Night,NO
+2026-05-19 05:56,Pontoon,Ahmed-el-Mansy,0,NO,0,3496,0.0,Morning,NO
+2026-05-20 03:38,Floating,Martyr-El-Sayed,0,NO,0,3978,0.0,Night,NO
+2026-05-21 07:06,Pontoon,Ahmed-el-Mansy,3,YES,48,3066,-0.01,Morning,YES
+2026-05-22 13:51,Floating,Martyr-Abul-Makarem,0,NO,0,3049,0.0,Afternoon,NO
+2026-05-23 22:51,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3008,0.0,Night,NO
+2026-05-24 21:31,Floating,Martyr-El-Sayed,0,NO,0,3221,0.0,Night,NO
+2026-05-25 22:33,Pontoon,Taha-Zaki-Abdullah,0,NO,0,2870,0.0,Night,NO
+2026-05-26 08:38,Floating,Martyr-Abul-Makarem,0,NO,0,3478,0.0,Morning,YES
+2026-05-27 03:49,Floating,Martyr-El-Sayed,0,NO,0,3390,0.0,Night,NO
+2026-05-28 21:57,Pontoon,Ahmed-el-Mansy,1,YES,20,3584,0.013,Night,NO
+2026-05-29 20:31,Floating,Martyr-El-Sayed,1,YES,23,3581,0.016,Evening,NO
+2026-05-30 23:00,Floating,Martyr-Abul-Makarem,2,YES,31,3018,0.028,Night,NO
+2026-05-31 11:18,Floating,Martyr-El-Sayed,1,YES,17,2948,0.017,Morning,NO
+2026-06-01 09:39,Swing,El Ferdan,1,YES,20,3335,0.008,Morning,NO
+2026-06-02 08:15,Floating,Martyr-El-Sayed,1,YES,14,3273,0.015,Morning,YES
+2026-06-03 01:00,Floating,Martyr-Abul-Makarem,0,NO,0,3306,0.0,Night,NO
+2026-06-04 13:01,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3634,0.0,Afternoon,NO
+2026-06-05 06:23,Pontoon,Taha-Zaki-Abdullah,1,YES,21,3382,0.01,Morning,NO
+2026-06-06 15:35,Swing,El Ferdan,2,YES,34,3293,0.01,Afternoon,NO
+2026-06-07 06:30,Pontoon,Ahmed-el-Mansy,0,NO,0,3449,0.0,Morning,NO
+2026-06-08 14:43,Swing,El Ferdan,3,YES,56,3333,0.009,Afternoon,NO
+2026-06-09 18:45,Pontoon,Taha-Zaki-Abdullah,3,YES,45,3701,0.013,Evening,NO
+2026-06-10 14:53,Floating,Martyr-Abul-Makarem,3,YES,53,2760,0.01,Afternoon,NO
+2026-06-11 18:32,Floating,Martyr-Abul-Makarem,2,YES,33,3152,0.032,Rush Hour,NO
+2026-06-12 12:59,Swing,El Ferdan,2,YES,31,2955,0.012,Afternoon,NO
+2026-06-13 18:47,Floating,Martyr-Abul-Makarem,2,YES,41,3249,0.013,Evening,NO
+2026-06-14 09:27,Swing,El Ferdan,1,YES,19,3040,0.031,Morning,NO
+2026-06-15 20:23,Swing,El Ferdan,2,YES,41,3324,-0.0,Rush Hour,NO
+2026-06-16 18:32,Pontoon,Ahmed-el-Mansy,0,NO,0,3249,0.0,Evening,NO
+2026-06-17 19:28,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3186,0.0,Evening,NO
+2026-06-18 14:52,Pontoon,Ahmed-el-Mansy,1,YES,23,3074,0.014,Afternoon,NO
+2026-06-19 06:47,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3129,0.0,Morning,NO
+2026-06-20 01:03,Swing,El Ferdan,2,YES,34,2993,0.01,Night,NO
+2026-06-21 10:26,Swing,El Ferdan,0,NO,0,3009,0.0,Morning,NO
+2026-06-22 03:36,Swing,El Ferdan,1,YES,19,3062,0.009,Night,NO
+2026-06-23 11:29,Pontoon,Ahmed-el-Mansy,1,YES,21,3417,0.009,Morning,NO
+2026-06-24 04:17,Pontoon,Taha-Zaki-Abdullah,1,YES,17,3358,0.003,Night,NO
+2026-06-25 01:51,Pontoon,Taha-Zaki-Abdullah,3,YES,45,3257,0.001,Night,NO
+2026-06-26 01:43,Floating,Martyr-El-Sayed,2,YES,36,3401,0.005,Night,NO
+2026-06-27 04:22,Pontoon,Taha-Zaki-Abdullah,2,YES,35,2885,0.019,Night,NO
+2026-06-28 14:34,Pontoon,Ahmed-el-Mansy,1,YES,11,3190,0.021,Afternoon,NO
+2026-06-29 20:02,Pontoon,Taha-Zaki-Abdullah,1,YES,26,3095,0.016,Rush Hour,NO
+2026-06-30 01:40,Swing,El Ferdan,3,YES,54,3265,0.008,Night,NO
+2026-07-01 22:42,Pontoon,Taha-Zaki-Abdullah,0,NO,0,2618,0.0,Night,NO
+2026-07-02 18:55,Floating,Martyr-Abul-Makarem,2,YES,41,3397,0.017,Evening,NO
+2026-07-03 17:46,Floating,Martyr-El-Sayed,1,YES,20,3235,0.01,Rush Hour,YES
+2026-07-04 20:25,Pontoon,Taha-Zaki-Abdullah,0,NO,0,2791,0.0,Rush Hour,NO
+2026-07-05 22:55,Floating,Martyr-Abul-Makarem,0,NO,0,3083,0.0,Night,NO
+2026-07-06 00:18,Pontoon,Ahmed-el-Mansy,2,YES,35,3633,-0.006,Night,NO
+2026-07-07 22:59,Pontoon,Ahmed-el-Mansy,0,NO,0,3738,0.0,Night,NO
+2026-07-08 11:54,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3194,0.0,Morning,NO
+2026-07-09 18:22,Floating,Martyr-Abul-Makarem,2,YES,38,3421,0.012,Evening,YES
+2026-07-10 05:26,Swing,El Ferdan,2,YES,33,2692,0.016,Morning,NO
+2026-07-11 08:01,Swing,El Ferdan,2,YES,29,3156,0.012,Daytime,NO
+2026-07-12 19:23,Pontoon,Taha-Zaki-Abdullah,0,NO,0,2846,0.0,Evening,NO
+2026-07-13 10:33,Swing,El Ferdan,3,YES,45,3104,0.014,Morning,NO
+2026-07-14 12:05,Pontoon,Taha-Zaki-Abdullah,2,YES,32,3034,0.004,Afternoon,NO
+2026-07-15 14:03,Swing,El Ferdan,1,YES,15,3781,0.021,Afternoon,NO
+2026-07-16 14:17,Floating,Martyr-El-Sayed,0,NO,0,3452,0.0,Afternoon,NO
+2026-07-17 02:47,Swing,El Ferdan,2,YES,38,3290,0.03,Night,NO
+2026-07-18 20:22,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3457,0.0,Rush Hour,NO
+2026-07-19 17:19,Pontoon,Ahmed-el-Mansy,0,NO,0,3827,0.0,Evening,YES
+2026-07-20 02:17,Floating,Martyr-Abul-Makarem,2,YES,29,3428,0.011,Night,NO
+2026-07-21 03:14,Swing,El Ferdan,1,YES,16,3192,0.019,Night,NO
+2026-07-22 15:46,Floating,Martyr-Abul-Makarem,2,YES,31,3376,0.019,Afternoon,NO
+2026-07-23 22:16,Floating,Martyr-Abul-Makarem,1,YES,21,3065,0.031,Night,NO
+2026-07-24 07:50,Pontoon,Ahmed-el-Mansy,0,NO,0,3439,0.0,Morning,YES
+2026-07-25 07:55,Pontoon,Ahmed-el-Mansy,2,YES,36,3401,0.013,Morning,YES
+2026-07-26 04:40,Floating,Martyr-Abul-Makarem,3,YES,65,2956,0.034,Night,NO
+2026-07-27 23:51,Floating,Martyr-El-Sayed,0,NO,0,3183,0.0,Night,NO
+2026-07-28 05:26,Floating,Martyr-El-Sayed,0,NO,0,3487,0.0,Daytime,NO
+2026-07-29 08:33,Pontoon,Taha-Zaki-Abdullah,1,YES,18,3334,-0.003,Morning,YES
+2026-07-30 05:13,Floating,Martyr-Abul-Makarem,2,YES,40,3135,0.024,Morning,NO
+2026-07-31 16:15,Floating,Martyr-El-Sayed,0,NO,0,3310,0.0,Afternoon,NO
+2026-08-01 05:16,Swing,El Ferdan,3,YES,47,3406,0.019,Daytime,NO
+2026-08-02 00:00,Pontoon,Ahmed-el-Mansy,1,YES,22,2807,0.02,Night,NO
+2026-08-03 17:53,Pontoon,Taha-Zaki-Abdullah,2,YES,38,3221,0.019,Rush Hour,NO
+2026-08-04 17:41,Floating,Martyr-El-Sayed,1,YES,18,2957,0.033,Evening,YES
+2026-08-05 18:05,Pontoon,Ahmed-el-Mansy,0,NO,0,3013,0.0,Evening,NO
+2026-08-06 22:59,Floating,Martyr-Abul-Makarem,3,YES,50,3587,0.005,Night,NO
+2026-08-07 23:21,Floating,Martyr-Abul-Makarem,0,NO,0,3345,0.0,Night,NO
+2026-08-08 02:49,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3199,0.0,Night,NO
+2026-08-09 21:39,Floating,Martyr-El-Sayed,4,YES,62,2769,0.027,Night,NO
+2026-08-10 09:49,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3393,0.0,Morning,NO
+2026-08-11 00:53,Pontoon,Taha-Zaki-Abdullah,2,YES,31,3489,0.022,Night,NO
+2026-08-12 04:01,Floating,Martyr-El-Sayed,2,YES,38,3394,0.005,Night,NO
+2026-08-13 05:38,Floating,Martyr-El-Sayed,0,NO,0,3621,0.0,Morning,NO
+2026-08-14 16:32,Floating,Martyr-El-Sayed,4,YES,76,2589,0.0,Afternoon,NO
+2026-08-15 17:06,Pontoon,Taha-Zaki-Abdullah,0,NO,0,2917,0.0,Evening,YES
+2026-08-16 09:24,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3178,0.0,Morning,NO
+2026-08-17 13:55,Swing,El Ferdan,0,NO,0,3185,0.0,Afternoon,NO
+2026-08-18 08:03,Swing,El Ferdan,2,YES,28,3115,0.023,Morning,YES
+2026-08-19 16:08,Swing,El Ferdan,1,YES,26,3269,0.017,Afternoon,NO
+2026-08-20 14:27,Pontoon,Taha-Zaki-Abdullah,1,YES,24,3211,0.03,Afternoon,NO
+2026-08-21 02:01,Swing,El Ferdan,4,YES,77,3297,0.024,Night,NO
+2026-08-22 15:23,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3736,0.0,Afternoon,NO
+2026-08-23 21:15,Floating,Martyr-El-Sayed,1,YES,25,2907,0.027,Night,NO
+2026-08-24 13:06,Swing,El Ferdan,4,YES,85,3317,0.008,Afternoon,NO
+2026-08-25 15:35,Floating,Martyr-El-Sayed,0,NO,0,2835,0.0,Afternoon,NO
+2026-08-26 16:47,Pontoon,Ahmed-el-Mansy,3,YES,53,3028,0.013,Afternoon,NO
+2026-08-27 03:21,Floating,Martyr-El-Sayed,3,YES,60,3139,0.024,Night,NO
+2026-08-28 10:14,Floating,Martyr-Abul-Makarem,0,NO,0,3344,0.0,Morning,NO
+2026-08-29 05:16,Floating,Martyr-El-Sayed,0,NO,0,3439,0.0,Daytime,NO
+2026-08-30 23:34,Floating,Martyr-El-Sayed,1,YES,16,3358,0.043,Night,NO
+2026-08-31 03:41,Pontoon,Taha-Zaki-Abdullah,4,YES,67,3115,0.019,Night,NO
+2026-09-01 01:07,Floating,Martyr-El-Sayed,0,NO,0,2625,0.0,Night,NO
+2026-09-02 19:47,Pontoon,Ahmed-el-Mansy,1,YES,16,3383,0.001,Rush Hour,NO
+2026-09-03 23:22,Swing,El Ferdan,0,NO,0,2992,0.0,Night,NO
+2026-09-04 11:21,Pontoon,Ahmed-el-Mansy,0,NO,0,3098,0.0,Morning,NO
+2026-09-05 23:07,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3021,0.019,Night,NO
+2026-09-06 11:47,Floating,Martyr-El-Sayed,1,YES,14,2954,0.022,Morning,NO
+2026-09-07 22:28,Swing,El Ferdan,1,YES,20,3900,0.001,Night,NO
+2026-09-08 13:23,Pontoon,Taha-Zaki-Abdullah,2,YES,39,4074,0.027,Afternoon,NO
+2026-09-09 17:36,Floating,Martyr-Abul-Makarem,0,NO,0,3025,0.0,Evening,NO
+2026-09-10 07:17,Swing,El Ferdan,1,YES,17,3119,0.01,Daytime,YES
+2026-09-11 11:27,Floating,Martyr-El-Sayed,1,YES,19,3087,0.009,Morning,NO
+2026-09-12 08:31,Pontoon,Taha-Zaki-Abdullah,1,YES,15,3530,0.016,Morning,YES
+2026-09-13 02:14,Pontoon,Ahmed-el-Mansy,2,YES,35,3141,-0.001,Night,NO
+2026-09-14 06:39,Pontoon,Taha-Zaki-Abdullah,1,YES,17,3140,0.02,Morning,NO
+2026-09-15 04:47,Swing,El Ferdan,3,YES,53,3417,0.016,Night,NO
+2026-09-16 00:06,Swing,El Ferdan,1,YES,16,2799,0.014,Night,NO
+2026-09-17 03:30,Floating,Martyr-El-Sayed,1,YES,17,3684,0.03,Night,NO
+2026-09-18 10:34,Swing,El Ferdan,3,YES,45,3113,0.009,Morning,NO
+2026-09-19 02:45,Floating,Martyr-El-Sayed,0,NO,0,3069,0.0,Night,NO
+2026-09-20 08:03,Floating,Martyr-El-Sayed,1,YES,22,3597,0.017,Morning,YES
+2026-09-21 12:14,Floating,Martyr-Abul-Makarem,0,NO,0,2460,0.0,Afternoon,NO
+2026-09-22 03:02,Swing,El Ferdan,3,YES,58,2691,0.023,Night,NO
+2026-09-23 12:18,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3176,0.0,Afternoon,NO
+2026-09-24 19:18,Pontoon,Taha-Zaki-Abdullah,1,YES,16,2655,0.018,Evening,NO
+2026-09-25 09:37,Floating,Martyr-Abul-Makarem,1,YES,16,3106,0.023,Morning,NO
+2026-09-26 05:42,Floating,Martyr-Abul-Makarem,1,YES,19,2533,0.019,Daytime,NO
+2026-09-27 20:27,Pontoon,Ahmed-el-Mansy,1,YES,17,2755,0.028,Evening,NO
+2026-09-28 00:44,Floating,Martyr-Abul-Makarem,1,YES,22,3082,0.018,Night,NO
+2026-09-29 11:44,Floating,Martyr-El-Sayed,2,YES,37,3417,0.014,Morning,NO
+2026-09-30 16:04,Floating,Martyr-El-Sayed,0,NO,0,3846,0.0,Afternoon,NO
+2026-10-01 03:39,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3094,0.0,Night,NO
+2026-10-02 04:17,Floating,Martyr-El-Sayed,2,YES,36,2781,0.01,Night,NO
+2026-10-03 14:27,Pontoon,Ahmed-el-Mansy,1,YES,22,3022,0.013,Afternoon,NO
+2026-10-04 14:58,Floating,Martyr-Abul-Makarem,2,YES,38,3641,0.013,Afternoon,NO
+2026-10-05 01:06,Pontoon,Ahmed-el-Mansy,0,NO,0,2571,0.0,Night,NO
+2026-10-06 08:45,Floating,Martyr-Abul-Makarem,1,YES,20,3162,0.0,Morning,YES
+2026-10-07 22:47,Pontoon,Ahmed-el-Mansy,0,NO,0,3373,0.0,Night,NO
+2026-10-08 11:41,Pontoon,Taha-Zaki-Abdullah,1,YES,18,3728,0.038,Daytime,NO
+2026-10-09 06:40,Floating,Martyr-Abul-Makarem,1,YES,17,3305,0.01,Daytime,NO
+2026-10-10 13:05,Floating,Martyr-El-Sayed,1,YES,19,3382,0.017,Afternoon,NO
+2026-10-11 16:06,Pontoon,Taha-Zaki-Abdullah,1,YES,15,3012,0.036,Afternoon,NO
+2026-10-12 12:18,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3060,0.0,Afternoon,NO
+2026-10-13 07:47,Floating,Martyr-Abul-Makarem,1,YES,19,3365,0.032,Morning,YES
+2026-10-14 08:01,Swing,El Ferdan,1,YES,19,3190,0.03,Morning,YES
+2026-10-15 21:15,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3289,0.0,Night,NO
+2026-10-16 06:52,Floating,Martyr-El-Sayed,1,YES,12,3225,-0.002,Morning,NO
+2026-10-17 11:06,Swing,El Ferdan,1,YES,21,2800,0.024,Morning,NO
+2026-10-18 16:28,Pontoon,Taha-Zaki-Abdullah,1,YES,16,3476,-0.002,Afternoon,NO
+2026-10-19 14:41,Floating,Martyr-Abul-Makarem,2,YES,39,2959,0.019,Afternoon,NO
+2026-10-20 20:38,Pontoon,Taha-Zaki-Abdullah,1,YES,22,3163,0.004,Evening,NO
+2026-10-21 04:22,Pontoon,Ahmed-el-Mansy,1,YES,19,2979,0.03,Night,NO
+2026-10-22 18:38,Pontoon,Ahmed-el-Mansy,3,YES,48,3331,0.012,Evening,YES
+2026-10-23 06:00,Swing,El Ferdan,1,YES,22,3292,0.012,Daytime,NO
+2026-10-24 01:59,Pontoon,Taha-Zaki-Abdullah,3,YES,57,2930,0.031,Night,NO
+2026-10-25 04:14,Floating,Martyr-Abul-Makarem,5,YES,86,3828,0.01,Night,NO
+2026-10-26 07:50,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3603,0.0,Morning,YES
+2026-10-27 09:28,Pontoon,Ahmed-el-Mansy,0,NO,0,3104,0.0,Morning,NO
+2026-10-28 07:28,Pontoon,Ahmed-el-Mansy,2,YES,30,3128,0.029,Morning,YES
+2026-10-29 08:26,Floating,Martyr-El-Sayed,0,NO,0,3505,0.0,Morning,YES
+2026-10-30 19:24,Pontoon,Taha-Zaki-Abdullah,2,YES,41,3441,0.022,Rush Hour,NO
+2026-10-31 16:58,Swing,El Ferdan,2,YES,34,3059,0.013,Afternoon,NO
+2026-11-01 16:50,Swing,El Ferdan,2,YES,30,3185,0.022,Afternoon,NO
+2026-11-02 01:40,Pontoon,Ahmed-el-Mansy,0,NO,0,3392,0.0,Night,NO
+2026-11-03 12:00,Pontoon,Ahmed-el-Mansy,0,NO,0,2969,0.0,Afternoon,NO
+2026-11-04 22:24,Floating,Martyr-El-Sayed,1,YES,18,3466,0.022,Night,NO
+2026-11-05 03:35,Pontoon,Ahmed-el-Mansy,1,YES,21,3604,0.028,Night,NO
+2026-11-06 06:28,Floating,Martyr-El-Sayed,3,YES,61,2922,0.028,Morning,NO
+2026-11-07 18:58,Pontoon,Taha-Zaki-Abdullah,1,YES,22,3290,0.01,Rush Hour,YES
+2026-11-08 04:44,Floating,Martyr-El-Sayed,0,NO,0,3505,0.0,Night,NO
+2026-11-09 08:56,Pontoon,Taha-Zaki-Abdullah,1,YES,21,3226,0.016,Daytime,NO
+2026-11-10 15:10,Floating,Martyr-Abul-Makarem,0,NO,0,2767,0.0,Afternoon,NO
+2026-11-11 12:41,Floating,Martyr-El-Sayed,1,YES,16,3279,0.017,Afternoon,NO
+2026-11-12 04:30,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3160,0.0,Night,NO
+2026-11-13 02:25,Swing,El Ferdan,2,YES,37,3332,0.022,Night,NO
+2026-11-14 11:46,Floating,Martyr-El-Sayed,0,NO,0,3199,0.0,Morning,NO
+2026-11-15 09:55,Floating,Martyr-Abul-Makarem,0,NO,0,3250,0.0,Morning,NO
+2026-11-16 21:54,Floating,Martyr-Abul-Makarem,3,YES,59,3531,0.005,Night,NO
+2026-11-17 20:35,Pontoon,Ahmed-el-Mansy,0,NO,0,3146,0.0,Evening,NO
+2026-11-18 07:33,Swing,El Ferdan,3,YES,52,3846,0.022,Morning,YES
+2026-11-19 04:18,Swing,El Ferdan,2,YES,32,3578,0.021,Night,NO
+2026-11-20 21:14,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3108,0.0,Night,NO
+2026-11-21 17:49,Pontoon,Taha-Zaki-Abdullah,1,YES,22,4080,0.009,Evening,YES
+2026-11-22 23:17,Floating,Martyr-Abul-Makarem,0,NO,0,3690,0.0,Night,NO
+2026-11-23 05:13,Floating,Martyr-El-Sayed,1,YES,20,3010,0.017,Morning,NO
+2026-11-24 20:54,Floating,Martyr-Abul-Makarem,3,YES,51,3135,0.029,Rush Hour,NO
+2026-11-25 17:38,Swing,El Ferdan,3,YES,54,3180,0.013,Evening,YES
+2026-11-26 03:10,Floating,Martyr-El-Sayed,0,NO,0,3026,0.0,Night,NO
+2026-11-27 09:40,Floating,Martyr-Abul-Makarem,1,YES,17,3167,0.03,Morning,NO
+2026-11-28 15:00,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3537,0.0,Afternoon,NO
+2026-11-29 22:20,Swing,El Ferdan,0,NO,0,2908,0.0,Night,NO
+2026-11-30 12:16,Floating,Martyr-Abul-Makarem,0,NO,0,3414,0.0,Afternoon,NO
+2026-12-01 21:22,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3238,0.0,Night,NO
+2026-12-02 16:01,Swing,El Ferdan,3,YES,48,3363,0.017,Afternoon,NO
+2026-12-03 19:37,Pontoon,Ahmed-el-Mansy,2,YES,39,3392,0.007,Rush Hour,NO
+2026-12-04 11:29,Pontoon,Taha-Zaki-Abdullah,1,YES,20,3302,0.024,Morning,NO
+2026-12-05 19:59,Floating,Martyr-El-Sayed,0,NO,0,3211,0.0,Evening,NO
+2026-12-06 07:49,Floating,Martyr-El-Sayed,1,YES,16,3466,0.025,Morning,YES
+2026-12-07 06:03,Floating,Martyr-El-Sayed,0,NO,0,3126,0.0,Morning,NO
+2026-12-08 22:52,Swing,El Ferdan,0,NO,0,3215,0.0,Night,NO
+2026-12-09 10:16,Floating,Martyr-El-Sayed,1,YES,18,3610,0.029,Daytime,NO
+2026-12-10 17:08,Swing,El Ferdan,6,YES,102,3138,0.026,Rush Hour,NO
+2026-12-11 10:35,Swing,El Ferdan,2,YES,28,3470,0.027,Daytime,NO
+2026-12-12 12:33,Pontoon,Taha-Zaki-Abdullah,1,YES,17,3510,0.023,Afternoon,NO
+2026-12-13 09:31,Swing,El Ferdan,1,YES,23,3417,0.017,Morning,NO
+2026-12-14 07:19,Floating,Martyr-El-Sayed,1,YES,17,2989,0.023,Morning,YES
+2026-12-15 14:30,Floating,Martyr-Abul-Makarem,2,YES,33,3306,0.024,Afternoon,NO
+2026-12-16 10:27,Floating,Martyr-El-Sayed,1,YES,19,3409,0.019,Morning,NO
+2026-12-17 20:38,Pontoon,Ahmed-el-Mansy,2,YES,40,3246,0.024,Evening,NO
+2026-12-18 07:08,Swing,El Ferdan,1,YES,16,3295,0.049,Morning,YES
+2026-12-19 12:01,Floating,Martyr-El-Sayed,2,YES,33,3035,0.017,Afternoon,NO
+2026-12-20 23:36,Floating,Martyr-El-Sayed,1,YES,19,3286,0.023,Night,NO
+2026-12-21 20:33,Floating,Martyr-Abul-Makarem,1,YES,19,2946,0.003,Evening,NO
+2026-12-22 12:52,Pontoon,Ahmed-el-Mansy,1,YES,16,2837,0.007,Afternoon,NO
+2026-12-23 01:06,Pontoon,Ahmed-el-Mansy,0,NO,0,3607,0.0,Night,NO
+2026-12-24 20:49,Pontoon,Ahmed-el-Mansy,1,YES,16,3250,0.017,Rush Hour,NO
+2026-12-25 18:47,Pontoon,Ahmed-el-Mansy,2,YES,42,3341,0.007,Rush Hour,YES
+2026-12-26 11:24,Floating,Martyr-Abul-Makarem,1,YES,16,3148,0.018,Morning,NO
+2026-12-27 04:40,Floating,Martyr-El-Sayed,3,YES,55,3188,0.041,Night,NO
+2026-12-28 22:07,Pontoon,Taha-Zaki-Abdullah,3,YES,58,3067,0.011,Night,NO
+2026-12-29 08:55,Floating,Martyr-Abul-Makarem,4,YES,78,2931,0.025,Morning,YES
+2026-12-30 01:31,Pontoon,Ahmed-el-Mansy,1,YES,18,3331,0.005,Night,NO
+2026-12-31 04:09,Floating,Martyr-Abul-Makarem,1,YES,20,2986,-0.004,Night,NO
+2027-01-01 16:24,Floating,Martyr-Abul-Makarem,0,NO,0,3036,0.0,Afternoon,NO
+2027-01-02 13:38,Swing,El Ferdan,1,YES,14,3653,0.029,Afternoon,NO
+2027-01-03 03:51,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3083,0.02,Night,NO
+2027-01-04 09:47,Floating,Martyr-El-Sayed,2,YES,37,3186,0.042,Morning,NO
+2027-01-05 07:14,Swing,El Ferdan,2,YES,40,3464,0.041,Morning,NO
+2027-01-06 05:31,Floating,Martyr-Abul-Makarem,2,YES,39,2916,0.019,Daytime,NO
+2027-01-07 16:58,Pontoon,Taha-Zaki-Abdullah,3,YES,56,2997,0.014,Afternoon,NO
+2027-01-08 14:08,Floating,Martyr-El-Sayed,4,YES,69,3640,0.011,Afternoon,NO
+2027-01-09 19:21,Floating,Martyr-Abul-Makarem,0,NO,0,2747,0.0,Rush Hour,NO
+2027-01-10 19:04,Swing,El Ferdan,2,YES,36,3838,0.01,Evening,NO
+2027-01-11 21:22,Swing,El Ferdan,2,YES,41,3131,0.029,Night,NO
+2027-01-12 16:35,Floating,Martyr-El-Sayed,3,YES,59,3489,0.031,Afternoon,NO
+2027-01-13 18:46,Floating,Martyr-El-Sayed,0,NO,0,3241,0.0,Evening,NO
+2027-01-14 06:45,Swing,El Ferdan,2,YES,31,3258,0.019,Morning,NO
+2027-01-15 12:22,Floating,Martyr-Abul-Makarem,1,YES,20,3377,0.002,Afternoon,NO
+2027-01-16 12:30,Floating,Martyr-El-Sayed,0,NO,0,3757,0.0,Afternoon,NO
+2027-01-17 03:10,Pontoon,Taha-Zaki-Abdullah,1,YES,21,3127,0.027,Night,NO
+2027-01-18 10:38,Floating,Martyr-El-Sayed,1,YES,18,2723,0.023,Morning,NO
+2027-01-19 10:32,Swing,El Ferdan,2,YES,41,3098,0.018,Daytime,NO
+2027-01-20 20:16,Pontoon,Taha-Zaki-Abdullah,0,NO,0,2867,0.0,Evening,NO
+2027-01-21 19:20,Pontoon,Taha-Zaki-Abdullah,1,YES,22,2872,0.019,Rush Hour,NO
+2027-01-22 13:15,Pontoon,Ahmed-el-Mansy,3,YES,45,3628,0.007,Afternoon,NO
+2027-01-23 12:26,Swing,El Ferdan,3,YES,50,3294,0.026,Afternoon,NO
+2027-01-24 22:19,Floating,Martyr-Abul-Makarem,0,NO,0,3868,0.0,Night,NO
+2027-01-25 05:35,Pontoon,Ahmed-el-Mansy,1,YES,17,2996,0.026,Morning,NO
+2027-01-26 18:23,Pontoon,Taha-Zaki-Abdullah,2,YES,37,3078,0.032,Rush Hour,YES
+2027-01-27 08:57,Swing,El Ferdan,2,YES,40,3241,0.033,Morning,NO
+2027-01-28 19:27,Floating,Martyr-El-Sayed,0,NO,0,3157,0.0,Evening,NO
+2027-01-29 01:39,Pontoon,Ahmed-el-Mansy,0,NO,0,3098,0.0,Night,NO
+2027-01-30 09:04,Floating,Martyr-Abul-Makarem,1,YES,21,3056,0.029,Daytime,NO
+2027-01-31 19:17,Swing,El Ferdan,2,YES,29,3467,0.038,Evening,NO
+2027-02-01 18:34,Floating,Martyr-Abul-Makarem,2,YES,36,3431,0.012,Evening,YES
+2027-02-02 09:31,Floating,Martyr-El-Sayed,1,YES,22,3722,0.021,Morning,NO
+2027-02-03 01:45,Swing,El Ferdan,1,YES,20,3242,-0.003,Night,NO
+2027-02-04 17:11,Floating,Martyr-El-Sayed,0,NO,0,3574,0.0,Evening,YES
+2027-02-05 04:15,Swing,El Ferdan,0,NO,0,3359,0.0,Night,NO
+2027-02-06 00:01,Pontoon,Ahmed-el-Mansy,1,YES,17,2913,0.019,Night,NO
+2027-02-07 08:27,Floating,Martyr-Abul-Makarem,2,YES,41,2725,0.034,Daytime,YES
+2027-02-08 16:32,Floating,Martyr-Abul-Makarem,1,YES,18,3386,0.042,Afternoon,NO
+2027-02-09 07:25,Pontoon,Ahmed-el-Mansy,0,NO,0,3350,0.0,Morning,NO
+2027-02-10 07:37,Floating,Martyr-El-Sayed,0,NO,0,3489,0.0,Morning,NO
+2027-02-11 20:00,Pontoon,Ahmed-el-Mansy,0,NO,0,3659,0.0,Rush Hour,NO
+2027-02-12 13:47,Swing,El Ferdan,2,YES,28,2707,0.019,Afternoon,NO
+2027-02-13 15:44,Floating,Martyr-Abul-Makarem,2,YES,40,3628,0.027,Afternoon,NO
+2027-02-14 01:36,Swing,El Ferdan,4,YES,73,3447,0.007,Night,NO
+2027-02-15 15:49,Pontoon,Taha-Zaki-Abdullah,1,YES,15,2990,0.018,Afternoon,NO
+2027-02-16 10:19,Pontoon,Ahmed-el-Mansy,1,YES,11,3280,0.02,Morning,NO
+2027-02-17 10:15,Swing,El Ferdan,0,NO,0,3469,0.0,Daytime,NO
+2027-02-18 18:30,Floating,Martyr-El-Sayed,1,YES,16,2999,0.015,Rush Hour,YES
+2027-02-19 21:33,Floating,Martyr-Abul-Makarem,0,NO,0,3164,0.0,Night,NO
+2027-02-20 07:57,Pontoon,Ahmed-el-Mansy,1,YES,16,3231,0.031,Morning,YES
+2027-02-21 19:46,Floating,Martyr-El-Sayed,0,NO,0,3237,0.0,Rush Hour,NO
+2027-02-22 17:29,Swing,El Ferdan,0,NO,0,3064,0.0,Evening,YES
+2027-02-23 21:16,Pontoon,Ahmed-el-Mansy,1,YES,19,3040,0.01,Night,NO
+2027-02-24 07:03,Floating,Martyr-Abul-Makarem,2,YES,42,3441,0.027,Morning,YES
+2027-02-25 06:27,Floating,Martyr-El-Sayed,0,NO,0,3239,0.0,Morning,NO
+2027-02-26 20:01,Floating,Martyr-El-Sayed,1,YES,21,3954,0.013,Rush Hour,NO
+2027-02-27 12:58,Floating,Martyr-El-Sayed,0,NO,0,3549,0.0,Afternoon,NO
+2027-02-28 13:15,Floating,Martyr-Abul-Makarem,3,YES,51,3540,0.013,Afternoon,NO
+2027-03-01 14:06,Pontoon,Ahmed-el-Mansy,0,NO,0,3810,0.0,Afternoon,NO
+2027-03-02 21:43,Floating,Martyr-Abul-Makarem,0,NO,0,2794,0.0,Night,NO
+2027-03-03 23:56,Floating,Martyr-Abul-Makarem,0,NO,0,3470,0.0,Night,NO
+2027-03-04 13:08,Floating,Martyr-El-Sayed,2,YES,38,3353,0.022,Afternoon,NO
+2027-03-05 02:37,Pontoon,Ahmed-el-Mansy,2,YES,40,3437,0.024,Night,NO
+2027-03-06 04:54,Pontoon,Ahmed-el-Mansy,0,NO,0,3359,0.0,Night,NO
+2027-03-07 22:22,Floating,Martyr-Abul-Makarem,1,YES,17,3056,0.033,Night,NO
+2027-03-08 18:08,Pontoon,Taha-Zaki-Abdullah,1,YES,15,3143,0.026,Evening,YES
+2027-03-09 11:17,Pontoon,Ahmed-el-Mansy,0,NO,0,3125,0.0,Morning,NO
+2027-03-10 10:08,Floating,Martyr-El-Sayed,3,YES,50,3564,-0.002,Morning,NO
+2027-03-11 00:01,Swing,El Ferdan,1,YES,24,2966,0.009,Night,NO
+2027-03-12 01:26,Floating,Martyr-El-Sayed,0,NO,0,2956,0.0,Night,NO
+2027-03-13 03:13,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3339,0.0,Night,NO
+2027-03-14 00:48,Floating,Martyr-El-Sayed,1,YES,17,3701,0.028,Night,NO
+2027-03-15 14:09,Swing,El Ferdan,4,YES,70,3205,-0.001,Afternoon,NO
+2027-03-16 09:47,Pontoon,Taha-Zaki-Abdullah,2,YES,37,3261,0.02,Morning,NO
+2027-03-17 12:39,Pontoon,Ahmed-el-Mansy,2,YES,32,3345,0.02,Afternoon,NO
+2027-03-18 06:22,Floating,Martyr-El-Sayed,2,YES,44,3678,0.008,Morning,NO
+2027-03-19 18:32,Pontoon,Ahmed-el-Mansy,2,YES,40,2671,0.018,Evening,YES
+2027-03-20 22:50,Swing,El Ferdan,2,YES,43,3086,0.014,Night,NO
+2027-03-21 03:41,Pontoon,Taha-Zaki-Abdullah,1,YES,20,3464,0.019,Night,NO
+2027-03-22 16:05,Floating,Martyr-El-Sayed,1,YES,20,3488,0.014,Afternoon,NO
+2027-03-23 04:50,Floating,Martyr-El-Sayed,3,YES,46,3120,0.026,Night,NO
+2027-03-24 01:56,Pontoon,Taha-Zaki-Abdullah,1,YES,22,3850,0.012,Night,NO
+2027-03-25 21:27,Pontoon,Taha-Zaki-Abdullah,1,YES,18,3433,0.012,Night,NO
+2027-03-26 08:58,Pontoon,Ahmed-el-Mansy,1,YES,19,3505,0.018,Morning,NO
+2027-03-27 06:14,Floating,Martyr-El-Sayed,0,NO,0,3060,0.0,Daytime,NO
+2027-03-28 13:21,Floating,Martyr-Abul-Makarem,0,NO,0,3061,0.0,Afternoon,NO
+2027-03-29 14:25,Pontoon,Taha-Zaki-Abdullah,1,YES,20,2939,0.016,Afternoon,NO
+2027-03-30 13:46,Floating,Martyr-El-Sayed,0,NO,0,3280,0.0,Afternoon,NO
+2027-03-31 06:41,Floating,Martyr-El-Sayed,1,YES,19,3149,0.013,Morning,NO
+2027-04-01 00:36,Swing,El Ferdan,2,YES,35,3244,0.009,Night,NO
+2027-04-02 09:02,Swing,El Ferdan,3,YES,59,3213,0.017,Morning,NO
+2027-04-03 16:49,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3404,0.0,Afternoon,NO
+2027-04-04 22:19,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3353,0.0,Night,NO
+2027-04-05 23:23,Swing,El Ferdan,2,YES,29,3065,0.023,Night,NO
+2027-04-06 08:58,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3258,0.0,Morning,YES
+2027-04-07 16:44,Floating,Martyr-Abul-Makarem,0,NO,0,2762,0.0,Afternoon,NO
+2027-04-08 10:47,Floating,Martyr-Abul-Makarem,0,NO,0,3317,0.0,Morning,NO
+2027-04-09 21:54,Floating,Martyr-El-Sayed,0,NO,0,3506,0.0,Night,NO
+2027-04-10 10:36,Floating,Martyr-El-Sayed,1,YES,26,3180,0.022,Morning,NO
+2027-04-11 10:41,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3265,0.0,Morning,NO
+2027-04-12 18:06,Swing,El Ferdan,4,YES,71,3664,0.037,Evening,YES
+2027-04-13 05:42,Swing,El Ferdan,1,YES,14,4047,0.016,Morning,NO
+2027-04-14 23:54,Swing,El Ferdan,1,YES,24,3232,0.032,Night,NO
+2027-04-15 19:02,Pontoon,Taha-Zaki-Abdullah,1,YES,18,3409,0.007,Evening,NO
+2027-04-16 14:16,Pontoon,Ahmed-el-Mansy,1,YES,14,2837,0.019,Afternoon,NO
+2027-04-17 11:00,Floating,Martyr-Abul-Makarem,0,NO,0,3269,0.0,Morning,NO
+2027-04-18 03:48,Floating,Martyr-El-Sayed,1,YES,22,3485,0.005,Night,NO
+2027-04-19 20:25,Swing,El Ferdan,1,YES,17,3226,0.021,Rush Hour,NO
+2027-04-20 16:56,Floating,Martyr-Abul-Makarem,0,NO,0,2815,0.0,Afternoon,NO
+2027-04-21 16:11,Floating,Martyr-Abul-Makarem,1,YES,21,3261,0.029,Afternoon,NO
+2027-04-22 12:51,Floating,Martyr-El-Sayed,0,NO,0,2912,0.0,Afternoon,NO
+2027-04-23 17:51,Floating,Martyr-El-Sayed,1,YES,19,3302,0.02,Rush Hour,YES
+2027-04-24 21:44,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3018,0.0,Night,NO
+2027-04-25 20:06,Swing,El Ferdan,3,YES,53,3215,0.025,Rush Hour,NO
+2027-04-26 00:07,Pontoon,Ahmed-el-Mansy,2,YES,33,2653,0.016,Night,NO
+2027-04-27 08:41,Floating,Martyr-Abul-Makarem,4,YES,68,3177,0.021,Morning,YES
+2027-04-28 19:07,Floating,Martyr-El-Sayed,2,YES,34,3175,0.01,Evening,NO
+2027-04-29 23:35,Swing,El Ferdan,2,YES,48,3430,0.025,Night,NO
+2027-04-30 06:32,Pontoon,Taha-Zaki-Abdullah,1,YES,17,3337,0.006,Daytime,NO
+2027-05-01 19:32,Floating,Martyr-Abul-Makarem,1,YES,15,3299,0.036,Evening,NO
+2027-05-02 22:04,Floating,Martyr-Abul-Makarem,1,YES,18,2980,0.031,Night,NO
+2027-05-03 17:52,Swing,El Ferdan,4,YES,77,3137,0.025,Rush Hour,NO
+2027-05-04 00:56,Floating,Martyr-El-Sayed,0,NO,0,3164,0.0,Night,NO
+2027-05-05 06:26,Pontoon,Ahmed-el-Mansy,0,NO,0,3552,0.0,Daytime,NO
+2027-05-06 02:22,Floating,Martyr-El-Sayed,1,YES,18,3125,0.003,Night,NO
+2027-05-07 21:16,Pontoon,Ahmed-el-Mansy,1,YES,19,3534,0.012,Night,NO
+2027-05-08 20:12,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3389,0.0,Rush Hour,NO
+2027-05-09 04:16,Swing,El Ferdan,1,YES,20,3403,0.011,Night,NO
+2027-05-10 14:45,Floating,Martyr-Abul-Makarem,3,YES,53,3880,-0.002,Afternoon,NO
+2027-05-11 10:48,Pontoon,Ahmed-el-Mansy,0,NO,0,3147,0.0,Morning,NO
+2027-05-12 14:32,Swing,El Ferdan,3,YES,53,3102,0.013,Afternoon,NO
+2027-05-13 21:03,Floating,Martyr-Abul-Makarem,0,NO,0,3168,0.0,Night,NO
+2027-05-14 22:59,Floating,Martyr-El-Sayed,0,NO,0,3209,0.0,Night,NO
+2027-05-15 12:50,Floating,Martyr-El-Sayed,1,YES,18,2964,0.019,Afternoon,NO
+2027-05-16 16:54,Floating,Martyr-Abul-Makarem,1,YES,20,3318,0.012,Afternoon,NO
+2027-05-17 15:43,Pontoon,Taha-Zaki-Abdullah,0,NO,0,2967,0.0,Afternoon,NO
+2027-05-18 19:43,Pontoon,Taha-Zaki-Abdullah,0,NO,0,2963,0.0,Rush Hour,NO
+2027-05-19 08:27,Swing,El Ferdan,5,YES,91,3381,0.014,Morning,YES
+2027-05-20 04:57,Floating,Martyr-Abul-Makarem,0,NO,0,3576,0.0,Night,NO
+2027-05-21 02:44,Pontoon,Taha-Zaki-Abdullah,2,YES,35,3018,0.004,Night,NO
+2027-05-22 12:20,Swing,El Ferdan,3,YES,51,3500,0.011,Afternoon,NO
+2027-05-23 09:12,Pontoon,Ahmed-el-Mansy,1,YES,13,3790,0.003,Morning,NO
+2027-05-24 04:58,Pontoon,Ahmed-el-Mansy,0,NO,0,3614,0.0,Night,NO
+2027-05-25 17:16,Floating,Martyr-El-Sayed,3,YES,50,3135,0.006,Evening,YES
+2027-05-26 00:02,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3009,0.0,Night,NO
+2027-05-27 12:34,Floating,Martyr-Abul-Makarem,3,YES,59,3237,-0.0,Afternoon,NO
+2027-05-28 15:54,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3262,0.016,Afternoon,NO
+2027-05-29 11:09,Floating,Martyr-El-Sayed,0,NO,0,2838,0.0,Daytime,NO
+2027-05-30 10:06,Swing,El Ferdan,1,YES,13,2809,0.018,Morning,NO
+2027-05-31 10:25,Swing,El Ferdan,5,YES,92,3538,0.017,Morning,NO
+2027-06-01 20:51,Floating,Martyr-Abul-Makarem,0,NO,0,3368,0.0,Rush Hour,NO
+2027-06-02 11:00,Floating,Martyr-Abul-Makarem,1,YES,15,3423,0.028,Morning,NO
+2027-06-03 06:00,Swing,El Ferdan,1,YES,15,3780,0.005,Morning,NO
+2027-06-04 19:54,Floating,Martyr-Abul-Makarem,0,NO,0,2819,0.0,Rush Hour,NO
+2027-06-05 07:32,Pontoon,Ahmed-el-Mansy,1,YES,20,3079,0.016,Morning,YES
+2027-06-06 15:23,Floating,Martyr-El-Sayed,0,NO,0,3428,0.0,Afternoon,NO
+2027-06-07 23:43,Pontoon,Taha-Zaki-Abdullah,3,YES,55,3272,0.028,Night,NO
+2027-06-08 06:29,Floating,Martyr-Abul-Makarem,1,YES,17,3226,0.014,Daytime,NO
+2027-06-09 18:52,Floating,Martyr-Abul-Makarem,0,NO,0,3523,0.0,Rush Hour,YES
+2027-06-10 09:12,Pontoon,Taha-Zaki-Abdullah,0,NO,0,2943,0.0,Morning,NO
+2027-06-11 09:12,Pontoon,Taha-Zaki-Abdullah,2,YES,33,2909,0.012,Morning,NO
+2027-06-12 17:19,Swing,El Ferdan,2,YES,39,3640,0.01,Evening,YES
+2027-06-13 13:03,Swing,El Ferdan,3,YES,58,3620,0.016,Afternoon,NO
+2027-06-14 08:51,Floating,Martyr-Abul-Makarem,1,YES,17,3088,0.031,Morning,NO
+2027-06-15 20:45,Floating,Martyr-Abul-Makarem,3,YES,50,3206,0.017,Rush Hour,NO
+2027-06-16 12:27,Swing,El Ferdan,2,YES,34,2945,0.015,Afternoon,NO
+2027-06-17 22:33,Floating,Martyr-Abul-Makarem,2,YES,37,3667,0.034,Night,NO
+2027-06-18 22:58,Swing,El Ferdan,3,YES,57,3055,0.006,Night,NO
+2027-06-19 05:25,Floating,Martyr-Abul-Makarem,2,YES,37,3067,0.025,Daytime,NO
+2027-06-20 09:50,Swing,El Ferdan,4,YES,65,3285,0.005,Morning,NO
+2027-06-21 10:38,Swing,El Ferdan,0,NO,0,3215,0.0,Morning,NO
+2027-06-22 03:50,Floating,Martyr-El-Sayed,2,YES,40,3057,0.002,Night,NO
+2027-06-23 09:41,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3181,0.021,Daytime,NO
+2027-06-24 07:58,Floating,Martyr-Abul-Makarem,0,NO,0,3005,0.0,Daytime,YES
+2027-06-25 20:18,Floating,Martyr-El-Sayed,3,YES,60,3032,0.016,Evening,NO
+2027-06-26 14:54,Swing,El Ferdan,0,NO,0,3048,0.0,Afternoon,NO
+2027-06-27 11:32,Swing,El Ferdan,2,YES,38,2920,0.014,Morning,NO
+2027-06-28 23:12,Pontoon,Taha-Zaki-Abdullah,1,YES,23,3672,0.011,Night,NO
+2027-06-29 00:24,Floating,Martyr-El-Sayed,4,YES,70,3049,0.023,Night,NO
+2027-06-30 14:21,Floating,Martyr-Abul-Makarem,1,YES,22,3181,0.02,Afternoon,NO
+2027-07-01 04:03,Floating,Martyr-El-Sayed,0,NO,0,3605,0.0,Night,NO
+2027-07-02 01:12,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3166,0.0,Night,NO
+2027-07-03 02:51,Pontoon,Ahmed-el-Mansy,2,YES,32,3246,0.004,Night,NO
+2027-07-04 11:47,Pontoon,Ahmed-el-Mansy,2,YES,28,3245,0.008,Morning,NO
+2027-07-05 16:08,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3139,0.0,Afternoon,NO
+2027-07-06 17:50,Floating,Martyr-Abul-Makarem,0,NO,0,3335,0.0,Evening,YES
+2027-07-07 19:49,Pontoon,Ahmed-el-Mansy,0,NO,0,3423,0.0,Rush Hour,NO
+2027-07-08 02:39,Floating,Martyr-El-Sayed,0,NO,0,3244,0.0,Night,NO
+2027-07-09 21:46,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3091,0.0,Night,NO
+2027-07-10 18:15,Floating,Martyr-Abul-Makarem,1,YES,13,3719,0.02,Evening,YES
+2027-07-11 06:24,Swing,El Ferdan,1,YES,18,3286,0.017,Daytime,NO
+2027-07-12 05:04,Pontoon,Taha-Zaki-Abdullah,2,YES,38,3692,0.014,Morning,NO
+2027-07-13 15:54,Floating,Martyr-El-Sayed,1,YES,17,3297,0.03,Afternoon,NO
+2027-07-14 05:18,Floating,Martyr-Abul-Makarem,3,YES,64,3037,0.019,Morning,NO
+2027-07-15 14:17,Floating,Martyr-Abul-Makarem,0,NO,0,3166,0.0,Afternoon,NO
+2027-07-16 23:34,Floating,Martyr-Abul-Makarem,2,YES,38,3247,0.01,Night,NO
+2027-07-17 06:44,Floating,Martyr-Abul-Makarem,1,YES,18,3043,0.028,Morning,NO
+2027-07-18 21:41,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3326,-0.003,Night,NO
+2027-07-19 11:46,Floating,Martyr-Abul-Makarem,1,YES,23,3373,0.002,Morning,NO
+2027-07-20 14:05,Floating,Martyr-Abul-Makarem,1,YES,18,2726,0.016,Afternoon,NO
+2027-07-21 19:46,Floating,Martyr-Abul-Makarem,0,NO,0,2956,0.0,Evening,NO
+2027-07-22 13:32,Swing,El Ferdan,2,YES,40,2869,0.036,Afternoon,NO
+2027-07-23 07:28,Pontoon,Taha-Zaki-Abdullah,2,YES,40,2437,0.02,Daytime,NO
+2027-07-24 21:32,Floating,Martyr-El-Sayed,2,YES,36,3297,0.021,Night,NO
+2027-07-25 06:07,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3460,0.0,Morning,NO
+2027-07-26 00:06,Swing,El Ferdan,1,YES,13,3482,0.019,Night,NO
+2027-07-27 20:50,Floating,Martyr-El-Sayed,0,NO,0,3204,0.0,Evening,NO
+2027-07-28 20:17,Floating,Martyr-Abul-Makarem,1,YES,18,3175,0.007,Evening,NO
+2027-07-29 08:26,Pontoon,Ahmed-el-Mansy,1,YES,14,2817,0.004,Morning,NO
+2027-07-30 13:03,Pontoon,Taha-Zaki-Abdullah,3,YES,47,3100,0.031,Afternoon,NO
+2027-07-31 11:47,Pontoon,Taha-Zaki-Abdullah,1,YES,16,3109,0.021,Daytime,NO
+2027-08-01 08:52,Pontoon,Ahmed-el-Mansy,2,YES,33,3132,0.004,Daytime,NO
+2027-08-02 20:05,Floating,Martyr-Abul-Makarem,0,NO,0,2866,0.0,Evening,NO
+2027-08-03 17:18,Floating,Martyr-Abul-Makarem,1,YES,12,2534,0.024,Rush Hour,YES
+2027-08-04 02:37,Pontoon,Ahmed-el-Mansy,2,YES,27,3249,0.017,Night,NO
+2027-08-05 09:07,Pontoon,Ahmed-el-Mansy,0,NO,0,3185,0.0,Morning,NO
+2027-08-06 09:19,Swing,El Ferdan,1,YES,18,3610,0.017,Morning,NO
+2027-08-07 06:07,Floating,Martyr-Abul-Makarem,1,YES,17,3442,0.018,Daytime,NO
+2027-08-08 23:12,Pontoon,Taha-Zaki-Abdullah,1,YES,24,3294,0.025,Night,NO
+2027-08-09 20:10,Pontoon,Ahmed-el-Mansy,1,YES,17,3757,-0.007,Evening,NO
+2027-08-10 12:01,Floating,Martyr-Abul-Makarem,0,NO,0,2941,0.0,Afternoon,NO
+2027-08-11 18:27,Floating,Martyr-El-Sayed,0,NO,0,2912,0.0,Evening,NO
+2027-08-12 09:18,Pontoon,Ahmed-el-Mansy,4,YES,68,3564,0.012,Daytime,NO
+2027-08-13 01:58,Pontoon,Ahmed-el-Mansy,1,YES,18,3392,0.025,Night,NO
+2027-08-14 09:21,Swing,El Ferdan,5,YES,103,3390,0.029,Daytime,NO
+2027-08-15 11:43,Pontoon,Ahmed-el-Mansy,2,YES,39,3360,0.014,Daytime,NO
+2027-08-16 08:06,Pontoon,Ahmed-el-Mansy,0,NO,0,3207,0.0,Morning,NO
+2027-08-17 13:14,Floating,Martyr-El-Sayed,4,YES,73,3074,0.014,Afternoon,NO
+2027-08-18 06:46,Pontoon,Taha-Zaki-Abdullah,1,YES,20,2802,0.03,Daytime,NO
+2027-08-19 21:21,Pontoon,Ahmed-el-Mansy,2,YES,33,3050,0.032,Night,NO
+2027-08-20 19:25,Pontoon,Taha-Zaki-Abdullah,1,YES,24,3127,0.021,Rush Hour,NO
+2027-08-21 16:31,Floating,Martyr-El-Sayed,1,YES,23,2926,0.021,Afternoon,NO
+2027-08-22 18:43,Pontoon,Ahmed-el-Mansy,1,YES,15,3285,0.003,Rush Hour,YES
+2027-08-23 06:26,Pontoon,Ahmed-el-Mansy,1,YES,21,2698,0.031,Daytime,NO
+2027-08-24 15:23,Floating,Martyr-El-Sayed,1,YES,14,3051,0.021,Afternoon,NO
+2027-08-25 05:17,Pontoon,Taha-Zaki-Abdullah,2,YES,38,3319,0.02,Morning,NO
+2027-08-26 20:09,Pontoon,Taha-Zaki-Abdullah,1,YES,18,3245,0.01,Evening,NO
+2027-08-27 07:45,Pontoon,Ahmed-el-Mansy,0,NO,0,3034,0.0,Morning,YES
+2027-08-28 22:17,Floating,Martyr-Abul-Makarem,1,YES,14,3311,-0.003,Night,NO
+2027-08-29 23:37,Pontoon,Ahmed-el-Mansy,1,YES,17,2885,0.016,Night,NO
+2027-08-30 19:08,Swing,El Ferdan,0,NO,0,3262,0.0,Evening,NO
+2027-08-31 01:12,Floating,Martyr-Abul-Makarem,0,NO,0,3402,0.0,Night,NO
+2027-09-01 13:29,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3337,0.0,Afternoon,NO
+2027-09-02 01:54,Floating,Martyr-El-Sayed,0,NO,0,3175,0.0,Night,NO
+2027-09-03 11:48,Pontoon,Taha-Zaki-Abdullah,1,YES,18,3120,0.022,Morning,NO
+2027-09-04 05:24,Pontoon,Ahmed-el-Mansy,0,NO,0,3734,0.0,Morning,NO
+2027-09-05 05:49,Pontoon,Ahmed-el-Mansy,0,NO,0,3177,0.0,Morning,NO
+2027-09-06 14:35,Pontoon,Ahmed-el-Mansy,0,NO,0,3543,0.0,Afternoon,NO
+2027-09-07 12:54,Floating,Martyr-Abul-Makarem,2,YES,33,2677,0.03,Afternoon,NO
+2027-09-08 09:21,Pontoon,Taha-Zaki-Abdullah,1,YES,15,3669,0.029,Daytime,NO
+2027-09-09 16:20,Swing,El Ferdan,0,NO,0,3732,0.0,Afternoon,NO
+2027-09-10 16:03,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3717,0.0,Afternoon,NO
+2027-09-11 00:40,Pontoon,Ahmed-el-Mansy,1,YES,15,3469,0.03,Night,NO
+2027-09-12 10:30,Pontoon,Ahmed-el-Mansy,2,YES,38,3054,0.001,Morning,NO
+2027-09-13 20:44,Swing,El Ferdan,2,YES,40,3655,0.041,Evening,NO
+2027-09-14 04:22,Swing,El Ferdan,0,NO,0,2827,0.0,Night,NO
+2027-09-15 00:00,Pontoon,Taha-Zaki-Abdullah,2,YES,38,3441,0.008,Night,NO
+2027-09-16 01:03,Pontoon,Taha-Zaki-Abdullah,0,NO,0,2962,0.0,Night,NO
+2027-09-17 18:08,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3079,0.0,Rush Hour,YES
+2027-09-18 09:00,Pontoon,Taha-Zaki-Abdullah,1,YES,17,3236,0.024,Morning,NO
+2027-09-19 09:47,Floating,Martyr-Abul-Makarem,0,NO,0,3467,0.0,Daytime,NO
+2027-09-20 17:31,Floating,Martyr-Abul-Makarem,3,YES,46,2745,0.017,Evening,YES
+2027-09-21 06:33,Pontoon,Ahmed-el-Mansy,2,YES,29,3600,0.009,Morning,NO
+2027-09-22 12:53,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3220,0.0,Afternoon,NO
+2027-09-23 09:23,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3456,0.0,Daytime,NO
+2027-09-24 03:33,Pontoon,Ahmed-el-Mansy,2,YES,27,3234,0.012,Night,NO
+2027-09-25 15:00,Floating,Martyr-Abul-Makarem,4,YES,78,3385,0.017,Afternoon,NO
+2027-09-26 23:54,Pontoon,Ahmed-el-Mansy,2,YES,35,3367,0.012,Night,NO
+2027-09-27 07:59,Floating,Martyr-El-Sayed,0,NO,0,3254,0.0,Morning,YES
+2027-09-28 08:36,Pontoon,Taha-Zaki-Abdullah,2,YES,41,2832,0.032,Morning,NO
+2027-09-29 04:33,Swing,El Ferdan,1,YES,16,2618,0.028,Night,NO
+2027-09-30 03:06,Pontoon,Taha-Zaki-Abdullah,3,YES,57,3109,0.039,Night,NO
+2027-10-01 12:04,Swing,El Ferdan,5,YES,107,3205,0.012,Afternoon,NO
+2027-10-02 15:37,Floating,Martyr-Abul-Makarem,2,YES,46,3182,0.017,Afternoon,NO
+2027-10-03 02:19,Pontoon,Ahmed-el-Mansy,1,YES,17,3368,0.009,Night,NO
+2027-10-04 11:47,Floating,Martyr-El-Sayed,3,YES,52,3181,0.02,Morning,NO
+2027-10-05 14:29,Floating,Martyr-Abul-Makarem,1,YES,20,3026,0.01,Afternoon,NO
+2027-10-06 16:18,Floating,Martyr-Abul-Makarem,2,YES,35,3018,0.027,Afternoon,NO
+2027-10-07 23:40,Pontoon,Ahmed-el-Mansy,0,NO,0,2707,0.0,Night,NO
+2027-10-08 05:15,Pontoon,Taha-Zaki-Abdullah,5,YES,97,2781,0.042,Morning,NO
+2027-10-09 05:37,Floating,Martyr-Abul-Makarem,3,YES,49,3114,0.009,Morning,NO
+2027-10-10 10:00,Swing,El Ferdan,4,YES,82,3332,0.006,Daytime,NO
+2027-10-11 04:04,Pontoon,Taha-Zaki-Abdullah,2,YES,41,3611,0.018,Night,NO
+2027-10-12 15:42,Floating,Martyr-Abul-Makarem,2,YES,40,3147,0.016,Afternoon,NO
+2027-10-13 07:57,Swing,El Ferdan,1,YES,23,3370,0.012,Morning,YES
+2027-10-14 06:39,Floating,Martyr-El-Sayed,0,NO,0,3494,0.0,Morning,NO
+2027-10-15 17:44,Pontoon,Ahmed-el-Mansy,0,NO,0,3489,0.0,Rush Hour,NO
+2027-10-16 15:02,Pontoon,Taha-Zaki-Abdullah,4,YES,62,3404,-0.0,Afternoon,NO
+2027-10-17 09:48,Swing,El Ferdan,1,YES,18,3598,0.024,Morning,NO
+2027-10-18 12:02,Floating,Martyr-El-Sayed,2,YES,26,3700,0.009,Afternoon,NO
+2027-10-19 15:57,Pontoon,Ahmed-el-Mansy,2,YES,36,2933,0.01,Afternoon,NO
+2027-10-20 15:59,Floating,Martyr-El-Sayed,1,YES,19,3627,0.037,Afternoon,NO
+2027-10-21 13:51,Swing,El Ferdan,1,YES,15,3123,0.025,Afternoon,NO
+2027-10-22 20:26,Swing,El Ferdan,2,YES,45,3540,0.012,Rush Hour,NO
+2027-10-23 15:32,Pontoon,Ahmed-el-Mansy,4,YES,63,3212,0.015,Afternoon,NO
+2027-10-24 04:48,Floating,Martyr-El-Sayed,1,YES,16,3438,0.018,Night,NO
+2027-10-25 13:49,Swing,El Ferdan,2,YES,37,3693,0.034,Afternoon,NO
+2027-10-26 16:53,Pontoon,Ahmed-el-Mansy,0,NO,0,3433,0.0,Afternoon,NO
+2027-10-27 21:52,Floating,Martyr-El-Sayed,2,YES,38,2804,0.001,Night,NO
+2027-10-28 08:38,Floating,Martyr-Abul-Makarem,0,NO,0,3042,0.0,Morning,NO
+2027-10-29 22:21,Floating,Martyr-El-Sayed,0,NO,0,3238,0.0,Night,NO
+2027-10-30 02:26,Floating,Martyr-El-Sayed,0,NO,0,3192,0.0,Night,NO
+2027-10-31 00:41,Pontoon,Ahmed-el-Mansy,2,YES,37,3825,0.027,Night,NO
+2027-11-01 03:39,Swing,El Ferdan,2,YES,28,3541,0.026,Night,NO
+2027-11-02 20:15,Floating,Martyr-Abul-Makarem,1,YES,14,2924,0.021,Evening,NO
+2027-11-03 12:22,Floating,Martyr-El-Sayed,1,YES,18,3569,0.012,Afternoon,NO
+2027-11-04 19:57,Floating,Martyr-El-Sayed,1,YES,21,2938,0.031,Rush Hour,NO
+2027-11-05 20:29,Floating,Martyr-Abul-Makarem,1,YES,16,3548,0.019,Evening,NO
+2027-11-06 18:36,Floating,Martyr-El-Sayed,1,YES,16,3137,0.019,Evening,YES
+2027-11-07 11:22,Floating,Martyr-El-Sayed,2,YES,36,3098,0.02,Morning,NO
+2027-11-08 09:52,Pontoon,Ahmed-el-Mansy,2,YES,38,3608,-0.0,Morning,NO
+2027-11-09 11:26,Swing,El Ferdan,3,YES,55,2629,0.024,Morning,NO
+2027-11-10 13:19,Pontoon,Ahmed-el-Mansy,0,NO,0,3863,0.0,Afternoon,NO
+2027-11-11 13:46,Floating,Martyr-Abul-Makarem,1,YES,16,3292,0.017,Afternoon,NO
+2027-11-12 18:42,Swing,El Ferdan,3,YES,48,2850,0.023,Evening,NO
+2027-11-13 12:49,Pontoon,Taha-Zaki-Abdullah,1,YES,16,3706,0.017,Afternoon,NO
+2027-11-14 04:57,Pontoon,Ahmed-el-Mansy,0,NO,0,3412,0.0,Night,NO
+2027-11-15 03:11,Floating,Martyr-Abul-Makarem,3,YES,58,3554,0.023,Night,NO
+2027-11-16 12:40,Pontoon,Ahmed-el-Mansy,1,YES,17,3031,0.011,Afternoon,NO
+2027-11-17 00:16,Swing,El Ferdan,4,YES,76,3603,0.03,Night,NO
+2027-11-18 17:39,Pontoon,Ahmed-el-Mansy,0,NO,0,2786,0.0,Rush Hour,YES
+2027-11-19 12:56,Pontoon,Ahmed-el-Mansy,0,NO,0,3622,0.0,Afternoon,NO
+2027-11-20 07:31,Swing,El Ferdan,0,NO,0,3285,0.0,Morning,NO
+2027-11-21 19:37,Pontoon,Ahmed-el-Mansy,1,YES,20,3207,0.015,Rush Hour,NO
+2027-11-22 03:24,Floating,Martyr-El-Sayed,0,NO,0,3423,0.0,Night,NO
+2027-11-23 17:42,Swing,El Ferdan,0,NO,0,3090,0.0,Rush Hour,YES
+2027-11-24 22:06,Pontoon,Ahmed-el-Mansy,0,NO,0,2714,0.0,Night,NO
+2027-11-25 14:31,Pontoon,Taha-Zaki-Abdullah,2,YES,40,4029,-0.002,Afternoon,NO
+2027-11-26 15:01,Pontoon,Ahmed-el-Mansy,4,YES,76,3161,0.02,Afternoon,NO
+2027-11-27 06:08,Floating,Martyr-El-Sayed,0,NO,0,3571,0.0,Morning,NO
+2027-11-28 13:01,Pontoon,Taha-Zaki-Abdullah,0,NO,0,2745,0.0,Afternoon,NO
+2027-11-29 08:05,Pontoon,Ahmed-el-Mansy,2,YES,35,3540,0.009,Morning,YES
+2027-11-30 21:01,Pontoon,Ahmed-el-Mansy,1,YES,16,2658,0.032,Night,NO
+2027-12-01 07:50,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3295,0.0,Daytime,NO
+2027-12-02 13:55,Floating,Martyr-El-Sayed,3,YES,59,3018,-0.005,Afternoon,NO
+2027-12-03 05:02,Floating,Martyr-El-Sayed,1,YES,20,3195,0.035,Morning,NO
+2027-12-04 11:16,Pontoon,Ahmed-el-Mansy,0,NO,0,3115,0.0,Daytime,NO
+2027-12-05 07:32,Pontoon,Taha-Zaki-Abdullah,1,YES,20,3566,0.024,Daytime,YES
+2027-12-06 17:22,Pontoon,Ahmed-el-Mansy,1,YES,17,3358,0.023,Evening,NO
+2027-12-07 19:12,Pontoon,Ahmed-el-Mansy,0,NO,0,2895,0.0,Evening,NO
+2027-12-08 01:56,Floating,Martyr-El-Sayed,1,YES,19,3596,0.007,Night,NO
+2027-12-09 08:51,Floating,Martyr-Abul-Makarem,2,YES,47,3405,0.012,Daytime,NO
+2027-12-10 01:14,Swing,El Ferdan,1,YES,22,3232,0.004,Night,NO
+2027-12-11 19:38,Pontoon,Ahmed-el-Mansy,3,YES,58,3179,0.019,Rush Hour,NO
+2027-12-12 16:16,Swing,El Ferdan,2,YES,28,3366,0.006,Afternoon,NO
+2027-12-13 13:08,Swing,El Ferdan,3,YES,53,3692,-0.004,Afternoon,NO
+2027-12-14 13:29,Floating,Martyr-El-Sayed,3,YES,56,3154,0.025,Afternoon,NO
+2027-12-15 07:37,Pontoon,Taha-Zaki-Abdullah,1,YES,14,3179,0.018,Daytime,YES
+2027-12-16 18:04,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3261,0.0,Rush Hour,NO
+2027-12-17 18:16,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3383,0.0,Rush Hour,YES
+2027-12-18 12:19,Floating,Martyr-El-Sayed,0,NO,0,3058,0.0,Afternoon,NO
+2027-12-19 06:35,Floating,Martyr-El-Sayed,2,YES,36,3897,0.03,Morning,NO
+2027-12-20 18:16,Pontoon,Ahmed-el-Mansy,1,YES,13,3081,0.022,Evening,YES
+2027-12-21 22:56,Pontoon,Ahmed-el-Mansy,0,NO,0,3275,0.0,Night,NO
+2027-12-22 02:33,Swing,El Ferdan,2,YES,35,3492,0.005,Night,NO
+2027-12-23 20:39,Pontoon,Ahmed-el-Mansy,0,NO,0,3424,0.0,Rush Hour,NO
+2027-12-24 23:01,Swing,El Ferdan,1,YES,14,3510,0.036,Night,NO
+2027-12-25 12:53,Pontoon,Taha-Zaki-Abdullah,4,YES,68,3233,0.004,Afternoon,NO
+2027-12-26 15:34,Swing,El Ferdan,0,NO,0,3655,0.0,Afternoon,NO
+2027-12-27 17:11,Floating,Martyr-Abul-Makarem,2,YES,28,2308,0.025,Evening,NO
+2027-12-28 05:29,Floating,Martyr-Abul-Makarem,3,YES,51,3609,0.016,Morning,NO
+2027-12-29 08:12,Floating,Martyr-El-Sayed,1,YES,17,3747,0.013,Morning,YES
+2027-12-30 17:50,Floating,Martyr-Abul-Makarem,0,NO,0,2981,0.0,Evening,NO
+2027-12-31 10:15,Pontoon,Taha-Zaki-Abdullah,0,NO,0,3268,0.0,Morning,NO
+2028-01-01 01:29,Pontoon,Taha-Zaki-Abdullah,1,YES,18,2963,0.012,Night,NO
+2028-01-02 07:21,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3277,0.001,Morning,YES
+2028-01-03 05:59,Pontoon,Taha-Zaki-Abdullah,1,YES,16,2837,0.013,Morning,NO
+2028-01-04 18:05,Swing,El Ferdan,0,NO,0,3205,0.0,Evening,YES
+2028-01-05 10:54,Floating,Martyr-Abul-Makarem,1,YES,15,3203,0.014,Morning,NO
+2028-01-06 18:04,Floating,Martyr-El-Sayed,2,YES,30,2869,0.019,Rush Hour,NO
+2028-01-07 21:22,Floating,Martyr-Abul-Makarem,2,YES,38,3319,0.033,Night,NO
+2028-01-08 05:06,Floating,Martyr-Abul-Makarem,1,YES,19,3390,0.02,Daytime,NO
+2028-01-09 11:11,Floating,Martyr-El-Sayed,1,YES,17,3468,0.007,Morning,NO
+2028-01-10 16:13,Swing,El Ferdan,2,YES,30,3222,0.011,Afternoon,NO
+2028-01-11 05:57,Swing,El Ferdan,1,YES,18,3513,0.017,Morning,NO
+2028-01-12 03:00,Pontoon,Ahmed-el-Mansy,0,NO,0,3173,0.0,Night,NO
+2028-01-13 02:04,Floating,Martyr-El-Sayed,1,YES,20,3697,0.011,Night,NO
+2028-01-14 13:37,Floating,Martyr-El-Sayed,2,YES,35,3252,0.028,Afternoon,NO
+2028-01-15 02:42,Floating,Martyr-Abul-Makarem,4,YES,73,3429,0.04,Night,NO
+2028-01-16 23:55,Swing,El Ferdan,4,YES,80,2974,0.014,Night,NO
+2028-01-17 22:14,Pontoon,Ahmed-el-Mansy,0,NO,0,3325,0.0,Night,NO
+2028-01-18 03:09,Pontoon,Taha-Zaki-Abdullah,1,YES,19,3120,0.041,Night,NO
+2028-01-19 13:55,Floating,Martyr-Abul-Makarem,0,NO,0,3265,0.0,Afternoon,NO
+2028-01-20 15:57,Floating,Martyr-Abul-Makarem,2,YES,28,3169,0.019,Afternoon,NO
+2028-01-21 12:36,Pontoon,Taha-Zaki-Abdullah,2,YES,27,3601,0.011,Afternoon,NO
+2028-01-22 17:46,Swing,El Ferdan,2,YES,27,3191,0.029,Evening,NO
+2028-01-23 10:55,Floating,Martyr-El-Sayed,3,YES,61,2670,0.046,Daytime,NO
+2028-01-24 03:50,Swing,El Ferdan,1,YES,20,3532,0.011,Night,NO
+2028-01-25 22:24,Floating,Martyr-El-Sayed,0,NO,0,3550,0.0,Night,NO
